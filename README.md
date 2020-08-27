@@ -1,6 +1,20 @@
 # video-game-text-corpora
 Data and code for a paper about video game text corpora.
 
+## Datasets
+
+- Torchlight II quest texts: quest dialogue, main quest summaries and GUI text in [CSV-format](https://github.com/hmi-utwente/video-game-text-corpora/raw/master/Torchlight%20II/data/dataset_200630.csv).
+- Star Wars: Knights of the Old republic: branching player and NPC dialogue in [CSV-format](https://github.com/hmi-utwente/video-game-text-corpora/blob/master/Star%20Wars:%20Knights%20of%20the%20Old%20Republic/data/dataset_20200716.csv?raw=true).
+- The Elder Scrolls (Arena, Daggerfall, Morrowind, Oblivion, Skyrim and The Elder Scrolls: Online): in-game books in [JSON-format](https://github.com/hmi-utwente/video-game-text-corpora/blob/master/The%20Elder%20Scrolls/data/imperial_library_20200626.json?raw=true).
+
+## Code
+
+Each game-folder has a `src/` folder that contains the code for creating the dataset. 
+It should give some insight in how the data was extracted. 
+
+For TorchLight II and SW:KOTOR: 
+before you can run the code, you should have access to the original game files from which the data was extracted. 
+
 ## Scientific paper
 
 This repository is for the research paper *Fantastic Strings and Where to Find Them: The Quest for High-Quality Video Game Text Corpora*, 
