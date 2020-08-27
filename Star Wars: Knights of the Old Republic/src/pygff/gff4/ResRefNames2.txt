@@ -1,0 +1,3798 @@
+and000im_gft_amulet             Tevinter Chantry Amulet
+and000ip_amulet_container       Chest
+and100cr_anders                 Anders
+and110cr_angry_refugee          Angry Refugee
+and110cr_street_archer          Refugee Bowman
+and110cr_street_thug            Refugee
+and111ar_andersshop             Lirene's Fereldan Imports
+and111cr_lirene                 Lirene
+and111cr_refugee_1              Refugee
+and111cr_refugee_2              Refugee
+and111cr_refugee_boy            Child
+and111cr_refugee_girl           Child
+and111cr_shopgirl               Shop Girl
+and111ip_at_lowtown             Lowtown
+and111ip_donation_box           Donation Box
+and111ip_store_lirene           Lirene's Fereldan Imports
+and121ar_chantry                The Chantry
+and121cr_karl                   Karl
+and121im_alrik_letter           Ser Alrik's Letter
+and130ip_anders_door            Door
+and211ar_andersshop             Lirene's Fereldan Imports
+and211ip_store_lirene           Lirene's Fereldan Imports
+and230cr_mage_girl              Circle Mage Ella
+and230cr_ser_alrik              Ser Alrik
+and230cr_templar                Templar
+and230cr_templar2               Templar Archer
+and230cr_templar3               Templar Hunter
+and230ip_at_dungeon             Gallows Dungeon
+and231ar_gallowsbasement        Gallows Dungeon
+and231cr_lyrium_archer          Lyrium Smuggler Archer
+and231cr_lyrium_smuggler        Lyrium Smuggler Foreman
+and231cr_lyrium_smuggler2       Dwarf Mercenary
+and231cr_lyrium_smuggler3       Pit Boss
+and231cr_smuggler               Lyrium Smuggler
+and231im_alrik_papers           Alrik's Papers
+and231ip_at_darktown            Darktown
+and231ip_loot_1                 Chest
+and231ip_tomb                   Corrupted Grave
+and311ar_andersshop             Lirene's Fereldan Imports
+and311ip_store_lirene           Lirene's Fereldan Imports
+and330ip_at_sewers              Sewers
+and330ip_sal_petrae             Sela Petrae Deposit
+and331ar_sewers                 The Sewers
+and331ip_at_darktown            Darktown
+and331ip_loot_1                 Chest
+and340ip_at_mines               Drakestone Mines
+and340ip_brimstone              Drakestone Deposit
+and341ar_mines                  Drakestone Mines
+and341ip_at_bonepit             The Bone Pit
+and341ip_loot_corpse_1          Corpse
+and341ip_loot_corpse_2          Corpse
+andcr_templar_captain           Templar Lieutenant
+and_templar_1                   Templar
+and_templar_2                   Templar
+and_templar_3                   Templar
+and_templar_4                   Templar Archer
+ave000im_gft_shield             Shield of the Knight Herself
+ave000ip_shield_container       Crate
+ave100ar_patrol                 Sundermount Ambush Site
+ave100cr_donnic                 Guardsman Donnic
+ave100cr_raider_assassin        Raider Assassin
+ave110cr_dbandit_leader         Coterie Leader
+ave110cr_donnic_bandit_f        Coterie Thug
+ave110cr_donnic_bandit_m        Coterie Thug
+ave121cr_brennan                Guardsman Brennan
+ave121cr_jeven                  Captain Jeven
+ave121ip_captain_door           Door
+ave121ip_duty_roster            Duty Roster
+ave151cr_ambush_bandit_f        Raider
+ave151cr_ambush_bandit_m        Raider
+ave200cr_donnic                 Guardsman Donnic
+ave200im_donnic_gift            Copper Marigolds
+ave221cr_brennan                Guardsman Brennan
+ave221ip_duty_roster            Duty Roster
+ave260cr_bandit                 Raider
+ave260cr_beast                  Mabari
+ave260cr_smuggler               Slaver
+ave260ip_signal_fire1           Signal Fire
+ave260ip_signal_fire2           Signal Fire
+ave260ip_signal_fire3           Signal Fire
+ave300cr_donnic                 Guardsman Donnic
+ave310cr_bandit_f               Coterie Thug
+ave310cr_bandit_m               Coterie Thug
+ave310cr_brennan                Guardsman Brennan
+ave310cr_guard_f                City Guardsman
+ave310cr_guard_m                City Guardsman
+ave310_gen_guardsman            City Guardsman
+ave321cr_gen_guardsman          City Guardsman
+ave321cr_guardsman1             City Guardsman
+ave321cr_guardsman2             City Guardsman
+ave321cr_guardsman3             City Guardsman
+ave321cr_guardsman4             City Guardsman
+ave321cr_guardswoman            City Guardsman
+ave321cr_jeven_loyalist         Jeven Loyalist
+ave330ip_chest                  Chest
+ave331cr_insurgent_f            Insurgent
+ave331cr_insurgent_f2           Insurgent
+ave331cr_insurgent_f3           Insurgent
+ave331cr_insurgent_guard        Insurgent Guard
+ave331cr_insurgent_guard2       Insurgent Guard
+ave331cr_insurgent_guard3       Insurgent Guard
+ave331cr_insurgent_guard4       Insurgent Guard
+ave331cr_insurgent_m            Insurgent
+ave331cr_insurgent_m2           Insurgent
+ave331cr_insurgent_m3           Insurgent
+ave331cr_jeven                  Jeven
+bet131ip_chest_gift             Chest
+car131ip_chest_gift             Chest
+clf221cr_jalen                  Jalen
+clf260cr_fell_orden             Fell Orden
+clf260cr_guard1                 City Guardsman
+clf260cr_guard2                 City Guardsman
+clf260cr_guard3                 City Guardsman
+clf260cr_harley                 Lieutenant Harley
+clf360cr_evets                  Evets
+clf360cr_evets_archer           Archer
+clf360cr_evets_thug             Thug
+dae000cr_adriano                Adriano
+dae000cr_arishok                Arishok
+dae000cr_brat                   Sabina's Brat
+dae000cr_brothel_orana          Orana
+dae000cr_cassandra              Cassandra
+dae000cr_cerimon                Cerimon
+dae000cr_chandan                Chandan
+dae000cr_chanter                Chanter Taletha
+dae000cr_commoner_d1            Dwarf Commoner
+dae000cr_commoner_d2            Dwarf Commoner
+dae000cr_commoner_d3            Dwarf Commoner
+dae000cr_commoner_f1            Commoner
+dae000cr_commoner_f2            Commoner
+dae000cr_commoner_m1            Commoner
+dae000cr_commoner_m2            Commoner
+dae000cr_cora                   Cora
+dae000cr_dalish_apprentice1     Dalish Apprentice
+dae000cr_dalish_apprentice2     Dalish Apprentice
+dae000cr_denier                 Denier
+dae000cr_epi_inquisition        Guard
+dae000cr_fenarel                Fenarel
+dae000cr_fereldan_f             Fereldan
+dae000cr_flemeth                Flemeth
+dae000cr_flemeth2               Flemeth
+dae000cr_gamlen                 Gamlen
+dae000cr_gossip_old_m1          Gossip
+dae000cr_gossip_old_m2          Gossip
+dae000cr_grand_cleric           Grand Cleric Elthina
+dae000cr_harshal                Harshal
+dae000cr_ilen                   Master Ilen
+dae000cr_ineria                 Ineria
+dae000cr_junar                  Junar
+dae000cr_katriela               Katriela
+dae000cr_lady_elegant           Lady Elegant
+dae000cr_leonato                Leonato
+dae000cr_loyal_mage_amb         Mage
+dae000cr_mage_jaken             Mage
+dae000cr_mage_unhappy           Mage
+dae000cr_maren                  Maren
+dae000cr_marethari              Keeper Marethari
+dae000cr_merchant_access        Trinketsmonger
+dae000cr_merchant_armor         Armorer
+dae000cr_merchant_generic       Merchant
+dae000cr_merchant_mage          Tranquil
+dae000cr_merchant_rare          Shady Merchant
+dae000cr_merchant_tailor        Tailor
+dae000cr_merchant_wandering     Merchant
+dae000cr_merchant_weapons       Weaponsmith
+dae000cr_mother                 Mother
+dae000cr_orana                  Orana
+dae000cr_osric                  Osric
+dae000cr_paivel                 Hahren Paivel
+dae000cr_pickpocket             Pickpocket
+dae000cr_pickpocket_victim      Victim
+dae000cr_pol                    Pol
+dae000cr_porfiria               Porfiria
+dae000cr_quintus                Quintus
+dae000cr_radha                  Radha
+dae000cr_serendipity            Serendipity
+dae000cr_shopper_f              Shopper
+dae000cr_shopper_m              Shopper
+dae000cr_templar_knight         Templar
+dae000cr_templar_recruit        Recruit
+dae000cr_templar_wandering      Templar
+dae000cr_tomwise                Tomwise
+dae000cr_tranquil               Tranquil
+dae000cr_tranquil_em            Tranquil
+dae000cr_varric_cuts            Varric
+dae000cr_worthy                 Worthy
+dae000ip_exit_gamlen_house      Leave Home
+dae000ip_exit_player_house      Leave Home
+dae000ip_party_picker           Gather Your Party
+dae000ip_show_world_map         Leave Area
+dae000ip_show_world_map_l       Leave Area
+dae00cr_madam_lusine            Madam Lusine
+dae010cr_joker1                 Dockworker
+dae010cr_joker2                 Dockworker
+dae010cr_joker3                 Dockworker
+dae010cr_laborer                Dockworker
+dae010cr_overseer               Overseer
+dae010cr_sailor_f               Sailor
+dae010cr_sailor_m               Sailor
+dae010cr_worker_elf_m           Dockworker
+dae010cr_worker_m               Dockworker
+dae010_alienage_elf_f1          Elven Woman
+dae010_alienage_elf_f2          Elven Woman
+dae010_alienage_elf_m1          Elven Man
+dae010_alienage_elf_m2          Elven Man
+dae010_arguing_female           Commoner
+dae010_arguing_male             Commoner
+dae010_beggar_m1                Beggar
+dae010_chase_guard              City Guardsman
+dae010_chase_thief              Commoner
+dae010_cityguard_f1             City Guardsman
+dae010_cityguard_m1             City Guardsman
+dae010_commoner_m1              Commoner
+dae010_commoner_m2              Commoner
+dae010_drunk_m1                 Drunk
+dae010_lowlife_f1               Lowlife
+dae010_lowlife_m1               Lowlife
+dae010_lowlife_m2               Lowlife
+dae010_lowtown_guard            City Guardsman
+dae010_prostitute_f1            Companion
+dae010_shopper_f1               Shopper
+dae010_shopper_m1               Shopper
+dae010_urchin_f1                Urchin
+dae010_urchin_m1                Urchin
+dae010_wandering_priest_f       Wandering Priest
+dae011cr_bartender              Corff the Bartender
+dae011cr_bartender_friend       Ser Shrillan
+dae011cr_bar_wench              Norah
+dae011cr_conspiracy_theor       Talkative Man
+dae011cr_drunk_1                Patron
+dae011cr_drunk_2                Drunk Patron
+dae011cr_gossip_1               Gossip
+dae011cr_gossip_2               Weary Patron
+dae011cr_sabina                 Sabina
+dae011cr_swindler               Flirtatious Woman
+dae011ip_order_drink            Order Drink
+dae020cr_ef_courtesan           Courtesan
+dae020cr_ef_courtesan2          Courtesan
+dae020cr_ef_courtesan3          Courtesan
+dae020cr_ef_servant             Servant
+dae020cr_em_servant             Servant
+dae020cr_hf_noble1              Noblewoman
+dae020cr_hf_noble2              Noblewoman
+dae020cr_hf_noble_3             Noblewoman
+dae020cr_hm_gossip3             Gossip
+dae020cr_hm_gossip4             Gossip
+dae020cr_hm_noble1              Nobleman
+dae020cr_hm_noble2              Nobleman
+dae020cr_hm_noble3              Nobleman
+dae020cr_merch_armor            Olaf
+dae020cr_merch_tailor           Jean Luc
+dae020cr_merch_weapon           Korval
+dae020ip_merch_armor            Olaf's Armory
+dae020ip_merch_tailor           Robes by Jean Luc
+dae020ip_merch_weapon           Korval's Blades
+dae021cr_chantry_initiate       Chantry Initiate
+dae021cr_female_worshipper      Worshipper
+dae021cr_male_worshipper        Worshipper
+dae021cr_sister_colinda         Sister Colinda
+dae021cr_sister_lorena          Sister Lorena
+dae021cr_sister_samea           Sister Samea
+dae021_bureaucrat_1             Bureaucrat
+dae021_bureaucrat_2             Bureaucrat
+dae021_guardsman_garol          Guardsman Garol
+dae021_keep_guard_1             Keep Guard
+dae021_keep_guard_2             Keep Guard
+dae021_keep_guard_3             Keep Guard
+dae021_keep_guard_4             Keep Guard
+dae021_keep_maid                Keep Maid
+dae021_keep_noble               Nobleman
+dae021_keep_noble2              Nobleman
+dae021_keep_noble3              Nobleman
+dae021_keep_noblewoman          Noblewoman
+dae021_keep_noblewoman1         Noblewoman
+dae021_keep_noblewoman3         Noblewoman
+dae021_keep_servant             Keep Servant
+dae021_keep_servant_male        Keep Servant
+dae030cr_fem_elf_sta            Elf
+dae030cr_fem_fer_urchin         Urchin
+dae030cr_lowlife_fem            Lowlife
+dae030cr_lowlife_male           Lowlife
+dae030cr_male_elf               Elf
+dae030cr_male_fereldan          Fereldan
+dae030cr_male_fer_urchin        Urchin
+dae030cr_sickly_fereldan_m      Fereldan
+dae100cr_bartrand               Bartrand
+dae100cr_bran                   Seneschal Bran
+dae100cr_brothel_gamlen         Gamlen
+dae100cr_gamlen                 Gamlen
+dae100cr_mother                 Mother
+dae100cr_solivitus              Solivitus
+dae100cr_viscount               Viscount Dumar
+dae100ip_at_to_aomcave          Runaways' Cavern
+dae110ar_docks                  The Docks
+dae110ar_docks_nt               The Docks (Night)
+dae110ar_lowtown                Lowtown
+dae110ar_lowtown_nt             Lowtown (Night)
+dae110cr_elf_f_01               Elven Female
+dae110cr_human_f_01             Woman
+dae110cr_human_m_01             Man
+dae110cr_qunari_m_01            Qunari
+dae110cr_refugee_f_01           Refugee
+dae110cr_refugee_m_01           Refugee
+dae110ip_at_and_shop            Lirene's Fereldan Imports
+dae110ip_at_darktown            Darktown
+dae110ip_at_docks               Docks
+dae110ip_at_gallows             Gallows Courtyard
+dae110ip_at_gamlenhouse         Gamlen's House
+dae110ip_at_hh_house            Arthuris's Private Dock
+dae110ip_at_hightown            Hightown
+dae110ip_at_lowtown             Lowtown
+dae110ip_at_mrl_home            Merrill's Home
+dae110ip_at_tavern              The Hanged Man
+dae110ip_at_to_trench_a         Disused Passage
+dae110ip_at_to_trench_b         Disused Passage
+dae110ip_at_ws_warehouse        Arthuris's Private Dock
+dae110ip_store4                 Shady Merchandise
+dae110ip_store5                 Black Market Goods
+dae110ip_store_access           Trinkets Emporium
+dae110ip_store_armor            Armor Stand
+dae110ip_store_tailor           Apparel Shop
+dae110ip_store_weapons          Weaponsmithy
+dae111ar_gamlens_house_nt       Gamlen's House
+dae111ar_tavern                 The Hanged Man
+dae111ar_tavern_nt              The Hanged Man
+dae111ip_at_tavern_ltown        Lowtown
+dae111ip_at_ws_lowtown          Lowtown
+dae111ip_letter_desk            Writing Desk
+dae120ar_hightown               Hightown
+dae120ar_hightown_nt            Hightown (Night)
+dae120cr_hf_guard_1             City Guardsman
+dae120cr_hf_mage_1              Mage
+dae120cr_hm_guard_1             City Guardsman
+dae120cr_hm_guard_2             City Guardsman
+dae120cr_hm_guard_3             City Guardsman
+dae120cr_hm_mage_1              Mage
+dae120ip_at_brothel             The Blooming Rose
+dae120ip_at_chantry             Chantry
+dae120ip_at_keep                Viscount's Keep
+dae120ip_at_store1              Corthwaite's Boutique
+dae120ip_chant_board_ht         Chanter's Board
+dae120ip_chant_board_ht_nt      Chanter's Board
+dae121ar_brothel_nt             The Blooming Rose
+dae121ar_chantry                The Chantry
+dae121ar_keep                   Viscount's Keep
+dae121cr_sister_alema           Sister Alema
+dae121ip_at_brothel_high        Hightown
+dae121ip_at_cht_hightown        Hightown
+dae121ip_at_keep_hightown       Hightown
+dae121ip_office_door            Door
+dae130ar_undercity_darktown     Darktown
+dae130ip_at_darktown            Darktown
+dae130ip_at_lowtown             Lowtown
+dae130ip_at_to_sewers1          Dank Sewer
+dae130ip_at_to_sewers2          Dank Sewer
+dae130ip_at_undercity           Darktown
+dae131ip_at_to_darktown         Darktown
+dae131ip_at_to_darktown2        Darktown
+dae140ar_bone_pit               The Bone Pit
+dae150ar_sundermount            Sundermount
+dae150ip_at_scaverns_a          Sundermount Passage
+dae150ip_at_scaverns_b          Sundermount Passage
+dae150ip_barrier                Barrier
+dae150ip_barrier_pride          Barrier
+dae150ip_loot_a                 Sack
+dae150ip_rockslide              Rockslide
+dae151ar_mount_caverns          Sundermount Caverns
+dae151ip_at_sundermount_a       Sundermount Base
+dae151ip_at_sundermount_b       Mountain Graveyard
+dae160ar_wounded_coast          The Wounded Coast
+dae170ar_gallows                Gallows Courtyard
+dae170ip_armor_store            Armor Shop
+dae170ip_at_lowtown             Lowtown
+dae170ip_at_templarhall         Templar's Hall
+dae170ip_mage_store             Mage Goods
+dae170ip_weapon_store           Weapons Shop
+dae200cr_bodahn                 Bodahn
+dae200cr_bran                   Seneschal Bran
+dae200cr_brothel_gamlen         Gamlen
+dae200cr_captain_wright         Captain Wright
+dae200cr_cullen                 Knight-Captain Cullen
+dae200cr_gamlen                 Gamlen
+dae200cr_meredith               Meredith
+dae200cr_mother                 Mother
+dae200cr_orsino                 Orsino
+dae200cr_saemus                 Saemus
+dae200cr_sandal                 Sandal
+dae200cr_solivitus              Solivitus
+dae200cr_viscount               Viscount Dumar
+dae210ar_docks                  The Docks
+dae210ar_docks_nt               The Docks (Night)
+dae210ar_lowtown                Lowtown
+dae210ar_lowtown_nt             Lowtown (Night)
+dae210cr_elf_f_01               Elven Female
+dae210cr_elf_m_01               Elven Man
+dae210cr_gate_guard             Gate Guard
+dae210cr_human_f_01             Woman
+dae210cr_human_m_01             Man
+dae210cr_qunari_guard           Qunari
+dae210cr_qunari_m_01            Qunari
+dae210ip_at_mrl_home            Merrill's Home
+dae210ip_at_playerhouse         Hawke Estate
+dae210ip_compound_gate          Qunari Compound
+dae210ip_store4                 Shady Merchandise
+dae210ip_store5                 Black Market Goods
+dae210ip_store_access           Trinkets Emporium
+dae210ip_store_armor            Armor Merchant
+dae210ip_store_tailor           Apparel Shop
+dae210ip_store_weapons          Weaponsmithy
+dae211ar_gamlens_house_nt       Gamlen's House
+dae211ar_tavern                 The Hanged Man
+dae211ar_tavern_nt              The Hanged Man
+dae211ip_at_gamlen_to_ltown     Lowtown
+dae220ar_hightown               Hightown
+dae220ar_hightown_nt            Hightown (Night)
+dae220ip_at_chantry             Chantry
+dae220ip_at_keep                Viscount's Keep
+dae220ip_at_lowtown             Lowtown
+dae220ip_at_player_home         Hawke Estate
+dae220ip_at_player_home_nt      Hawke Estate
+dae220ip_chant_board_ht         Chanter's Board
+dae221ar_brothel_nt             The Blooming Rose
+dae221ar_chantry                The Chantry
+dae221ar_keep                   Viscount's Keep
+dae221ar_player_home_nt         Hawke Estate
+dae221cr_torelin                Torelin
+dae221ip_at_brothel             The Blooming Rose
+dae221ip_at_cht_htown           Hightown
+dae221ip_at_keep_htown          Hightown
+dae230ar_undercity_darktown     Darktown
+dae230ip_at_to_sewers1          Dank Sewer
+dae230ip_at_to_sewers2          Dank Sewer
+dae231ip_at_to_darktown         Darktown
+dae231ip_at_to_darktown2        Darktown
+dae240ar_bone_pit               The Bone Pit
+dae250ar_sundermount            Sundermount
+dae250ip_at_scaverns_a          Sundermount Passage
+dae250ip_at_scaverns_b          Sundermount Passage
+dae251ar_mount_caverns          Sundermount Caverns
+dae251ip_at_sundermount_a       Sundermount Base
+dae251ip_at_sundermount_b       Mountain Graveyard
+dae260ar_wounded_coast          The Wounded Coast
+dae270ar_gallows                Gallows Courtyard
+dae270ip_armor_store            Armor Shop
+dae270ip_mage_store             Mage Goods
+dae270ip_weapon_store           Weapon Shop
+dae280ar_deep_roads             The Deep Roads
+dae300cr_bodahn                 Bodahn
+dae300cr_bran                   Seneschal Bran
+dae300cr_brothel_gamlen         Gamlen
+dae300cr_cullen                 Knight-Captain Cullen
+dae300cr_gamlen                 Gamlen
+dae300cr_meredith               Meredith
+dae300cr_orsino                 Orsino
+dae300cr_solivitus              Solivitus
+dae300cr_vashothlead            Maraas
+dae300cr_viscount               Viscount Dumar
+dae310ar_docks                  The Docks
+dae310ar_docks_nt               The Docks (Night)
+dae310ar_lowtown                Lowtown
+dae310ar_lowtown_nt             Lowtown (Night)
+dae310cr_elf_f_01               Elven Female
+dae310cr_elf_m_01               Elven Man
+dae310cr_human_f_01             Woman
+dae310cr_human_m_01             Man
+dae310ip_at_bsc_warehouse       Warehouse
+dae310ip_at_mrl_home            Merrill's Home
+dae310ip_store4                 Shady Merchandise
+dae310ip_store5                 Black Market Goods
+dae310ip_store_access           Trinkets Emporium
+dae310ip_store_armor            Armor Store
+dae310ip_store_tailor           Apparel Shop
+dae310ip_store_weapons          Weaponsmithy
+dae311ar_gamlens_house_nt       Gamlen's House
+dae311ar_tavern                 The Hanged Man
+dae311ar_tavern_nt              The Hanged Man
+dae311ip_at_lowtown             Lowtown
+dae320ar_hightown               Hightown
+dae320ar_hightown_nt            Hightown (Night)
+dae320ip_at_brothel             The Blooming Rose
+dae320ip_at_chantry             Chantry
+dae320ip_at_keep                Viscount's Keep
+dae320ip_at_player_home         Hawke Estate
+dae320ip_at_player_home_nt      Hawke Estate
+dae320ip_chant_board_ht         Chanter's Board
+dae320ip_chant_board_ht_nt      Chanter's Board
+dae321ar_brothel_nt             The Blooming Rose
+dae321ar_chantry                The Chantry
+dae321ar_keep                   Viscount's Keep
+dae321ar_player_home_nt         Hawke Estate
+dae321cr_petrice                Petrice
+dae321ip_at_cht_htown           Hightown
+dae321ip_at_keep_htown          Hightown
+dae330ar_undercity_darktown     Darktown
+dae340ar_bone_pit               The Bone Pit
+dae350ar_sundermount            Sundermount
+dae350ip_at_scaverns_a          Sundermount Passage
+dae350ip_at_scaverns_b          Sundermount Passage
+dae351ar_mount_caverns          Sundermount Caverns
+dae351ip_at_sundermount_a       Sundermount Base
+dae351ip_at_sundermount_b       Mountain Graveyard
+dae360ar_wounded_coast          The Wounded Coast
+dae370ar_gallows                Gallows Courtyard
+dae370ip_armor_store            Armor Shop
+dae370ip_at_templar             Templar Hall
+dae370ip_mage_store             Mage Goods
+dae370ip_weapon_store           Weapon Shop
+dae380ar_deep_roads             The Deep Roads
+dae421ar_player_home_nt         Hawke Estate
+default_mage_female             Female Mage
+default_mage_male               Male Mage
+default_player                  Garrett
+default_rogue_female            Female Rogue
+default_rogue_male              Male Rogue
+default_warrior_female          Female Warrior
+default_warrior_male            Male Warrior
+demo_mage                       Female Mage
+demo_rogue                      Female Rogue
+demo_warrior                    Female Warrior
+dog321cr_closet_man             Man in the Closet
+dre000cr_dougal                 Dougal Gavorn
+dre000cr_dougal_thugs           Carta Thug
+dre100cr_blighted_carver        Carver
+dre100cr_bodahn                 Bodahn
+dre100cr_dead_hurlock           Hurlock
+dre100cr_dwarven_scout          Expedition Scout
+dre100cr_frozen_ogre            Ogre
+dre100cr_hireling_1             Expedition Hireling
+dre100cr_hireling_2             Expedition Hireling
+dre100cr_pickpocket             Pickpocket
+dre100cr_sandal                 Sandal
+dre100cr_stroud                 Stroud
+dre100cr_warden_f               Grey Warden
+dre100cr_warden_m               Grey Warden
+dre180ar_deep_roads             The Deep Roads
+dre180ar_keep_fake              Viscount's Keep
+dre180ar_ruins_crypt            Ancient Crypt
+dre180ar_ruins_entrance         Primeval Ruins
+dre180cr_drake                  Dragon
+dre180cr_profane_vampire        Rock Wraith Abomination
+dre180cr_rock_wraith            Ancient Rock Wraith
+dre180cr_stone_golem_statue     Stone Golem
+dre180im_crypt_key              Crypt Key
+dre180ip_crypt_exit             Return to the Surface
+dre180ip_crypt_treasure         Crypt Treasure
+dre180ip_deep_roads_chest_1     Chest
+dre180ip_deep_roads_chest_2     Chest
+dre180ip_deep_roads_chest_3     Chest
+dre180ip_deep_roads_chest_4     Chest
+dre180ip_invisible_door         Primeval Thaig
+dre180ip_locked_tomb_door       Primeval Thaig
+dre180ip_lyrium_idol            Lyrium Idol
+dre180ip_primeval_chest_1       Chest
+dre180ip_primeval_chest_2       Chest
+dre180ip_primeval_chest_3       Chest
+dre180ip_primeval_door          Primeval Thaig
+dre180ip_to_primeval_crypt      Primeval Thaig
+dre200ar_dougal_encounter       Back Alley
+fake_im_arm_boo_hvy_champ       Boots of the Champion
+fake_im_arm_boo_lgt_champ       Boots of the Champion
+fake_im_arm_boo_med_champ       Boots of the Champion
+fake_im_arm_cht_hvy_champ       Warplate of the Champion
+fake_im_arm_cht_lgt_champ       Robes of the Champion
+fake_im_arm_cht_med_champ       Arms of the Champion
+fake_im_arm_glv_hvy_champ       Gauntlets of the Champion
+fake_im_arm_glv_lgt_champ       Gloves of the Champion
+fake_im_arm_glv_med_champ       Gloves of the Champion
+fake_im_arm_hlm_hvy_champ       Helm of the Champion
+fake_im_arm_hlm_lgt_champ       Hood of the Champion
+fake_im_arm_hlm_med_champ       Helm of the Champion
+fake_im_flw_sta_bethany_03      Staff of the Blighted Heartwood
+fake_mage_female                Female Mage
+fake_mage_male                  Male Mage
+fake_rogue_female               Female Rogue
+fake_rogue_male                 Male Rogue
+fake_warrior_female             Female Warrior
+fake_warrior_male               Male Warrior
+fen000im_gft_book               A Slave's Life
+fen000im_gft_sword              Blade of Mercy
+fen000ip_book_container         Sack
+fen000ip_sword_container        Chest
+fen110ar_abandoned_house        Abandoned House
+fen110cr_anso                   Anso the Contact
+fen110cr_hunter                 Tevinter Hunter
+fen110cr_hunter_1               Tevinter Hunter
+fen110cr_hunter_captain         Tevinter Hunter Captain
+fen110ip_smuggler_chest         Smuggler's Cargo
+fen110ip_to_alienage            Lowtown
+fen110ip_to_hideout             Abandoned House
+fen120ip_mansion_chest_1        Chest
+fen120ip_mansion_chest_2        Chest
+fen120ip_to_base                Fenris's Mansion
+fen120ip_to_mansion             Danarius's Manor
+fen121ar_base                   Fenris's Mansion
+fen121ar_mansion_nt             Danarius's Manor
+fen121cr_shade                  Rage Demon
+fen121im_magisters_key          Magister's Key
+fen121ip_locked_door            Door
+fen121ip_to_hightown            Hightown
+fen200ar_ambush_exterior        Outside Kirkwall
+fen200ar_slavers_exterior       Holding Caves
+fen200ar_slaver_ambush2         Wrong Way
+fen200cr_hadriana               Magister Hadriana
+fen200cr_orana                  Orana
+fen200cr_tevinter_ambusher      Tevinter Mercenary
+fen200cr_tevinter_magister      Tevinter Magister
+fen200cr_tev_hunter_1           Tevinter Hunter
+fen200cr_tev_hunter_2           Tevinter Hunter
+fen200cr_tev_slavermage_2       Tevinter Mage
+fen200ip_exit_quest             World Map
+fen200ip_second_ambush_exit     Holding Caves
+fen200ip_slaver_chest_1         Chest
+fen200ip_slaver_chest_2         Chest
+fen200ip_slaver_chest_3         Chest
+fen200ip_to_slaver_hideout      Abandoned Slaver Den
+fen201ar_slavers_dungeon        Abandoned Slaver Den
+fen201ip_blood_sacrafice        Blood Sacrifice
+fen220ip_to_base                Fenris's Mansion
+fen221ar_base                   Fenris's Mansion
+fen310ip_to_hanged_man          The Hanged Man
+fen311ar_hanged_man             The Hanged Man
+fen311cr_danarius               Danarius
+fen311cr_patron_1               Patron
+fen311cr_patron_2               Patron
+fen311cr_patron_3               Patron
+fen311cr_praescia               Varania
+fen320ip_to_base                Fenris's Mansion
+fen321ar_base                   Fenris's Mansion
+gen00fl_anders                  Anders
+gen00fl_aveline                 Aveline
+gen00fl_bethany                 Bethany
+gen00fl_carver                  Carver
+gen00fl_dog                     Dog
+gen00fl_fenris                  Fenris
+gen00fl_isabela                 Isabela
+gen00fl_justice                 Justice
+gen00fl_merrill                 Merrill
+gen00fl_sebastian               Sebastian
+gen00fl_varric                  Varric
+gencr_abomination               Abomination
+gencr_apostate                  Apostate Mage
+gencr_arcane_horror             Arcane Horror
+gencr_bloodmage                 Blood Mage
+gencr_bloodmage_f               Blood Mage
+gencr_bronto                    Bronto
+gencr_carta_assassin            Carta Assassin
+gencr_carta_thug                Carta Thug
+gencr_circle_highmage           Enchanter
+gencr_circle_mage               Circle Mage
+gencr_circle_mage_f             Circle Mage
+gencr_city_guard_2h             City Guardsman
+gencr_city_guard_2h_f           City Guardsman
+gencr_city_guard_archer         City Guardsman
+gencr_city_guard_archer_f       City Guardsman
+gencr_city_guard_commander      Guard Commander
+gencr_city_guard_ws             City Guardsman
+gencr_city_guard_ws_f           City Guardsman
+gencr_corpse                    Corpse
+gencr_corpse_archer             Skeleton Archer
+gencr_corpse_arc_onground       Skeleton Archer
+gencr_corpse_onground           Corpse
+gencr_coterie_alchemist         Coterie Alchemist
+gencr_coterie_archer            Thug
+gencr_coterie_archer_f          Thug
+gencr_coterie_member            Coterie Rogue
+gencr_coterie_thug_2h           Thug
+gencr_coterie_thug_2h_f         Thug
+gencr_coterie_thug_2w           Thug
+gencr_coterie_thug_2w_f         Thug
+gencr_coterie_thug_ws           Thug
+gencr_coterie_thug_ws_f         Thug
+gencr_dalish_archer             Dalish Archer
+gencr_dalish_archer_f           Dalish Archer
+gencr_dalish_assassin           Dalish Assassin
+gencr_dalish_warrior_2h         Dalish Warrior
+gencr_dalish_warrior_2h_f       Dalish Warrior
+gencr_dalish_warrior_2w_f       Dalish Warrior
+gencr_dalish_warrior_ws         Dalish Warrior
+gencr_dalish_warrior_ws_f       Dalish Warrior
+gencr_darkspawn_emissary        Darkspawn Emissary
+gencr_darkspawn_emissary_tr     Emissary Apprentice
+gencr_darkspawn_hurlock         Hurlock
+gencr_darkspawn_hurlock_rng     Hurlock Bolter
+gencr_darkspawn_hurlock_shd     Hurlock Grunt
+gencr_darkspawn_ogre            Ogre
+gencr_darkspawn_ogre_deepr      Ogre
+gencr_decoy                     Corpse
+gencr_deepstalker               Deepstalker
+gencr_desire_demon              Desire Demon
+gencr_dragon                    Dragon
+gencr_dragonling                Dragonling
+gencr_gate_guardian             Gate Guardian
+gencr_gate_guardian_statue      Gate Guardian
+gencr_gate_slave_crouching      Slave Statue
+gencr_gate_slave_hanging        Slave Statue
+gencr_gate_slave_l1             Slave Statue
+gencr_gate_slave_l2             Slave Statue
+gencr_gate_slave_l3             Slave Statue
+gencr_gate_slave_l4             Slave Statue
+gencr_gate_slave_l5             Slave Statue
+gencr_gate_slave_r1             Slave Statue
+gencr_gate_slave_r2             Slave Statue
+gencr_gate_slave_r3             Slave Statue
+gencr_gate_slave_r4             Slave Statue
+gencr_gate_slave_r5             Slave Statue
+gencr_harvester                 Harvester
+gencr_harvester_head            Harvester
+gencr_high_dragon               High Dragon
+gencr_high_dragon_flemeth       High Dragon
+gencr_mabari                    Mabari
+gencr_mature_dragon             Mature Dragon
+gencr_mercenary_archer          Mercenary Archer
+gencr_mercenary_archer_f        Mercenary Archer
+gencr_mercenary_assassin        Mercenary Assassin
+gencr_mercenary_commander       Mercenary Commander
+gencr_mercenary_warrior_2h      Mercenary
+gencr_mercenary_warrior_2hf     Mercenary
+gencr_mercenary_warrior_2w      Mercenary
+gencr_mercenary_warrior_2wf     Mercenary
+gencr_mercenary_warrior_ws      Mercenary
+gencr_mercenary_warrior_wsf     Mercenary
+gencr_pride_demon               Pride Demon
+gencr_profane_a                 Profane
+gencr_profane_b                 Profane
+gencr_qunari_archer             Ashaad
+gencr_qunari_arishock           Arishok
+gencr_qunari_captain            Sten
+gencr_qunari_maskless_thral     Saarebas
+gencr_qunari_thrall_mage        Saarebas
+gencr_qunari_warrior            Karashok
+gencr_rage_demon                Rage Demon
+gencr_raider_2w                 Raider
+gencr_raider_2w_f               Raider
+gencr_raider_archer             Raider Archer
+gencr_raider_archer_f           Raider Archer
+gencr_raider_assassin           Raider Assassin
+gencr_raider_reaver             Raider Reaver
+gencr_raider_reaver_f           Raider Reaver
+gencr_raider_ws                 Raider
+gencr_raider_ws_f               Raider
+gencr_revenant                  Revenant
+gencr_rock_wraith               Ancient Rock Wraith
+gencr_rubble_golem_a            Profane
+gencr_rubble_golem_b            Profane
+gencr_shade                     Shade
+gencr_slaver_2h                 Slaver
+gencr_slaver_2h_f               Slaver
+gencr_slaver_2w                 Slaver
+gencr_slaver_2w_f               Slaver
+gencr_slaver_mage               Slaver Mage
+gencr_slaver_ws                 Slaver
+gencr_slaver_ws_f               Slaver
+gencr_spider_corrupted          Corrupted Spider
+gencr_spider_deeproads          Monstrous Spider
+gencr_spider_giant              Giant Spider
+gencr_spider_monstrous          Monstrous Spider
+gencr_spider_poison             Poisonous Spider
+gencr_stone_golem               Stone Golem
+gencr_stone_golem_statue        Stone Golem
+gencr_street_thug_2h            Street Thug
+gencr_street_thug_2h_f          Street Thug
+gencr_street_thug_2w            Street Thug
+gencr_street_thug_2w_f          Street Thug
+gencr_strider                   Varterral
+gencr_talvashoth_archer         Tal-Vashoth
+gencr_talvashoth_captain        Tal-Vashoth Officer
+gencr_talvashoth_mage           Tal-Vashoth Saarebas
+gencr_talvashoth_warrior        Tal-Vashoth
+gencr_templar                   Templar
+gencr_templar_archer            Templar Archer
+gencr_templar_archer_f          Templar Archer
+gencr_templar_captain           Templar Lieutenant
+gencr_templar_f                 Templar
+gencr_templar_hunter            Templar Hunter
+gencr_templar_meredith          Meredith
+gencr_trap_explosives_1         Explosives
+gencr_trap_explosives_2         Explosives
+gencr_trap_explosives_3         Explosives
+gencr_trap_explosives_4         Explosives
+gencr_virvle_mage_f             Mage
+gencr_virvle_mage_m             Mage
+genip_altar                     Altar
+genip_armoire                   Armoire
+genip_ballista                  Ballista
+genip_barrel                    Barrel
+genip_bear_trap                 Bear Trap
+genip_bedroll                   Bedroll
+genip_blocker_wide_info         Barrier
+genip_bones_pile_1              Pile of Bones
+genip_bones_pile_2              Pile of Bones
+genip_bones_pile_3              Pile of Bones
+genip_bookshelf                 Bookshelf
+genip_book_1                    Book
+genip_book_2                    Book
+genip_bottle                    Bottle
+genip_bucket                    Bucket
+genip_cage                      Cage
+genip_candle                    Candle
+genip_candles                   Candles
+genip_chest_fancy               Chest
+genip_chest_normal1             Chest
+genip_chest_normal2             Chest
+genip_cleaning_brush            Cleaning Brush
+genip_control_rod               Control Rod
+genip_corpse1                   Corpse
+genip_corpse2                   Corpse
+genip_corpse3                   Corpse
+genip_cot                       Cot
+genip_crate                     Crate
+genip_crate_1                   Crate
+genip_crate_2                   Crate
+genip_crate_3                   Crate
+genip_cup                       Cup
+genip_dagger                    Dagger
+genip_door_black                Door
+genip_door_cave                 Door
+genip_door_dwarven_normal       Door
+genip_door_gallowin_normal      Door
+genip_door_highin_chantry       Door
+genip_door_highin_keep          Door
+genip_door_highin_normal        Door
+genip_door_highxt_gate          Gate
+genip_door_lowin_industrial     Door
+genip_door_lowin_residence      Door
+genip_door_lowxt_gate           Gate
+genip_enchantments              Enchantment Apparatus
+genip_exploding_barrel          Barrel
+genip_flower                    Flower
+genip_hammer                    Hammer
+genip_inkwell                   Ink Well
+genip_jug                       Jug
+genip_ladder                    Ladder
+genip_lever                     Lever
+genip_mallet                    Mallet
+genip_mug                       Mug
+genip_node_a1                   Bitter Elfroot
+genip_node_a2                   Gossamer Elfroot
+genip_node_a3                   Royal Elfroot
+genip_node_b1                   Common Spindleweed
+genip_node_b2                   Dwarf's Spindleweed
+genip_node_c1                   Salubrious Embrium
+genip_node_c2                   Dark Embrium
+genip_node_d1                   Ambrosia
+genip_node_e1                   Blightcap Mushroom
+genip_node_e2                   Ghoul's Mushroom
+genip_node_e3                   Brimstone Mushroom
+genip_node_f1                   Arcanist Deathroot
+genip_node_f2                   Lunatic's Deathroot
+genip_node_g1                   Volatile Glitterdust
+genip_node_g2                   Tainted Glitterdust
+genip_node_h1                   Felandaris
+genip_node_i1                   Refined Lyrium
+genip_node_i2                   Raw Lyrium
+genip_node_i3                   Corrupted Lyrium
+genip_node_j1                   Silverite Ore
+genip_node_j2                   Pale Silverite
+genip_node_k1                   Deep Orichalcum
+genip_node_k2                   Crystalline Orichalcum
+genip_node_l1                   Dragon's Blood
+genip_party_storage             Storage
+genip_pickaxe                   Pickaxe
+genip_pp_cav_one_shot           Trap
+genip_pp_cav_standing           Release Trap
+genip_pp_cav_sustained          Sustained Trap
+genip_pp_drk_one_shot           Trap
+genip_pp_drk_standing           Release Trap
+genip_pp_drk_sustained          Sustained Trap
+genip_pp_dr_one_shot            Trap
+genip_pp_dr_standing            Release Trap
+genip_pp_dr_sustained           Sustained Trap
+genip_pp_gle_one_shot           Trap
+genip_pp_gle_standing           Release Trap
+genip_pp_gle_sustained          Sustained Trap
+genip_pp_gli_one_shot           Trap
+genip_pp_gli_standing           Release Trap
+genip_pp_gli_sustained          Sustained Trap
+genip_pp_hl_one_shot            Trap
+genip_pp_hl_standing            Release Trap
+genip_pp_hl_sustained           Sustained Trap
+genip_pp_hte_one_shot           Trap
+genip_pp_hte_standing           Release Trap
+genip_pp_hte_sustained          Sustained Trap
+genip_pp_hti_one_shot           Trap
+genip_pp_hti_standing           Release Trap
+genip_pp_hti_sustained          Sustained Trap
+genip_pp_lte_one_shot           Trap
+genip_pp_lte_standing           Release Trap
+genip_pp_lte_sustained          Sustained Trap
+genip_pp_lti_one_shot           Trap
+genip_pp_lti_standing           Release Trap
+genip_pp_lti_sustained          Sustained Trap
+genip_quill_pen                 Quill Pen
+genip_rubble                    Rubble
+genip_sarcophagous              Sarcophagus
+genip_spittoon                  Spittoon
+genip_station_poisons           Order Poisons and Grenades
+genip_station_potions           Order Potions
+genip_station_runes             Order Runes
+genip_store_sacks               Bodahn's Goods
+genip_sword                     Sword
+genip_table                     Table
+genip_trap_arm_lever            Arming Switch
+genip_trap_blade                Blade Trap
+genip_trap_bolt                 Bolt Trap
+genip_trap_door                 Trap Door
+genip_trap_firecone             Fire Trap
+genip_trap_fire_jet_long        Fire Jet
+genip_trap_fire_jet_short       Fire Jet
+genip_trap_gas                  Gas Trap
+genip_trap_leghold              Leghold Trap
+genip_trap_lever                Disarming Switch
+genip_trap_spike                Spike Trap
+genip_trap_vert_fire_jet        Vertical Fire Trap
+genip_trap_web                  Entangling Web
+genip_tray                      Tray
+genip_treasure_pile             Treasure Pile
+genip_vase                      Vase
+genip_vial_of_blood             Vial of Blood
+genip_wine_bottle               Bottle of Wine
+gen_im_acc_amu_act1_01          Lifestone
+gen_im_acc_amu_act1_02          Pewter Pendant of Wolves Howling at the Moon
+gen_im_acc_amu_act1_03          The Liar's Charm
+gen_im_acc_amu_act1_04          Meraas
+gen_im_acc_amu_act1_05          Amulet of Serenity
+gen_im_acc_amu_act1_06          Amulet of Influence
+gen_im_acc_amu_act2_01          Polished Whitewood Amulet
+gen_im_acc_amu_act2_02          Moonstone Amulet
+gen_im_acc_amu_act2_03          Poisonwood Locket
+gen_im_acc_amu_act2_04          Brass Nug Charm
+gen_im_acc_amu_act2_05          Gaudy Amethyst Pendant
+gen_im_acc_amu_act2_06          Magister's Lifestone
+gen_im_acc_amu_act2_07          Split Bone Necklace
+gen_im_acc_amu_act2_08          Fen'Harel's Tooth
+gen_im_acc_amu_act3_01          White Scapular of the Defender
+gen_im_acc_amu_act3_02          Dreamcatcher
+gen_im_acc_amu_act3_03          Four-Fingered Eddie's Lucky Talisman
+gen_im_acc_amu_act3_04          Warden's Oath
+gen_im_acc_amu_act3_05          Rhinestone-Studded Symbol of Andraste
+gen_im_acc_amu_act3_06          Filigreed Orlesian Pendant
+gen_im_acc_amu_act3_07          The Sacred Heart
+gen_im_acc_amu_act3_08          Van Markham's Heirloom
+gen_im_acc_amu_act3_09          Chantry Amulet
+gen_im_acc_amu_act3_10          Amulet of the Tempest
+gen_im_acc_amu_lore_01          Urzara's Tooth
+gen_im_acc_amu_lore_02          Tranquility
+gen_im_acc_amu_lore_03          Gem of Keroshek
+gen_im_acc_amu_lore_04          Talisman of Saarebas
+gen_im_acc_blt_act1_01          Enchanted Silverite Chain Belt
+gen_im_acc_blt_act1_02          Sailors' Rope Belt
+gen_im_acc_blt_act1_03          Handlers' Whip
+gen_im_acc_blt_act1_04          String of Pearls
+gen_im_acc_blt_act1_05          Pirate Sash
+gen_im_acc_blt_act1_06          Belt of the Brigand
+gen_im_acc_blt_act1_07          Belt of the Chastened
+gen_im_acc_blt_act2_01          Belt of Unknowing
+gen_im_acc_blt_act2_02          Belt of the Primevals
+gen_im_acc_blt_act2_03          Seneschals' Leather Strap
+gen_im_acc_blt_act2_04          Dalish Embossed Belt
+gen_im_acc_blt_act2_05          Cord of the Weyr-Beast
+gen_im_acc_blt_act2_06          Sash of the Tirashan
+gen_im_acc_blt_act2_07          Belt of Vigor
+gen_im_acc_blt_act3_01          Andruil's Braid
+gen_im_acc_blt_act3_02          Seven Deadly Cinch
+gen_im_acc_blt_act3_03          Griffon-Feather Belt
+gen_im_acc_blt_act3_04          Belt of Woven Elf Hair
+gen_im_acc_blt_act3_05          Rock Band
+gen_im_acc_blt_act3_06          Fereldan Circle Sash
+gen_im_acc_blt_act3_07          The Hanged Man's Girdle
+gen_im_acc_blt_act3_08          Belt of the Silent Sisters
+gen_im_acc_blt_act3_09          Deepstalker's Belt
+gen_im_acc_blt_act3_10          Sash of the Halla
+gen_im_acc_blt_act3_11          Concealer's Sash
+gen_im_acc_blt_lore_01          Templar Ceremonial Cummerbund
+gen_im_acc_blt_lore_02          Karasten’s Belt
+gen_im_acc_blt_lore_03          Girdle of the Elders
+gen_im_acc_rng_act1_01          Ring of the Magister
+gen_im_acc_rng_act1_02          Runed Silverite Ring
+gen_im_acc_rng_act1_03          Gentleman's Puzzle Ring
+gen_im_acc_rng_act1_04          Gallows Slave Finger-Cuffs
+gen_im_acc_rng_act1_05          Guild Ring
+gen_im_acc_rng_act1_06          Dirthamen's Secret
+gen_im_acc_rng_act2_01          Rivaini Seer's Brand
+gen_im_acc_rng_act2_02          Ring of Incandescence
+gen_im_acc_rng_act2_03          Carved Ring of the Vhenadahl
+gen_im_acc_rng_act2_04          The Seal of Kirkwall
+gen_im_acc_rng_act2_05          Etched Ring of the Twins
+gen_im_acc_rng_act2_06          Twice-Blessed Ring
+gen_im_acc_rng_act2_07          Ring of the Seven Watchers
+gen_im_acc_rng_act2_08          Ring of the Faithful
+gen_im_acc_rng_act2_09          Ring of Ruin
+gen_im_acc_rng_act2_10          Tear of Ferelden
+gen_im_acc_rng_act3_01          The Jade Serpent
+gen_im_acc_rng_act3_02          Onyx Ring of the Dales
+gen_im_acc_rng_act3_03          Orsino's Signet Ring
+gen_im_acc_rng_act3_04          Mark of the Fallen
+gen_im_acc_rng_act3_05          Three Wolf Boon
+gen_im_acc_rng_act3_06          Ring of the Shadow Hunter
+gen_im_acc_rng_act3_07          Warden's Promise
+gen_im_acc_rng_act3_08          Band of Silvery Gold
+gen_im_acc_rng_act3_09          Ring of the Archmage
+gen_im_acc_rng_act3_10          Ring of the Emerald Knights
+gen_im_acc_rng_act3_11          Demon's Eye
+gen_im_acc_rng_act3_12          Pretty Little Thing
+gen_im_acc_rng_act3_13          Awakened's Might
+gen_im_acc_rng_act3_14          Ring of the Wounded Coast
+gen_im_acc_rng_lore_01          Ring of the Ferryman
+gen_im_acc_rng_lore_02          Bardin's Folly
+gen_im_acc_rng_lore_03          Puzzle Ring of the Black Fox
+gen_im_acc_rng_mrl1             Sylvanwood Ring
+gen_im_arm_boo_hvy_act1_01      The March of Thunder
+gen_im_arm_boo_hvy_act1_02      Qunari War Boots
+gen_im_arm_boo_hvy_act1_03      Surfacer Stone Boots
+gen_im_arm_boo_hvy_act2_01      Blackened Greaves
+gen_im_arm_boo_hvy_act2_02      Avvarian War Boots
+gen_im_arm_boo_hvy_act2_03      Golem's Leg
+gen_im_arm_boo_hvy_act3_01      Boots of the White Spire
+gen_im_arm_boo_hvy_act3_02      Dragonscale Boots
+gen_im_arm_boo_hvy_champion     Boots of the Champion
+gen_im_arm_boo_hvy_set_high     Stonehammer Boots
+gen_im_arm_boo_hvy_set_med      Boots of the Fallen
+gen_im_arm_boo_hvy_start        Fereldan Field Boots
+gen_im_arm_boo_lgt_act1_01      Formari Work Boots
+gen_im_arm_boo_lgt_act1_02      Boots of the Isolationist
+gen_im_arm_boo_lgt_act1_03      Boots of the Elder
+gen_im_arm_boo_lgt_act2_01      Enchanter's Spatterdashes
+gen_im_arm_boo_lgt_act2_02      Ghillie Brogues
+gen_im_arm_boo_lgt_act2_03      Boots of the Redd
+gen_im_arm_boo_lgt_act3_01      Embroidered Dancing Shoes
+gen_im_arm_boo_lgt_act3_02      Boots of the Void
+gen_im_arm_boo_lgt_act3_03      Harlan's Jackboots
+gen_im_arm_boo_lgt_champion     Boots of the Champion
+gen_im_arm_boo_lgt_set_high     Boots of the Overseer
+gen_im_arm_boo_lgt_set_med      Boots of the Spiral Eye
+gen_im_arm_boo_lgt_start        Apostate's Boots
+gen_im_arm_boo_med_act1_01      Lowtown Stompers
+gen_im_arm_boo_med_act1_02      Footpad's Secret
+gen_im_arm_boo_med_act1_03      Hunter's Boots
+gen_im_arm_boo_med_act2_01      Zoey's Battered Horde-Kickers
+gen_im_arm_boo_med_act2_02      Highwayman's Lambskin Boots
+gen_im_arm_boo_med_act2_03      Worn Leather Boots
+gen_im_arm_boo_med_act3_01      Boots of Free Marching
+gen_im_arm_boo_med_act3_02      Windstrider Boots
+gen_im_arm_boo_med_champion     Boots of the Champion
+gen_im_arm_boo_med_lore_01      Blackfeather Boots
+gen_im_arm_boo_med_set_high     Boots of Enasalin
+gen_im_arm_boo_med_set_med      Last Descent Boots
+gen_im_arm_boo_med_start        Rough Leather Boots
+gen_im_arm_cht_hvy_act0_01      Mercenary's Reinforced Plate
+gen_im_arm_cht_hvy_act0_02      Smuggler's Plate and Mail
+gen_im_arm_cht_hvy_act1_01      Dragon Hunter's Hauberk
+gen_im_arm_cht_hvy_act1_02      Marcher Battle Plate
+gen_im_arm_cht_hvy_act1_03      Armor of the Wall
+gen_im_arm_cht_hvy_act1_04      Surfacer Stone Armor
+gen_im_arm_cht_hvy_act2_01      Trevisian Breastplate
+gen_im_arm_cht_hvy_act2_02      Dissension
+gen_im_arm_cht_hvy_act2_03      Monolith's Heart
+gen_im_arm_cht_hvy_act3_01      Red Breastplate
+gen_im_arm_cht_hvy_act3_02      Knight-Templar Regalia
+gen_im_arm_cht_hvy_act3_03      Proving Battle Tunic
+gen_im_arm_cht_hvy_act3_04      Chains of the Vaarad
+gen_im_arm_cht_hvy_champion     Warplate of the Champion
+gen_im_arm_cht_hvy_lore_01      Cuirass of the Centurion
+gen_im_arm_cht_hvy_set_high     Stonehammer Plate
+gen_im_arm_cht_hvy_set_med      Warplate of the Fallen
+gen_im_arm_cht_hvy_start        Fereldan Field Armor
+gen_im_arm_cht_lgt_act0_01      Mercenary's Light Strapping
+gen_im_arm_cht_lgt_act0_02      Smuggler's Robes and Strapping
+gen_im_arm_cht_lgt_act1_01      Robe of Hidden Pockets
+gen_im_arm_cht_lgt_act1_02      Flocked Wool Robe
+gen_im_arm_cht_lgt_act1_03      Apostate's Robes
+gen_im_arm_cht_lgt_act2_01      Heavy Velvet Robes
+gen_im_arm_cht_lgt_act2_02      Robe of the Notorious Pirate
+gen_im_arm_cht_lgt_act2_03      Shadow's Reach
+gen_im_arm_cht_lgt_act2_04      Robes of the Void
+gen_im_arm_cht_lgt_act3_01      Aequitarian Robes
+gen_im_arm_cht_lgt_act3_02      Cumberland Circle Robes
+gen_im_arm_cht_lgt_act3_03      Battlemage Armaments
+gen_im_arm_cht_lgt_act3_04      Circle Robes
+gen_im_arm_cht_lgt_champion     Robes of the Champion
+gen_im_arm_cht_lgt_lore_01      Vestments of Sacrifice
+gen_im_arm_cht_lgt_set_high     Robes of the Overseer
+gen_im_arm_cht_lgt_set_med      Robes of the Spiral Eye
+gen_im_arm_cht_lgt_start        Apostate's Robe
+gen_im_arm_cht_med_act0_01      Mercenary's Layered Tunic
+gen_im_arm_cht_med_act0_02      Smuggler's Scale and Banding
+gen_im_arm_cht_med_act1_01      Stalker's Boar Hides
+gen_im_arm_cht_med_act1_02      Kirkwall Squire's Jerkin
+gen_im_arm_cht_med_act2_01      Quickstring's Tunic
+gen_im_arm_cht_med_act2_02      Chestguard of the Scoundrel
+gen_im_arm_cht_med_act2_03      Vain
+gen_im_arm_cht_med_act3_01      Dragonhide Mantle of the Predator
+gen_im_arm_cht_med_act3_02      Nightingale's Lamellar Armor
+gen_im_arm_cht_med_act3_03      Longshadow Hauberk
+gen_im_arm_cht_med_champion     Arms of the Champion
+gen_im_arm_cht_med_lore_01      Cuirass of the Winds
+gen_im_arm_cht_med_set_high     Guardian of Enasalin
+gen_im_arm_cht_med_set_med      Last Descent Armor
+gen_im_arm_cht_med_start        Rough Leather Armor
+gen_im_arm_glv_hvy_act1_01      Wyvernscale Gauntlets
+gen_im_arm_glv_hvy_act1_02      Hands of Stone
+gen_im_arm_glv_hvy_act2_01      Handcrafted Dwarven Cuffs
+gen_im_arm_glv_hvy_act2_02      Alunduris
+gen_im_arm_glv_hvy_act2_03      Surfacer Stone Gauntlets
+gen_im_arm_glv_hvy_act3_01      Gauntlets of the Dark Breath
+gen_im_arm_glv_hvy_act3_02      Ashen Gauntlets
+gen_im_arm_glv_hvy_champion     Gauntlets of the Champion
+gen_im_arm_glv_hvy_set_high     Stonehammer Gauntlets
+gen_im_arm_glv_hvy_set_med      Gauntlets of the Fallen
+gen_im_arm_glv_hvy_start        Fereldan Field Gloves
+gen_im_arm_glv_lgt_act1_01      Rune-Covered Gloves
+gen_im_arm_glv_lgt_act1_02      Silverite-Threaded Gloves
+gen_im_arm_glv_lgt_act2_01      Gloves of the Void
+gen_im_arm_glv_lgt_act2_02      Gauntlets of the Magister
+gen_im_arm_glv_lgt_act3_01      Lyrium Embroidered Gloves
+gen_im_arm_glv_lgt_act3_02      Gauntlets
+gen_im_arm_glv_lgt_act3_03      Gloves of June
+gen_im_arm_glv_lgt_champion     Gloves of the Champion
+gen_im_arm_glv_lgt_lore_01      Vir Atish'an
+gen_im_arm_glv_lgt_set_high     Gloves of the Overseer
+gen_im_arm_glv_lgt_set_med      Gloves of the Spiral Eye
+gen_im_arm_glv_lgt_start        Apostate's Cuffs
+gen_im_arm_glv_med_act1_01      Alchemist's Protective Handguards
+gen_im_arm_glv_med_act1_02      Bloody Butcher's Gloves
+gen_im_arm_glv_med_act1_03      Raider Gloves
+gen_im_arm_glv_med_act2_01      Stoneclutcher's Gloves
+gen_im_arm_glv_med_act2_02      Gauntlets of the Ashaad
+gen_im_arm_glv_med_act2_03      Rat-Nibbled Gloves
+gen_im_arm_glv_med_act3_01      Gloves of the Wilder
+gen_im_arm_glv_med_act3_02      Hands of Glory
+gen_im_arm_glv_med_act3_03      Quick Hands
+gen_im_arm_glv_med_champion     Gloves of the Champion
+gen_im_arm_glv_med_set_high     Gloves of Enasalin
+gen_im_arm_glv_med_set_med      Last Descent Gauntlets
+gen_im_arm_glv_med_start        Rough Leather Handwraps
+gen_im_arm_hlm_hvy_act1_01      Imperial Bloodhelm
+gen_im_arm_hlm_hvy_act1_02      Helm of Victory
+gen_im_arm_hlm_hvy_act1_03      Roar
+gen_im_arm_hlm_hvy_act2_01      Chevalier Silverite Helm
+gen_im_arm_hlm_hvy_act2_02      Helm of the Emerald Knights
+gen_im_arm_hlm_hvy_act3_01      Warden's Coif
+gen_im_arm_hlm_hvy_act3_02      Dwarven Battle Helm
+gen_im_arm_hlm_hvy_act3_03      King's Bounty
+gen_im_arm_hlm_hvy_champion     Helm of the Champion
+gen_im_arm_hlm_hvy_lore_01      Garahel’s Helm
+gen_im_arm_hlm_hvy_set_high     Stonehammer Helm
+gen_im_arm_hlm_hvy_set_med      Helmet of the Fallen
+gen_im_arm_hlm_lgt_act1_01      Slaver Lord's Cowl
+gen_im_arm_hlm_lgt_act1_02      Thinking Cap
+gen_im_arm_hlm_lgt_act1_03      Illwan's Hood
+gen_im_arm_hlm_lgt_act2_01      Gascard DuPuis's Favorite Hat
+gen_im_arm_hlm_lgt_act2_02      Tevinter Enchanter's Cap
+gen_im_arm_hlm_lgt_act3_01      Circlet of the Dreamer
+gen_im_arm_hlm_lgt_act3_02      Hood of the Formari
+gen_im_arm_hlm_lgt_act3_03      Regret
+gen_im_arm_hlm_lgt_champion     Hood of the Champion
+gen_im_arm_hlm_lgt_set_high     Cowl of the Overseer
+gen_im_arm_hlm_lgt_set_med      Hood of the Spiral Eye
+gen_im_arm_hlm_med_act1_01      Mask of the Imperium
+gen_im_arm_hlm_med_act1_02      Henchman Cowl
+gen_im_arm_hlm_med_act2_01      DuPuis Family Chapeaux
+gen_im_arm_hlm_med_act2_02      Blackguard Shroud
+gen_im_arm_hlm_med_act2_03      Mariner's Trust
+gen_im_arm_hlm_med_act3_01      Cap of Kings
+gen_im_arm_hlm_med_act3_02      Tenebral Cowl
+gen_im_arm_hlm_med_champion     Helm of the Champion
+gen_im_arm_hlm_med_set_high     Helm of Enasalin
+gen_im_arm_hlm_med_set_med      Last Descent Helmet
+gen_im_cft_rec_arn_01           Design: Rune of Protection
+gen_im_cft_rec_arn_02           Design: Rune of Fortune
+gen_im_cft_rec_arn_03           Design: Rune of Frost Warding
+gen_im_cft_rec_arn_04           Design: Rune of Fire Warding
+gen_im_cft_rec_arn_05           Design: Rune of Lightning Warding
+gen_im_cft_rec_arn_06           Design: Rune of Nature Warding
+gen_im_cft_rec_arn_07           Design: Rune of Spirit Warding
+gen_im_cft_rec_arn_08           Design: Rune of Defense
+gen_im_cft_rec_arn_09           Design: Rune of Valiance
+gen_im_cft_rec_bmb_01           Formula: Combustion Grenade
+gen_im_cft_rec_bmb_02           Formula: Tar Bomb
+gen_im_cft_rec_bmb_03           Formula: Mythal's Favor
+gen_im_cft_rec_bmb_04           Formula: Fell Grenade
+gen_im_cft_rec_pot_01           Recipe: Elfroot Potion
+gen_im_cft_rec_pot_02           Recipe: Elixir of Purity
+gen_im_cft_rec_pot_03           Recipe: Spindleweed Brew
+gen_im_cft_rec_pot_04           Recipe: Restoration Potion
+gen_im_cft_rec_pot_05           Recipe: Life Ward Potion
+gen_im_cft_rec_pot_06           Recipe: Rock Armor Potion
+gen_im_cft_rec_pot_07           Recipe: Mighty Offense Potion
+gen_im_cft_rec_pot_08           Recipe: Elixir of Heroism
+gen_im_cft_rec_psn_01           Formula: Debilitating Poison
+gen_im_cft_rec_psn_02           Formula: Crow Venom
+gen_im_cft_rec_psn_03           Formula: Deathroot Toxin
+gen_im_cft_rec_psn_04           Formula: Arcane Poison
+gen_im_cft_rec_psn_05           Formula: Fell Poison
+gen_im_cft_rec_wrn_01           Design: Rune of Impact
+gen_im_cft_rec_wrn_02           Design: Rune of Frost
+gen_im_cft_rec_wrn_03           Design: Rune of Fire
+gen_im_cft_rec_wrn_04           Design: Rune of Lightning
+gen_im_cft_rec_wrn_05           Design: Rune of Nature
+gen_im_cft_rec_wrn_06           Design: Rune of Spirit
+gen_im_cft_rec_wrn_07           Design: Rune of Striking
+gen_im_cft_rec_wrn_08           Design: Rune of Devastation
+gen_im_cft_reg_a                Elfroot
+gen_im_cft_reg_a1               Bitter Elfroot
+gen_im_cft_reg_a2               Gossamer Elfroot
+gen_im_cft_reg_a3               Royal Elfroot
+gen_im_cft_reg_b                Spindleweed
+gen_im_cft_reg_b1               Common Spindleweed
+gen_im_cft_reg_b2               Dwarf's Spindleweed
+gen_im_cft_reg_c                Embrium
+gen_im_cft_reg_c1               Salubrious Embrium
+gen_im_cft_reg_c2               Dark Embrium
+gen_im_cft_reg_d                Ambrosia
+gen_im_cft_reg_d1               Ambrosia
+gen_im_cft_reg_e                Deep Mushroom
+gen_im_cft_reg_e1               Blightcap Mushroom
+gen_im_cft_reg_e2               Ghoul's Mushroom
+gen_im_cft_reg_e3               Brimstone Mushroom
+gen_im_cft_reg_f                Deathroot
+gen_im_cft_reg_f1               Arcanist Deathroot
+gen_im_cft_reg_f2               Lunatic's Deathroot
+gen_im_cft_reg_g                Glitterdust
+gen_im_cft_reg_g1               Volatile Glitterdust
+gen_im_cft_reg_g2               Tainted Glitterdust
+gen_im_cft_reg_h                Felandaris
+gen_im_cft_reg_h1               Felandaris
+gen_im_cft_reg_i                Lyrium
+gen_im_cft_reg_i1               Refined Lyrium
+gen_im_cft_reg_i2               Raw Lyrium
+gen_im_cft_reg_i3               Corrupted Lyrium
+gen_im_cft_reg_j                Silverite
+gen_im_cft_reg_j1               Silverite Ore
+gen_im_cft_reg_j2               Pale Silverite
+gen_im_cft_reg_k                Orichalcum
+gen_im_cft_reg_k1               Deep Orichalcum
+gen_im_cft_reg_k2               Crystalline Orichalcum
+gen_im_cft_reg_l                Dragon's Blood
+gen_im_cft_reg_l1               Dragon's Blood
+gen_im_cns_arn_celestial        Celestial Rune
+gen_im_cns_arn_torpor           Torpor's Barrier Rune
+gen_im_cns_cft_arn_01           Rune of Protection
+gen_im_cns_cft_arn_02           Rune of Fortune
+gen_im_cns_cft_arn_03           Rune of Frost Warding
+gen_im_cns_cft_arn_04           Rune of Fire Warding
+gen_im_cns_cft_arn_05           Rune of Lightning Warding
+gen_im_cns_cft_arn_06           Rune of Nature Warding
+gen_im_cns_cft_arn_07           Rune of Spirit Warding
+gen_im_cns_cft_arn_08           Rune of Defense
+gen_im_cns_cft_arn_09           Rune of Valiance
+gen_im_cns_cft_bmb_01           Combustion Grenade
+gen_im_cns_cft_bmb_02           Tar Bomb
+gen_im_cns_cft_bmb_03           Mythal's Favor
+gen_im_cns_cft_bmb_04           Fell Grenade
+gen_im_cns_cft_pot_01           Elfroot Potion
+gen_im_cns_cft_pot_02           Elixir of Purity
+gen_im_cns_cft_pot_04           Restoration Potion
+gen_im_cns_cft_pot_05           Life Ward Potion
+gen_im_cns_cft_pot_06           Rock Armor Potion
+gen_im_cns_cft_pot_07           Mighty Offense Potion
+gen_im_cns_cft_pot_08           Elixir of Heroism
+gen_im_cns_cft_psn_01           Debilitating Poison
+gen_im_cns_cft_psn_02           Crow Venom
+gen_im_cns_cft_psn_03           Deathroot Toxin
+gen_im_cns_cft_psn_04           Arcane Poison
+gen_im_cns_cft_psn_05           Fell Poison
+gen_im_cns_cft_wrn_01           Rune of Impact
+gen_im_cns_cft_wrn_02           Rune of Frost
+gen_im_cns_cft_wrn_03           Rune of Fire
+gen_im_cns_cft_wrn_04           Rune of Lightning
+gen_im_cns_cft_wrn_05           Rune of Nature
+gen_im_cns_cft_wrn_06           Rune of Spirit
+gen_im_cns_cft_wrn_07           Rune of Striking
+gen_im_cns_cft_wrn_08           Rune of Devastation
+gen_im_cns_flu_anders_01        Spirit Essence
+gen_im_cns_flu_anders_02        Armor Struts
+gen_im_cns_flu_anders_03        Sigil of the Mage Underground
+gen_im_cns_flu_anders_04        Lyrium Weave
+gen_im_cns_flu_aveline_01       Underpadding – Guardsman Pattern
+gen_im_cns_flu_aveline_02       Flex-Chain – Guardsman Pattern
+gen_im_cns_flu_aveline_03       Impact Plating – Guardsman Pattern
+gen_im_cns_flu_aveline_04       Deflecting Joints – Guardsman Pattern
+gen_im_cns_flu_bethany_01       Heirloom Amell Protective Sigils
+gen_im_cns_flu_carver_01        Fereldan Girded Plating
+gen_im_cns_flu_fenris_01        Reinforced Straps
+gen_im_cns_flu_fenris_02        Enchanted Resin
+gen_im_cns_flu_fenris_03        Lyrium Scales
+gen_im_cns_flu_fenris_04        Tevinter Spirit Symbol
+gen_im_cns_flu_isabela_01       Lambswool Insoles
+gen_im_cns_flu_isabela_02       Rigid Boning
+gen_im_cns_flu_isabela_03       Boiled Leather Plates
+gen_im_cns_flu_isabela_04       Supportive Corselet
+gen_im_cns_flu_merril_01        Carved Ironwood Buttons
+gen_im_cns_flu_merril_02        Samite Lining
+gen_im_cns_flu_merril_03        Silver-Threaded Dalish Embroidery
+gen_im_cns_flu_merril_04        Halla Horn Buckles
+gen_im_cns_flu_sebastian_01     Reinforced Bracers
+gen_im_cns_flu_sebastian_02     Mail Undertunic
+gen_im_cns_flu_sebastian_03     Enhanced Articulation
+gen_im_cns_flu_sebastian_04     Protection of the Faith
+gen_im_cns_flu_varric_01        Coat Lining with Concealed Pockets
+gen_im_cns_flu_varric_02        Inscribed Leather Harness
+gen_im_cns_flu_varric_03        Silverite-Reinforced Buckles
+gen_im_cns_flu_varric_04        Drakeskin Leg Straps
+gen_im_cns_msc_backpack_01      Backpack
+gen_im_cns_msc_backpack_02      Large Backpack
+gen_im_cns_pot_attribute_01     Elixir of the Mortal Vessel
+gen_im_cns_pot_attribute_02     Greater Elixir of the Mortal Vessel
+gen_im_cns_pot_attribute_03     Arcane Elixir of the Mortal Vessel
+gen_im_cns_pot_avernus          Avernus’s Experimental Draught
+gen_im_cns_pot_health_01        Health Potion
+gen_im_cns_pot_injury_01        Injury Kit
+gen_im_cns_pot_level_01         Maker's Breath
+gen_im_cns_pot_mana_01          Lyrium Potion
+gen_im_cns_pot_respec_01        Maker's Sigh
+gen_im_cns_pot_stamina_01       Stamina Draught
+gen_im_cns_pot_technique_01     Elixir of Arcane Technique
+gen_im_cns_pot_technique_02     Elixir of Physical Technique
+gen_im_cns_pot_xp_01            Elixir of the Ages
+gen_im_cns_tom_attribute_01     Tome of the Mortal Vessel
+gen_im_cns_tom_attribute_02     Greater Tome of the Mortal Vessel
+gen_im_cns_tom_attribute_03     Arcane Tome of the Mortal Vessel
+gen_im_cns_tom_mag_archmage     Manual: Archmage Specialization
+gen_im_cns_tom_mag_bldmage      Manual: Blood Mage Specialization
+gen_im_cns_tom_mag_frcmage      Manual: Force Mage Specialization
+gen_im_cns_tom_mag_sphealer     Manual: Spirit Healer Specialization
+gen_im_cns_tom_rog_assassin     Manual: Assassin Specialization
+gen_im_cns_tom_rog_bard         Manual: Bard Specialization
+gen_im_cns_tom_rog_duelist      Manual: Duelist Specialization
+gen_im_cns_tom_rog_shadow       Manual: Shadow Specialization
+gen_im_cns_tom_talent_01        Tome of Technique
+gen_im_cns_tom_war_berserkr     Manual: Berserker Specialization
+gen_im_cns_tom_war_juggnaut     Manual: Juggernaut Specialization
+gen_im_cns_tom_war_reaver       Manual: Reaver Specialization
+gen_im_cns_tom_war_templar      Manual: Templar Specialization
+gen_im_cns_wrn_primeval         Primeval Lyrium Rune
+gen_im_cns_wrn_sandal_act1      Sandal's Special Rune
+gen_im_copper                   Copper
+gen_im_cutscene_dagger          Dual Weapon Default
+gen_im_cut_arrow                TEMP: Cinematic Design Only
+gen_im_cut_cross_bolt           TEMP: Cinematic Design Only
+gen_im_cut_dagger               TEMP: Cinematic Design Only
+gen_im_cut_isabella_dagger      Dagger
+gen_im_delete_me_01             Splintmail Gloves
+gen_im_delete_me_03             Weapon and Shield Default
+gen_im_delete_me_04             Splintmail Boots
+gen_im_delete_me_05             Heavy Chain Mail Gloves
+gen_im_delete_me_06             Splintmail Gloves
+gen_im_delete_me_07             Splintmail
+gen_im_delete_me_08             Heavy Chain Mail
+gen_im_delete_me_09             Splintmail Boots
+gen_im_delete_me_10             Heavy Chain Mail Boots
+gen_im_fla_acc_isabela_01       Rivaini Fertility Talisman
+gen_im_fla_anders_01            Renegade's Coat
+gen_im_fla_anders_02            Renegade's Coat
+gen_im_fla_aveline_01           Modified Officers’ Issue 
+gen_im_fla_aveline_02           Guardsman Plate and Chain
+gen_im_fla_aveline_03           Guard-Captain's Ranked Plate
+gen_im_fla_bethany_01           Hawke's Pinions
+gen_im_fla_bethany_02           Bethany's Circle Mage Robes
+gen_im_fla_bethany_03           Bethany's Grey Warden Robes
+gen_im_fla_carver_01            Fereldan Man-at-Arms Issue
+gen_im_fla_carver_02            Knight-Corporal Plate
+gen_im_fla_carver_03            Plate of the Warden-Ensign
+gen_im_fla_fenris_01            Grafted Spirit Hide
+gen_im_fla_fenris_02            Grafted Spirit Hide
+gen_im_fla_isabela_01           Threads of the Eastern Seas
+gen_im_fla_isabela_02           Threads of the Eastern Seas
+gen_im_fla_merril_01            Vestments of the First
+gen_im_fla_merril_02            Raiments of the Dalish Pariah
+gen_im_fla_sebastian_01         Vael Family Armor
+gen_im_fla_varric_01            Varric's Tailored Leather Duster
+gen_im_fla_varric_02            Varric's Armored Leather Duster
+gen_im_flw_arc_sebastian_01     Temperance
+gen_im_flw_arc_sebastian_02     Starkhaven Longbow
+gen_im_flw_arc_varric_01        Bianca
+gen_im_flw_arc_varric_02        Bianca
+gen_im_flw_arc_varric_03        Bianca
+gen_im_flw_arc_varric_04        Bianca
+gen_im_flw_dua_isabela_01       Backstabber
+gen_im_flw_dua_isabela_02       Heartbreaker
+gen_im_flw_one_aveline_01       Chevalier's Reach
+gen_im_flw_shd_aveline_01       Ser Wesley's Shield
+gen_im_flw_shd_aveline_02       Shield of the Knight Herself
+gen_im_flw_sta_anders_01        Freedom's Call
+gen_im_flw_sta_bethany_01       Birchcore
+gen_im_flw_sta_bethany_02       Staff of the New Growth
+gen_im_flw_sta_bethany_03       Staff of the Blighted Heartwood
+gen_im_flw_sta_merril_01        Vir Tasallan
+gen_im_flw_two_carver_01        Longbar Blade
+gen_im_flw_two_carver_02        Grace-Maker
+gen_im_flw_two_carver_03        Seeker of the Gray
+gen_im_flw_two_fenris_01        Lethendralis
+gen_im_flw_two_fenris_02        Blade of Mercy
+gen_im_home_clothing            Finery
+gen_im_npc_arm_hum_cht_cira     Cloth Robe
+gen_im_npc_arm_hum_cht_cirb     Cloth Robe
+gen_im_trs_apo_junk1_01         Enchanted Locket
+gen_im_trs_apo_junk1_02         Gold-Bound Tome
+gen_im_trs_apo_junk1_03         Blood Totem
+gen_im_trs_apo_junk1_04         Pristine Grimoire
+gen_im_trs_apo_junk2_01         Tattered Sheets
+gen_im_trs_apo_junk2_02         Tattered Bedroll
+gen_im_trs_apo_junk2_03         Bedroll
+gen_im_trs_apo_junk2_04         Silk Bedroll
+gen_im_trs_apo_lgt_boo_r0       Neophyte Mage Boots
+gen_im_trs_apo_lgt_boo_r1       Adept Mage Boots
+gen_im_trs_apo_lgt_boo_r2       Empowered Mage Boots
+gen_im_trs_apo_lgt_cht_r0       Neophyte Robes
+gen_im_trs_apo_lgt_cht_r1       Adept Robes
+gen_im_trs_apo_lgt_cht_r2       Empowered Robes
+gen_im_trs_apo_lgt_glv_r0       Neophyte Mage Gloves
+gen_im_trs_apo_lgt_glv_r1       Adept Mage Gloves
+gen_im_trs_apo_lgt_glv_r2       Empowered Mage Gloves
+gen_im_trs_apo_lgt_hlm_r0       Neophyte Mage Cowl
+gen_im_trs_apo_lgt_hlm_r1       Adept Mage Cowl
+gen_im_trs_apo_lgt_hlm_r2       Empowered Mage Cowl
+gen_im_trs_apo_rng_r0           Ring of Minor Cantrips
+gen_im_trs_apo_rng_r1           Ring of Transitional Power
+gen_im_trs_apo_rng_r2           Ring of Greater Empowerment
+gen_im_trs_apo_sta_03           Airhert's Spine
+gen_im_trs_apo_sta_cld_r0       Staff of the Apprentice
+gen_im_trs_apo_sta_cld_r1       Staff of the Adept
+gen_im_trs_apo_sta_cld_r2       Staff of the Magister
+gen_im_trs_apo_sta_ele_r0       Bound Staff
+gen_im_trs_apo_sta_ele_r1       Channeled Staff
+gen_im_trs_apo_sta_ele_r2       Fortified Staff
+gen_im_trs_apo_sta_fir_r0       Improvised Enchanters' Staff
+gen_im_trs_apo_sta_fir_r1       Conjurors' Stake
+gen_im_trs_apo_sta_fir_r2       Archmage's Conduit
+gen_im_trs_bks_bestiary         Bestiary of The Free Marshes
+gen_im_trs_bks_champ_kirk       The Champion of Kirkwall
+gen_im_trs_bks_chant            Chant of Light
+gen_im_trs_bks_enchanter        Enchanters and Their Craft
+gen_im_trs_bks_good_breed       Tome of Good Breeding and Etiquette
+gen_im_trs_bks_orlais           Rose of Orlais
+gen_im_trs_bks_risekirk         The Rise of Kirkwall
+gen_im_trs_bks_trueprophet      The Search for the True Prophet
+gen_im_trs_bow                  Simple Recurve
+gen_im_trs_bst_claws_01         Dew Claw
+gen_im_trs_bst_claws_02         Cracked Foreclaw
+gen_im_trs_bst_claws_03         Rooted Foreclaw
+gen_im_trs_bst_claws_04         Paired Foreclaw
+gen_im_trs_bst_drg_eye_01       Dragon Vitriol
+gen_im_trs_bst_drg_eye_02       Dragon Iris
+gen_im_trs_bst_drg_eye_03       Whole Dragon Eye
+gen_im_trs_bst_drg_eye_04       Emerald Dragon Eye
+gen_im_trs_bst_drg_gland_01     Fire Gland Essence
+gen_im_trs_bst_drg_gland_02     Ruptured Fire Gland
+gen_im_trs_bst_drg_gland_03     Fire Gland
+gen_im_trs_bst_drg_gland_04     Saturated Fire Gland
+gen_im_trs_bst_drg_scale_01     Dragon Foot Scute
+gen_im_trs_bst_drg_scale_02     Large Belly Scale
+gen_im_trs_bst_drg_scale_03     Notched Back Scale
+gen_im_trs_bst_drg_scale_04     Pristine Back Scale
+gen_im_trs_bst_hunt_dag         Hunter's Dagger
+gen_im_trs_bst_kidney_01        Gallstone
+gen_im_trs_bst_kidney_02        Small Gallbladder
+gen_im_trs_bst_kidney_03        Gallbladder
+gen_im_trs_bst_kidney_04        Enlarged Gallbladder
+gen_im_trs_bst_liver_01         Discolored Bile
+gen_im_trs_bst_liver_02         Black Bile
+gen_im_trs_bst_liver_03         Red Bile
+gen_im_trs_bst_liver_04         Clear Bile
+gen_im_trs_bst_pelt_01          Rough Pelt
+gen_im_trs_bst_pelt_02          Off-Color Pelt
+gen_im_trs_bst_pelt_03          Thick Pelt
+gen_im_trs_bst_pelt_04          Exceptional Pelt
+gen_im_trs_bst_spd_fang_01      Split Spider Fang
+gen_im_trs_bst_spd_fang_02      Small Spider Fang
+gen_im_trs_bst_spd_fang_03      Spider Fang
+gen_im_trs_bst_spd_fang_04      Oversized Spider Fang
+gen_im_trs_bst_spd_gland_01     Poison Gland Essence
+gen_im_trs_bst_spd_gland_02     Silk Gland Essence
+gen_im_trs_bst_spd_gland_03     Poison Gland
+gen_im_trs_bst_spd_gland_04     Silk Gland
+gen_im_trs_bst_spd_silk_01      Coarse Spider Hairs
+gen_im_trs_bst_spd_silk_02      Spider Chitin
+gen_im_trs_bst_spd_silk_03      Spinnerets
+gen_im_trs_bst_spd_silk_04      Lustrous Spider Silk
+gen_im_trs_chn_andraste_01      Bronze Andrastian Holy Symbol
+gen_im_trs_chn_andraste_02      Steel Andrastian Holy Symbol
+gen_im_trs_chn_andraste_03      Silver Andrastian Holy Symbol
+gen_im_trs_chn_andraste_04      Golden Andrastian Holy Symbol
+gen_im_trs_chn_blt_r0           Belt of the Affirmed
+gen_im_trs_chn_blt_r1           Mothers' Cincture
+gen_im_trs_chn_blt_r2           Blessed Goldenweave Belt
+gen_im_trs_chn_dua_dag_r0       Blade of Calling
+gen_im_trs_chn_dua_dag_r1       Blade of Forgiveness
+gen_im_trs_chn_dua_dag_r2       Blade of Deliverance
+gen_im_trs_chn_junk2_01         Vial of Holy Water
+gen_im_trs_chn_junk2_02         Pressed Rose
+gen_im_trs_chn_junk2_03         Silver Prayer Necklace
+gen_im_trs_chn_junk2_04         Weathered Book of Chants
+gen_im_trs_chn_light_doc_01     Page of the Chant of Light Doctrine
+gen_im_trs_chn_light_doc_02     Tattered Chant of Light Doctrine
+gen_im_trs_chn_light_doc_03     Chant of Light Doctrine
+gen_im_trs_chn_light_doc_04     Pristine Chant of Light Doctrine
+gen_im_trs_chn_rng_r0           Andraste's Grace
+gen_im_trs_chn_rng_r1           Andraste's Wisdom
+gen_im_trs_chn_rng_r2           Andraste's Sacrifice
+gen_im_trs_chn_robe             Chantry Robes
+gen_im_trs_chn_shd_wdn_r0       Shield of the Light
+gen_im_trs_chn_shd_wdn_r1       Shield of the Flame
+gen_im_trs_chn_shd_wdn_r2       Shield of the Faith
+gen_im_trs_cot_arc_lbw_r0       Shadow Bow
+gen_im_trs_cot_arc_lbw_r1       Superior Shadow Bow
+gen_im_trs_cot_arc_lbw_r2       Enchanted Shadow Bow
+gen_im_trs_cot_arc_sbw_r0       Quickbow
+gen_im_trs_cot_arc_sbw_r1       Superior Quickbow
+gen_im_trs_cot_arc_sbw_r2       Enchanted Quickbow
+gen_im_trs_cot_blt_r0           Rogue's Belt
+gen_im_trs_cot_blt_r1           Ornate Rogue's Belt
+gen_im_trs_cot_blt_r2           Greater Rogue Belt
+gen_im_trs_cot_dua_dag_r0       Stiletto
+gen_im_trs_cot_dua_dag_r1       Superior Stiletto
+gen_im_trs_cot_dua_dag_r2       Enchanted Stiletto
+gen_im_trs_cot_junk1_01         Iron Rasp
+gen_im_trs_cot_junk1_02         Brass Knuckles
+gen_im_trs_cot_junk1_03         Bent Lockpick
+gen_im_trs_cot_junk1_04         Poison Ring
+gen_im_trs_cot_junk2_01         Dull Shiv
+gen_im_trs_cot_junk2_02         Empty Poison Flask
+gen_im_trs_cot_junk2_03         Chain Garrote
+gen_im_trs_cot_junk2_04         Gaudy Monogrammed Ring
+gen_im_trs_cot_junk3_01         Playing Cards
+gen_im_trs_cot_junk3_02         Loaded Dice
+gen_im_trs_cot_junk3_03         Heavy Copper Necklace
+gen_im_trs_cot_junk3_04         Gold Tooth
+gen_im_trs_cot_lgt_boo_r0       Coterie Mage Boots
+gen_im_trs_cot_lgt_boo_r1       Superior Coterie Mage Boots
+gen_im_trs_cot_lgt_boo_r2       Enchanted Coterie Mage Boots
+gen_im_trs_cot_lgt_cht_r0       Coterie Mage Robe
+gen_im_trs_cot_lgt_cht_r1       Superior Coterie Mage Robe
+gen_im_trs_cot_lgt_cht_r2       Enchanted Coterie Mage Robe
+gen_im_trs_cot_lgt_glv_r0       Coterie Mage Gloves
+gen_im_trs_cot_lgt_glv_r1       Superior Coterie Mage Gloves
+gen_im_trs_cot_lgt_glv_r2       Enchanted Coterie Mage Gloves
+gen_im_trs_cot_lgt_hlm_r0       Coterie Mage's Hood
+gen_im_trs_cot_lgt_hlm_r1       Superior Coterie Mage's Hood
+gen_im_trs_cot_lgt_hlm_r2       Enchanted Coterie Mage Hood
+gen_im_trs_cot_med_boo_r0       Rogue's Boots
+gen_im_trs_cot_med_boo_r1       Superior Rogue's Boots
+gen_im_trs_cot_med_boo_r2       Enchanted Rogue Boots
+gen_im_trs_cot_med_cht_r0       Rogue Armor
+gen_im_trs_cot_med_cht_r1       Superior Rogue Armor
+gen_im_trs_cot_med_cht_r2       Enchanted Rogue Armor
+gen_im_trs_cot_med_glv_r0       Shadow Gauntlets
+gen_im_trs_cot_med_glv_r1       Superior Shadow Gauntlets
+gen_im_trs_cot_med_glv_r2       Enchanted Shadow Gauntlets
+gen_im_trs_cot_med_hlm_r0       Shadow Helm
+gen_im_trs_cot_med_hlm_r1       Superior Shadow Helm
+gen_im_trs_cot_med_hlm_r2       Enchanted Shadow Helm
+gen_im_trs_cot_rng_r0           Rogue's Ring
+gen_im_trs_cot_rng_r1           Ornate Rogue's Ring
+gen_im_trs_cot_rng_r2           Greater Rogue Ring
+gen_im_trs_crc_amu_r0           Circle Journeyman Amulet
+gen_im_trs_crc_amu_r1           Circle Enchanters' Amulet
+gen_im_trs_crc_amu_r2           Transmuted Circle Amulet
+gen_im_trs_crc_junk1_01         Insignia of the Apprentice
+gen_im_trs_crc_junk1_02         Insignia of the Enchanter
+gen_im_trs_crc_junk1_03         Insignia of the Senior Enchanter
+gen_im_trs_crc_junk1_04         Insignia of the First Enchanter
+gen_im_trs_crc_junk2_01         Small Wet Pouch of Incense
+gen_im_trs_crc_junk2_02         Small Pouch of Incense
+gen_im_trs_crc_junk2_03         Pouch of Incense
+gen_im_trs_crc_junk2_04         Large Pouch of Incense
+gen_im_trs_crc_junk3_01         Rod of Fire Request Form
+gen_im_trs_crc_junk3_02         Signed Rod of Fire Request Form
+gen_im_trs_crc_junk3_03         Broken Rod of Fire
+gen_im_trs_crc_junk3_04         Rod of Fire
+gen_im_trs_crc_lgt_boo_r0       Circle Weavers - Minor
+gen_im_trs_crc_lgt_boo_r1       Circle Enchanters' Tall-Shoe
+gen_im_trs_crc_lgt_boo_r2       Circle Magi Brandishers
+gen_im_trs_crc_lgt_cht_r0       Charged Circle Robes
+gen_im_trs_crc_lgt_cht_r1       Robes of the Empowered Circle
+gen_im_trs_crc_lgt_cht_r2       War Mage Robes - Circle Bound
+gen_im_trs_crc_lgt_glv_r0       Gloves of the Circle - Minor
+gen_im_trs_crc_lgt_glv_r1       Gauntlets of the Empowered Circle
+gen_im_trs_crc_lgt_glv_r2       War Mage Gloves - Circle Bound
+gen_im_trs_crc_sta_02           Corrupted Acolyte's Staff
+gen_im_trs_crc_sta_nat_r0       Aequitarian Fraternity Staff
+gen_im_trs_crc_sta_nat_r1       Loyalist Fraternity Staff
+gen_im_trs_crc_sta_nat_r2       Shared-Fraternity Magus Staff
+gen_im_trs_crc_sta_phy_r0       Lesser Formari Staff
+gen_im_trs_crc_sta_phy_r1       Greater Formari Staff
+gen_im_trs_crc_sta_phy_r2       Empowered Formari Staff
+gen_im_trs_crc_sta_spi_r0       Isolationist Fraternity Staff
+gen_im_trs_crc_sta_spi_r1       Libertarian Fraternity Staff
+gen_im_trs_crc_sta_spi_r2       Shared-Fraternity War Staff
+gen_im_trs_dal_amu_r0           Dalish Amulet
+gen_im_trs_dal_amu_r1           Ornate Dalish Amulet
+gen_im_trs_dal_amu_r2           Greater Dalish Amulet
+gen_im_trs_dal_arc_lbw_r0       Dalish Longbow
+gen_im_trs_dal_arc_lbw_r1       Superior Dalish Longbow
+gen_im_trs_dal_arc_lbw_r2       Enchanted Dalish Longbow
+gen_im_trs_dal_arc_sbw_r0       Dalish Shortbow
+gen_im_trs_dal_arc_sbw_r1       Superior Dalish Shortbow
+gen_im_trs_dal_arc_sbw_r2       Enchanted Dalish Shortbow
+gen_im_trs_dal_blt_r0           Dalish Belt
+gen_im_trs_dal_blt_r1           Ornate Dalish Belt
+gen_im_trs_dal_blt_r2           Greater Dalish Belt
+gen_im_trs_dal_dua_dag_r0       Dalish Dagger
+gen_im_trs_dal_dua_dag_r1       Superior Dalish Dagger
+gen_im_trs_dal_dua_dag_r2       Enchanted Dalish Dagger
+gen_im_trs_dal_hvy_boo_r0       Heavy Elven Boots
+gen_im_trs_dal_hvy_boo_r1       Superior Heavy Elven Boots
+gen_im_trs_dal_hvy_boo_r2       Enchanted Heavy Elven Boots
+gen_im_trs_dal_hvy_cht_r0       Elven Plate Armor
+gen_im_trs_dal_hvy_cht_r1       Superior Elven Plate
+gen_im_trs_dal_hvy_cht_r2       Enchanted Elven Plate
+gen_im_trs_dal_hvy_glv_r0       Elven Gauntlets
+gen_im_trs_dal_hvy_glv_r1       Superior Elven Gauntlets
+gen_im_trs_dal_hvy_glv_r2       Enchanted Elven Gauntlets
+gen_im_trs_dal_hvy_hlm_r0       Elven Helmet
+gen_im_trs_dal_hvy_hlm_r1       Superior Elven Helmet
+gen_im_trs_dal_hvy_hlm_r2       Enchanted Elven Helmet
+gen_im_trs_dal_junk1_01         Empty Quiver
+gen_im_trs_dal_junk1_02         Broken Halla Horn
+gen_im_trs_dal_junk1_03         Carved Wooden Drinking Flask
+gen_im_trs_dal_junk1_04         Dalish Rope
+gen_im_trs_dal_junk2_01         Dalish Lantern
+gen_im_trs_dal_junk2_02         Map of the Brecilian Forest
+gen_im_trs_dal_junk2_03         Dalish Arrowheads
+gen_im_trs_dal_junk2_04         Carved Ironwood Statue
+gen_im_trs_dal_med_boo_r0       Elven Boots
+gen_im_trs_dal_med_boo_r1       Superior Elven Boots
+gen_im_trs_dal_med_boo_r2       Enchanted Elven Boots
+gen_im_trs_dal_med_cht_r0       Elven Leather Armor
+gen_im_trs_dal_med_cht_r1       Superior Elven Leather
+gen_im_trs_dal_med_cht_r2       Enchanted Elven Leather
+gen_im_trs_dal_med_glv_r0       Elven Gloves
+gen_im_trs_dal_med_glv_r1       Superior Elven Gloves
+gen_im_trs_dal_med_glv_r2       Enchanted Elven Gloves
+gen_im_trs_dal_med_hlm_r0       Elven Light Helm
+gen_im_trs_dal_med_hlm_r1       Superior Elven Light Helm
+gen_im_trs_dal_med_hlm_r2       Enchanted Elven Light Helm
+gen_im_trs_dal_one_lsw_r0       Dalish Longsword
+gen_im_trs_dal_one_lsw_r1       Superior Dalish Longsword
+gen_im_trs_dal_one_lsw_r2       Enchanted Dalish Longsword
+gen_im_trs_dal_shd_wdn_r0       Ironwood Shield
+gen_im_trs_dal_shd_wdn_r1       Superior Ironwood Shield
+gen_im_trs_dal_shd_wdn_r2       Enchanted Ironwood Shield
+gen_im_trs_dal_two_2hs_r0       Ironwood Warblade
+gen_im_trs_dal_two_2hs_r1       Superior Ironwood Warblade
+gen_im_trs_dal_two_2hs_r2       Enchanted Ironwood War Blade
+gen_im_trs_dem_amu_r0           Demonic Amulet
+gen_im_trs_dem_amu_r1           Ornate Demonic Amulet
+gen_im_trs_dem_amu_r2           Greater Demonic Amulet
+gen_im_trs_dem_blt_r0           Demonic Belt
+gen_im_trs_dem_blt_r1           Ornate Demonic Belt
+gen_im_trs_dem_blt_r2           Greater Demonic Belt
+gen_im_trs_dem_junk1_01         Fell Residue
+gen_im_trs_dem_junk1_02         Demonic Ash
+gen_im_trs_dem_junk1_03         Demonic Embers
+gen_im_trs_dem_junk1_04         Ethereal Scoria
+gen_im_trs_dem_junk2_01         Degenerate Essence
+gen_im_trs_dem_junk2_02         Demonic Ichor
+gen_im_trs_dem_junk2_03         Spectral Extract
+gen_im_trs_dem_junk2_04         Daemonia Vitae
+gen_im_trs_dem_lgt_boo_r0       Demonic Footwraps
+gen_im_trs_dem_lgt_boo_r1       Ornate Demonic Footwraps
+gen_im_trs_dem_lgt_boo_r2       Greater Demonic Footwraps
+gen_im_trs_dem_lgt_cht_r0       Demonic Robes
+gen_im_trs_dem_lgt_cht_r1       Ornate Demonic Robes
+gen_im_trs_dem_lgt_cht_r2       Greater Demonic Robes
+gen_im_trs_dem_lgt_glv_r0       Demonic Gloves
+gen_im_trs_dem_lgt_glv_r1       Ornate Demonic Gloves
+gen_im_trs_dem_lgt_glv_r2       Greater Demonic Gloves
+gen_im_trs_dem_lgt_hlm_r0       Demonic Hood
+gen_im_trs_dem_lgt_hlm_r1       Ornate Demonic Hood
+gen_im_trs_dem_lgt_hlm_r2       Greater Demonic Hood
+gen_im_trs_dem_rng_r0           Demonic Ring
+gen_im_trs_dem_rng_r1           Ornate Demonic Ring
+gen_im_trs_dem_rng_r2           Greater Demonic Ring
+gen_im_trs_dem_sta_fir_r0       Demonic Rod
+gen_im_trs_dem_sta_fir_r1       Ornate Demonic Rod
+gen_im_trs_dem_sta_fir_r2       Greater Demonic Rod
+gen_im_trs_dem_sta_spi_r0       Demonic Staff
+gen_im_trs_dem_sta_spi_r1       Ornate Demonic Staff
+gen_im_trs_dem_sta_spi_r2       Greater Demonic Staff
+gen_im_trs_drk_amu_r0           Twisted Amulet
+gen_im_trs_drk_amu_r1           Tainted Amulet
+gen_im_trs_drk_amu_r2           Blighted Amulet
+gen_im_trs_drk_junk1_01         Vial of Darkspawn Blood
+gen_im_trs_drk_junk1_02         Darkspawn Totem
+gen_im_trs_drk_junk1_03         Ruined Dwarven Artifact
+gen_im_trs_drk_junk1_04         Ancient Dwarven Carving
+gen_im_trs_drk_junk2_01         Darkspawn Armor Fragment
+gen_im_trs_drk_junk2_02         Broken Darkspawn Blade
+gen_im_trs_drk_junk2_03         Tainted Dwarven Jewelry
+gen_im_trs_drk_junk2_04         Piece of Raw Lyrium
+gen_im_trs_drk_one_axe_r0       Notched Darkspawn Hatchet
+gen_im_trs_drk_one_axe_r1       Wicked Darkspawn Hatchet
+gen_im_trs_drk_one_axe_r2       Ruthless Darkspawn Hatchet
+gen_im_trs_drk_one_lsw_r0       Notched Darkspawn Blade
+gen_im_trs_drk_one_lsw_r1       Wicked Darkspawn Blade
+gen_im_trs_drk_one_lsw_r2       Ruthless Darkspawn Blade
+gen_im_trs_drk_one_mac_r0       Notched Darkspawn Hammer
+gen_im_trs_drk_one_mac_r1       Wicked Darkspawn Hammer
+gen_im_trs_drk_one_mac_r2       Ruthless Darkspawn Hammer
+gen_im_trs_drk_shd_met_r0       Pitted Darkspawn War Shield
+gen_im_trs_drk_shd_met_r1       Heavy Darkspawn War Shield
+gen_im_trs_drk_shd_met_r2       Superior Darkspawn War Shield
+gen_im_trs_drk_two_2ha_r0       Notched Darkspawn War Axe
+gen_im_trs_drk_two_2ha_r1       Wicked Darkspawn War Axe
+gen_im_trs_drk_two_2ha_r2       Ruthless Darkspawn War Axe
+gen_im_trs_drk_two_2hm_r0       Notched Darkspawn Maul
+gen_im_trs_drk_two_2hm_r1       Wicked Darkspawn Maul
+gen_im_trs_drk_two_2hm_r2       Ruthless Darkspawn Maul
+gen_im_trs_drk_two_2hs_r0       Notched Darkspawn Slayer
+gen_im_trs_drk_two_2hs_r1       Wicked Darkspawn Slayer
+gen_im_trs_drk_two_2hs_r2       Ruthless Darkspawn Slayer
+gen_im_trs_dwv_dua_dag_r0       Dwarven Dagger
+gen_im_trs_dwv_dua_dag_r1       Superior Dwarven Dagger
+gen_im_trs_dwv_dua_dag_r2       Masterwork Dwarven Dagger
+gen_im_trs_dwv_heavy_helm       Surfacer Stone Helmet
+gen_im_trs_dwv_junk1_01         Black Dwarven Ale
+gen_im_trs_dwv_junk1_02         Chasind Sack Mead
+gen_im_trs_dwv_junk1_03         Orlesian Honeywine
+gen_im_trs_dwv_junk1_04         Fancy Antivan Wine
+gen_im_trs_dwv_junk2_01         Weathered Dwarven Clan Pin
+gen_im_trs_dwv_junk2_02         Silver Orzammar Coin
+gen_im_trs_dwv_junk2_03         Gold Orzammar Coin
+gen_im_trs_dwv_junk2_04         Embroidered Clan Shield
+gen_im_trs_dwv_junk3_01         Small Silver Bar
+gen_im_trs_dwv_junk3_02         Large Silver Bar
+gen_im_trs_dwv_junk3_03         Small Gold Bar
+gen_im_trs_dwv_junk3_04         Large Gold Bar
+gen_im_trs_dwv_junk4_01         Small Brass Scales
+gen_im_trs_dwv_junk4_02         Fake Coin Purse
+gen_im_trs_dwv_junk4_03         Merchant's Ledger
+gen_im_trs_dwv_junk4_04         Leather-Bound Trade Manifest
+gen_im_trs_dwv_junk5_01         Poisoned Pen
+gen_im_trs_dwv_junk5_02         False-Bottomed Strong Box
+gen_im_trs_dwv_junk5_03         False Gold Sovereign
+gen_im_trs_dwv_junk5_04         Solid Gold Noble Caste Pin
+gen_im_trs_dwv_med_boo_r0       Dwarven Leather Boots
+gen_im_trs_dwv_med_boo_r1       Superior Dwarven Leather Boots
+gen_im_trs_dwv_med_boo_r2       Masterwork Dwarven Leather Boots
+gen_im_trs_dwv_med_cht_r0       Dwarven Leather Breastplate
+gen_im_trs_dwv_med_cht_r1       Superior Dwarven Leather Breastplate
+gen_im_trs_dwv_med_cht_r2       Masterwork Dwarven Leather Breastplate
+gen_im_trs_dwv_med_glv_r0       Dwarven Leather Gloves
+gen_im_trs_dwv_med_glv_r1       Superior Dwarven Leather Gloves
+gen_im_trs_dwv_med_glv_r2       Masterwork Dwarven Leather Gloves
+gen_im_trs_dwv_med_hlm_r0       Dwarven Leather Helm
+gen_im_trs_dwv_med_hlm_r1       Superior Dwarven Leather Helm
+gen_im_trs_dwv_med_hlm_r2       Masterwork Dwarven Leather Helm
+gen_im_trs_gem_coral_01         Coral Fragment
+gen_im_trs_gem_coral_02         Small Coral
+gen_im_trs_gem_coral_03         Coral
+gen_im_trs_gem_coral_04         Large Coral
+gen_im_trs_gem_cub_zirc_01      Cracked Cubic Zirconia
+gen_im_trs_gem_cub_zirc_02      Small Cubic Zirconia
+gen_im_trs_gem_cub_zirc_03      Cubic Zirconia
+gen_im_trs_gem_cub_zirc_04      Large Cubic Zirconia
+gen_im_trs_gem_diamond_01       Flawed Diamond
+gen_im_trs_gem_diamond_02       Small Diamond
+gen_im_trs_gem_diamond_03       Diamond
+gen_im_trs_gem_diamond_04       Large Diamond
+gen_im_trs_gem_jade_01          Jade Fragment
+gen_im_trs_gem_jade_02          Small Jade
+gen_im_trs_gem_jade_03          Jade
+gen_im_trs_gem_jade_04          Large Jade
+gen_im_trs_gem_onyx_01          Onyx Fragment
+gen_im_trs_gem_onyx_02          Small Onyx
+gen_im_trs_gem_onyx_03          Onyx
+gen_im_trs_gem_onyx_04          Large Onyx
+gen_im_trs_gem_opal_01          Opal Fragment
+gen_im_trs_gem_opal_02          Small Opal
+gen_im_trs_gem_opal_03          Opal
+gen_im_trs_gem_opal_04          Large Opal
+gen_im_trs_gem_rosediam_01      Cracked Rose Diamond
+gen_im_trs_gem_rosediam_02      Small Rose Diamond
+gen_im_trs_gem_rosediam_03      Rose Diamond
+gen_im_trs_gem_rosediam_04      Large Rose Diamond
+gen_im_trs_gem_ruby_01          Flawed Ruby
+gen_im_trs_gem_ruby_02          Small Ruby
+gen_im_trs_gem_ruby_03          Ruby
+gen_im_trs_gem_ruby_04          Large Ruby
+gen_im_trs_gem_snowobsid_01     Cracked Snowflake Obsidian
+gen_im_trs_gem_snowobsid_02     Small Snowflake Obsidian
+gen_im_trs_gem_snowobsid_03     Snowflake Obsidian
+gen_im_trs_gem_snowobsid_04     Large Snowflake Obsidian
+gen_im_trs_gem_tigerseye_01     Tiger's Eye Fragment
+gen_im_trs_gem_tigerseye_02     Small Tiger's Eye
+gen_im_trs_gem_tigerseye_03     Tiger's Eye
+gen_im_trs_gem_tigerseye_04     Flawless Tiger's Eye
+gen_im_trs_gen_amu_r0           Amulet
+gen_im_trs_gen_amu_r1           Ornate Amulet
+gen_im_trs_gen_amu_r2           Greater Amulet
+gen_im_trs_gen_arc_lbw_r0       Longbow
+gen_im_trs_gen_arc_lbw_r1       Superior Longbow
+gen_im_trs_gen_arc_lbw_r2       Enchanted Longbow
+gen_im_trs_gen_arc_sbw_r0       Shortbow
+gen_im_trs_gen_arc_sbw_r1       Superior Shortbow
+gen_im_trs_gen_arc_sbw_r2       Enchanted Shortbow
+gen_im_trs_gen_blt_r0           Belt
+gen_im_trs_gen_blt_r1           Ornate Belt
+gen_im_trs_gen_blt_r2           Greater Belt
+gen_im_trs_gen_bracelet_01      Bronze Bracelet
+gen_im_trs_gen_bracelet_02      Steel Bracelet
+gen_im_trs_gen_bracelet_03      Silver Bracelet
+gen_im_trs_gen_bracelet_04      Golden Bracelet
+gen_im_trs_gen_brokenbow        Broken Bow
+gen_im_trs_gen_brokensword      Broken Longsword
+gen_im_trs_gen_broknshield      Cracked Wooden Shield
+gen_im_trs_gen_coinbag_01       Tiny Bag of Gems
+gen_im_trs_gen_coinbag_02       Small Bag of Coins
+gen_im_trs_gen_coinbag_03       Bag of Coins
+gen_im_trs_gen_coinbag_04       Large Bag of Coins
+gen_im_trs_gen_crackedstaff     Cracked Staff
+gen_im_trs_gen_dua_dag_r0       Dagger
+gen_im_trs_gen_dua_dag_r1       Superior Dagger
+gen_im_trs_gen_dua_dag_r2       Enchanted Dagger
+gen_im_trs_gen_hvy_boo_r0       Heavy Boots
+gen_im_trs_gen_hvy_boo_r1       Superior Heavy Boots
+gen_im_trs_gen_hvy_boo_r2       Enchanted Heavy Boots
+gen_im_trs_gen_hvy_cht_r0       Plate Armor
+gen_im_trs_gen_hvy_cht_r1       Superior Plate Armor
+gen_im_trs_gen_hvy_cht_r2       Enchanted Plate Armor
+gen_im_trs_gen_hvy_glv_r0       Gauntlets
+gen_im_trs_gen_hvy_glv_r1       Superior Gauntlets
+gen_im_trs_gen_hvy_glv_r2       Enchanted Gauntlets
+gen_im_trs_gen_hvy_hlm_r0       Helmet
+gen_im_trs_gen_hvy_hlm_r1       Superior Helmet
+gen_im_trs_gen_hvy_hlm_r2       Enchanted Helmet
+gen_im_trs_gen_junk1_01         Woven Bracelet
+gen_im_trs_gen_junk1_02         Mabari Collar
+gen_im_trs_gen_junk1_03         Metal Shard
+gen_im_trs_gen_junk1_04         Cracked Lifestone
+gen_im_trs_gen_junk2_01         Torn Trousers
+gen_im_trs_gen_junk2_02         Tattered Doll
+gen_im_trs_gen_junk2_03         Lucky Rabbit’s Foot
+gen_im_trs_gen_junk2_04         Chiseled Totem
+gen_im_trs_gen_junk3_01         Raven Feather
+gen_im_trs_gen_junk3_02         Wooden Practice Sword
+gen_im_trs_gen_junk3_03         Spindleweed Stem
+gen_im_trs_gen_junk3_04         Glamor Charm
+gen_im_trs_gen_lgt_boo_r0       Boots
+gen_im_trs_gen_lgt_boo_r1       Superior Boots
+gen_im_trs_gen_lgt_boo_r2       Enchanted Boots
+gen_im_trs_gen_lgt_cht_r0       Robes
+gen_im_trs_gen_lgt_cht_r1       Superior Robes
+gen_im_trs_gen_lgt_cht_r2       Enchanted Robes
+gen_im_trs_gen_lgt_glv_r0       Gloves
+gen_im_trs_gen_lgt_glv_r1       Superior Gloves
+gen_im_trs_gen_lgt_glv_r2       Enchanted Gloves
+gen_im_trs_gen_lgt_hlm_r0       Headwear
+gen_im_trs_gen_lgt_hlm_r1       Superior Headwear
+gen_im_trs_gen_lgt_hlm_r2       Enchanted Headwear
+gen_im_trs_gen_med_boo_r0       Boots
+gen_im_trs_gen_med_boo_r1       Superior Boots
+gen_im_trs_gen_med_boo_r2       Enchanted Boots
+gen_im_trs_gen_med_cht_r0       Leather Armor
+gen_im_trs_gen_med_cht_r1       Superior Leather Armor
+gen_im_trs_gen_med_cht_r2       Enchanted Leather Armor
+gen_im_trs_gen_med_glv_r0       Light Gauntlets
+gen_im_trs_gen_med_glv_r1       Superior Light Gauntlets
+gen_im_trs_gen_med_glv_r2       Enchanted Light Gauntlets
+gen_im_trs_gen_med_hlm_r0       Light Helmet
+gen_im_trs_gen_med_hlm_r1       Superior Light Helmet
+gen_im_trs_gen_med_hlm_r2       Enchanted Light Helmet
+gen_im_trs_gen_one_axe_r0       Hand Axe
+gen_im_trs_gen_one_axe_r1       Superior Hand Axe
+gen_im_trs_gen_one_axe_r2       Enchanted Hand Axe
+gen_im_trs_gen_one_lsw_r0       Longsword
+gen_im_trs_gen_one_lsw_r1       Superior Longsword
+gen_im_trs_gen_one_lsw_r2       Enchanted Longsword
+gen_im_trs_gen_one_mac_r0       Mace
+gen_im_trs_gen_one_mac_r1       Superior Mace
+gen_im_trs_gen_one_mac_r2       Enchanted Mace
+gen_im_trs_gen_rng_r0           Ring
+gen_im_trs_gen_rng_r1           Ornate Ring
+gen_im_trs_gen_rng_r2           Greater Ring
+gen_im_trs_gen_shd_met_r0       Heavy Shield
+gen_im_trs_gen_shd_met_r1       Superior Heavy Shield
+gen_im_trs_gen_shd_met_r2       Enchanted Heavy Shield
+gen_im_trs_gen_shd_wdn_r0       Shield
+gen_im_trs_gen_shd_wdn_r1       Superior Shield
+gen_im_trs_gen_shd_wdn_r2       Enchanted Shield
+gen_im_trs_gen_statue_01        Broken Statuette
+gen_im_trs_gen_statue_02        Wood Carved Statuette
+gen_im_trs_gen_statue_03        Bronze Statuette
+gen_im_trs_gen_statue_04        Silver Statuette
+gen_im_trs_gen_sta_cld_r0       Enchanted Staff
+gen_im_trs_gen_sta_cld_r1       Ornate Enchanted Staff
+gen_im_trs_gen_sta_cld_r2       Greater Enchanted Staff
+gen_im_trs_gen_sta_ele_r0       Runed Staff
+gen_im_trs_gen_sta_ele_r1       Elegant Runed Staff
+gen_im_trs_gen_sta_ele_r2       Commanding Runed Staff
+gen_im_trs_gen_sta_fir_r0       Enchanted Staff
+gen_im_trs_gen_sta_fir_r1       Runecarved Enchanted Staff
+gen_im_trs_gen_sta_fir_r2       Inscribed Enchanted Staff
+gen_im_trs_gen_sta_nat_r0       Wooden Staff
+gen_im_trs_gen_sta_nat_r1       Carved Wooden Staff
+gen_im_trs_gen_sta_nat_r2       Inscribed Wooden Staff
+gen_im_trs_gen_sta_phy_r0       Enchanted Staff
+gen_im_trs_gen_sta_phy_r1       Ornate Enchanted Staff
+gen_im_trs_gen_sta_phy_r2       Greater Enchanted Staff
+gen_im_trs_gen_sta_spi_r0       Etched Staff
+gen_im_trs_gen_sta_spi_r1       Lyrium-Imbued Etched Staff
+gen_im_trs_gen_sta_spi_r2       Runic Etched Staff
+gen_im_trs_gen_two_2ha_r0       Battle Axe
+gen_im_trs_gen_two_2ha_r1       Superior Battle Axe
+gen_im_trs_gen_two_2ha_r2       Enchanted Battle Axe
+gen_im_trs_gen_two_2hm_r0       Maul
+gen_im_trs_gen_two_2hm_r1       Superior Maul
+gen_im_trs_gen_two_2hm_r2       Enchanted Maul
+gen_im_trs_gen_two_2hs_r0       Greatsword
+gen_im_trs_gen_two_2hs_r1       Superior Greatsword
+gen_im_trs_gen_two_2hs_r2       Enchanted Greatsword
+gen_im_trs_krk_arc_lbw_r0       Marcher Longbow
+gen_im_trs_krk_arc_lbw_r1       Superior Marcher Longbow
+gen_im_trs_krk_arc_lbw_r2       Enchanted Marcher Longbow
+gen_im_trs_krk_arc_sbw_r0       Marcher Shortbow
+gen_im_trs_krk_arc_sbw_r1       Superior Marcher Shortbow
+gen_im_trs_krk_arc_sbw_r2       Enchanted Marcher Shortbow
+gen_im_trs_krk_crack_armor      Cracked Leather Armor
+gen_im_trs_krk_drk_junk1_01     Rusty Metal Spoon
+gen_im_trs_krk_drk_junk1_02     Tarnished Silver Spoon
+gen_im_trs_krk_drk_junk1_03     Polished Silver Spoon
+gen_im_trs_krk_drk_junk1_04     Gem-Encrusted Golden Spoon
+gen_im_trs_krk_drk_junk2_01     Pouch of Pebbles
+gen_im_trs_krk_drk_junk2_02     Pouch of Colorful Glass Shards
+gen_im_trs_krk_drk_junk2_03     Pouch of Chipped Gemstones
+gen_im_trs_krk_drk_junk2_04     Pouch of Precious Gemstones
+gen_im_trs_krk_grd_junk1_01     Engraved Arm Band
+gen_im_trs_krk_grd_junk1_02     Tradesman's Whetstone
+gen_im_trs_krk_grd_junk1_03     Custom Harness
+gen_im_trs_krk_grd_junk1_04     Silver Crossguard
+gen_im_trs_krk_grd_junk2_01     Book of Suggestive Caricature
+gen_im_trs_krk_grd_junk2_02     Boot-Lift Insole
+gen_im_trs_krk_grd_junk2_03     Truncheon Wax
+gen_im_trs_krk_grd_junk2_04     Silver-Gilded Tipstaff
+gen_im_trs_krk_g_dagger         City Guard Dagger
+gen_im_trs_krk_hgh_junk1_01     Fancy Poison Ring
+gen_im_trs_krk_hgh_junk1_02     Broken Silver Mirror
+gen_im_trs_krk_hgh_junk1_03     Elegant Belt Knife
+gen_im_trs_krk_hgh_junk1_04     Gold Signet Ring
+gen_im_trs_krk_hgh_junk2_01     Lace Collar
+gen_im_trs_krk_hgh_junk2_02     Velvet Vest
+gen_im_trs_krk_hgh_junk2_03     Jeweled Hat Pin
+gen_im_trs_krk_hgh_junk2_04     Gemmed Ceremonial Blade
+gen_im_trs_krk_hgh_junk3_01     Lace Cuffs
+gen_im_trs_krk_hgh_junk3_02     Silver-Threaded Scarf
+gen_im_trs_krk_hgh_junk3_03     Gold Flask
+gen_im_trs_krk_hgh_junk3_04     Diamond Brooch
+gen_im_trs_krk_hvy_boo_r0       Reacher Boots
+gen_im_trs_krk_hvy_boo_r1       Superior Reacher Boots
+gen_im_trs_krk_hvy_boo_r2       Enchanted Reacher Boots
+gen_im_trs_krk_hvy_cht_r0       Reacher Plate Armor
+gen_im_trs_krk_hvy_cht_r1       Superior Reacher Plate
+gen_im_trs_krk_hvy_cht_r2       Enchanted Reacher Plate
+gen_im_trs_krk_hvy_glv_r0       Reacher Gauntlets
+gen_im_trs_krk_hvy_glv_r1       Superior Reacher Gauntlets
+gen_im_trs_krk_hvy_glv_r2       Enchanter Reacher Gauntlets
+gen_im_trs_krk_hvy_hlm_r0       Reacher Helmet
+gen_im_trs_krk_hvy_hlm_r1       Superior Reacher Helmet
+gen_im_trs_krk_hvy_hlm_r2       Enchanted Reacher Helmet
+gen_im_trs_krk_junk1_01         Chipped Serpent Statuette
+gen_im_trs_krk_junk1_02         Small Griffon Statuette
+gen_im_trs_krk_junk1_03         Onyx Dragon Statuette
+gen_im_trs_krk_junk1_04         Polished Marble Andraste Figurine
+gen_im_trs_krk_junk2_01         Tattered Pantaloons
+gen_im_trs_krk_junk2_02         Soft Flannel Pantaloons
+gen_im_trs_krk_junk2_03         Silver Silk Pantaloons
+gen_im_trs_krk_junk2_04         Silk-Lined Orlesian Lace Pantalettes
+gen_im_trs_krk_low_crossbow     Fereldan Crossbow
+gen_im_trs_krk_low_junk1_01     Moth-Eaten Scarf
+gen_im_trs_krk_low_junk1_02     Frayed Wool Shawl
+gen_im_trs_krk_low_junk1_03     Woven Silk Wrap
+gen_im_trs_krk_low_junk1_04     Fox Fur Stole
+gen_im_trs_krk_low_junk2_01     Moldy Rag Doll
+gen_im_trs_krk_low_junk2_02     Wooden Toy Sword
+gen_im_trs_krk_low_junk2_03     Carved Ivory Toy Horse
+gen_im_trs_krk_low_junk2_04     Antique Porcelain Doll
+gen_im_trs_krk_one_lsw_r0       Marcher Longsword
+gen_im_trs_krk_one_lsw_r1       Superior Marcher Longsword
+gen_im_trs_krk_one_lsw_r2       Enchanted Marcher Longsword
+gen_im_trs_krk_one_mac_r0       Marcher Mace
+gen_im_trs_krk_one_mac_r1       Superior Marcher Mace
+gen_im_trs_krk_one_mac_r2       Enchanted Marcher Mace
+gen_im_trs_krk_shd_met_r0       Marcher Shield
+gen_im_trs_krk_shd_met_r1       Superior Marcher Shield
+gen_im_trs_krk_shd_met_r2       Enchanted Marcher Shield
+gen_im_trs_prf_amu_r0           Corrupted Talisman
+gen_im_trs_prf_amu_r1           Ornate Corrupted Talisman
+gen_im_trs_prf_amu_r2           Mystic Corrupted Talisman
+gen_im_trs_prf_dwarf_shield     Dwarven Shield
+gen_im_trs_prf_junk2_01         Small Chunk of Lyrium
+gen_im_trs_prf_junk2_02         Cracked Piece of Lyrium
+gen_im_trs_prf_junk2_03         Chunk of Lyrium
+gen_im_trs_prf_junk2_04         Big Chunk of Lyrium
+gen_im_trs_prf_rng_r0           Corrupted Ring
+gen_im_trs_prf_rng_r1           Ornate Corrupted Ring
+gen_im_trs_prf_rng_r2           Greater Corrupted Ring
+gen_im_trs_prf_rocks_01         Odd Dwarven Relic
+gen_im_trs_prf_rocks_02         Strange Dwarven Totem
+gen_im_trs_prf_rocks_03         Tiny Head Carving
+gen_im_trs_prf_rocks_04         Ore of Unknown Origin
+gen_im_trs_prf_sta_ele_r0       Corrupted Staff
+gen_im_trs_prf_sta_ele_r1       Ornate Corrupted Staff
+gen_im_trs_prf_sta_ele_r2       Greater Corrupted Staff
+gen_im_trs_prf_sta_phy_r0       Corrupted Staff
+gen_im_trs_prf_sta_phy_r1       Ornate Corrupted Staff
+gen_im_trs_prf_sta_phy_r2       Greater Corrupted Staff
+gen_im_trs_qun_amu_r0           Taamsala Eva
+gen_im_trs_qun_amu_r1           Taamsala Iss
+gen_im_trs_qun_amu_r2           Taamsala Katoh
+gen_im_trs_qun_biscuit_01       Pick Knife Scaler
+gen_im_trs_qun_biscuit_02       Oversized Whetstone
+gen_im_trs_qun_biscuit_03       Patching Plates
+gen_im_trs_qun_biscuit_04       Polishing Silks
+gen_im_trs_qun_blt_r0           Nehrappan Eva
+gen_im_trs_qun_blt_r1           Nehrappan Iss
+gen_im_trs_qun_blt_r2           Nehrappan Katoh
+gen_im_trs_qun_epic_sword       Sword of a Thousand Qunari
+gen_im_trs_qun_horn_01          Qunari Rations
+gen_im_trs_qun_horn_02          Soldier Dyes
+gen_im_trs_qun_horn_03          Leather Haversack
+gen_im_trs_qun_horn_04          Oil Horn-Balm
+gen_im_trs_qun_hvy_boo_r0       Sataam-Taar Eva
+gen_im_trs_qun_hvy_boo_r1       Sataam-Taar Iss
+gen_im_trs_qun_hvy_boo_r2       Sataam-Taar Katoh
+gen_im_trs_qun_hvy_cht_r0       Antaam-Taar Eva
+gen_im_trs_qun_hvy_cht_r1       Antaam-Taar Iss
+gen_im_trs_qun_hvy_cht_r2       Antaam-Taar Katoh
+gen_im_trs_qun_hvy_glv_r0       Notas-Taar Eva
+gen_im_trs_qun_hvy_glv_r1       Notas-Taar Iss
+gen_im_trs_qun_hvy_glv_r2       Notas-Taar Katoh
+gen_im_trs_qun_hvy_hlm_r0       Asalaa-Taar Eva
+gen_im_trs_qun_hvy_hlm_r1       Asalaa-Taar Iss
+gen_im_trs_qun_hvy_hlm_r2       Asalaa-Taar Katoh
+gen_im_trs_qun_lgt_boo_r0       Mertam-Saar Eva
+gen_im_trs_qun_lgt_boo_r1       Mertam-Saar Iss
+gen_im_trs_qun_lgt_boo_r2       Mertam-Saar Katoh
+gen_im_trs_qun_lgt_cht_r0       Taaras-Saar Eva
+gen_im_trs_qun_lgt_cht_r1       Taaras-Saar Iss
+gen_im_trs_qun_lgt_cht_r2       Taaras-Saar Katoh
+gen_im_trs_qun_lgt_glv_r0       Aqaam-Saar Eva
+gen_im_trs_qun_lgt_glv_r1       Aqaam-Saar Iss
+gen_im_trs_qun_lgt_glv_r2       Aqaam-Saar Katoh
+gen_im_trs_qun_lgt_hlm_r0       Asabas-Saar Eva
+gen_im_trs_qun_lgt_hlm_r1       Asabas-Saar Iss
+gen_im_trs_qun_lgt_hlm_r2       Asabas-Saar Katoh
+gen_im_trs_qun_sta_cld_r0       Saartoh Bas-Tic Eva
+gen_im_trs_qun_sta_cld_r1       Saartoh Bas-Tic Iss
+gen_im_trs_qun_sta_cld_r2       Saartoh Bas-Tic Katoh
+gen_im_trs_qun_sta_fir_r0       Saartoh Bas-Vat Eva
+gen_im_trs_qun_sta_fir_r1       Saartoh Bas-Vat Iss
+gen_im_trs_qun_sta_fir_r2       Saartoh Bas-Vat Katoh
+gen_im_trs_qun_sta_nat_r0       Saartoh Bas-Kos Eva
+gen_im_trs_qun_sta_nat_r1       Saartoh Bas-Kos Iss
+gen_im_trs_qun_sta_nat_r2       Saartoh Bas-Kos Katoh
+gen_im_trs_qun_two_2ha_r0       Taam-Kas Eva
+gen_im_trs_qun_two_2ha_r1       Taam-Kas Iss
+gen_im_trs_qun_two_2ha_r2       Taam-Kas Katoh
+gen_im_trs_qun_two_2hm_r0       Sata-Kas Eva
+gen_im_trs_qun_two_2hm_r1       Sata-Kas Iss
+gen_im_trs_qun_two_2hm_r2       Sata-Kas Katoh
+gen_im_trs_qun_two_2hs_r0       Valo-Kas Eva
+gen_im_trs_qun_two_2hs_r1       Valo-Kas Iss
+gen_im_trs_qun_two_2hs_r2       Valo-Kas Katoh
+gen_im_trs_rdr_arc_lbw_r0       Mariner Longbow
+gen_im_trs_rdr_arc_lbw_r1       Superior Mariner Longbow
+gen_im_trs_rdr_arc_lbw_r2       Enchanted Mariner Longbow
+gen_im_trs_rdr_hvy_boo_r0       Raider Heavy Boots
+gen_im_trs_rdr_hvy_boo_r1       Raider Superior Heavy Boots
+gen_im_trs_rdr_hvy_boo_r2       Raider Enchanted Heavy Boots
+gen_im_trs_rdr_hvy_cht_r0       Raider Plate
+gen_im_trs_rdr_hvy_cht_r1       Raider Superior Plate
+gen_im_trs_rdr_hvy_cht_r2       Raider Enchanted Plate
+gen_im_trs_rdr_hvy_glv_r0       Raider Gauntlets
+gen_im_trs_rdr_hvy_glv_r1       Raider Superior Gauntlets
+gen_im_trs_rdr_hvy_glv_r2       Raider Enchanted Gauntlets
+gen_im_trs_rdr_hvy_hlm_r0       Raider Helm
+gen_im_trs_rdr_hvy_hlm_r1       Raider Superior Helm
+gen_im_trs_rdr_hvy_hlm_r2       Raider Enchanted Helm
+gen_im_trs_rdr_junk1_01         Empty Stained Bottle
+gen_im_trs_rdr_junk1_02         Bottle of Rotgut
+gen_im_trs_rdr_junk1_03         Bottle of Potent Moonshine
+gen_im_trs_rdr_junk1_04         Bottle of Aged Antivan Brandy
+gen_im_trs_rdr_junk2_01         Rotted Wooden Peg Leg
+gen_im_trs_rdr_junk2_02         Leather Eye Patch
+gen_im_trs_rdr_junk2_03         Stuffed Parrot
+gen_im_trs_rdr_junk2_04         Polished Steel Hook
+gen_im_trs_rdr_med_boo_r0       Raider Heavy Boots
+gen_im_trs_rdr_med_boo_r1       Raider Superior Heavy Boots
+gen_im_trs_rdr_med_boo_r2       Raider Enchanted Heavy Boots
+gen_im_trs_rdr_med_cht_r0       Light Raider Armor
+gen_im_trs_rdr_med_cht_r1       Superior Light Raider Armor
+gen_im_trs_rdr_med_cht_r2       Enchanted Light Raider Armor
+gen_im_trs_rdr_med_glv_r0       Raider Gloves
+gen_im_trs_rdr_med_glv_r1       Superior Raider Gloves
+gen_im_trs_rdr_med_glv_r2       Enchanted Raider Gloves
+gen_im_trs_rdr_med_hlm_r0       Light Raider Helm
+gen_im_trs_rdr_med_hlm_r1       Superior Light Raider Helm
+gen_im_trs_rdr_med_hlm_r2       Enchanted Light Raider Helm
+gen_im_trs_rdr_one_lsw_r0       Raider Blade
+gen_im_trs_rdr_one_lsw_r1       Superior Raider Blade
+gen_im_trs_rdr_one_lsw_r2       Enchanted Raider Blade
+gen_im_trs_rdr_one_mac_r0       Raider Club
+gen_im_trs_rdr_one_mac_r1       Superior Raider Club
+gen_im_trs_rdr_one_mac_r2       Enchanted Raider Club
+gen_im_trs_rdr_shd_wdn_r0       Mariner Shield
+gen_im_trs_rdr_shd_wdn_r1       Superior Mariner Shield
+gen_im_trs_rdr_shd_wdn_r2       Enchanted Mariner Shield
+gen_im_trs_rdr_two_2ha_r0       Blood Axe
+gen_im_trs_rdr_two_2ha_r1       Superior Blood Axe
+gen_im_trs_rdr_two_2ha_r2       Enchanted Blood Axe
+gen_im_trs_rdr_two_2hm_r0       Raider Maul
+gen_im_trs_rdr_two_2hm_r1       Superior Raider Maul
+gen_im_trs_rdr_two_2hm_r2       Enchanted Raider Maul
+gen_im_trs_rdr_two_2hs_r0       Saber
+gen_im_trs_rdr_two_2hs_r1       Superior Saber
+gen_im_trs_rdr_two_2hs_r2       Enchanted Saber
+gen_im_trs_slv_hvy_boo_r0       Scavenged Heavy Boots
+gen_im_trs_slv_hvy_boo_r1       Commissioned Heavy Boots
+gen_im_trs_slv_hvy_boo_r2       Tevinter Heavy Boots
+gen_im_trs_slv_hvy_cht_r0       Scavenged Plate Armor
+gen_im_trs_slv_hvy_cht_r1       Commissioned Plate Armor
+gen_im_trs_slv_hvy_cht_r2       Tevinter Plate Armor
+gen_im_trs_slv_hvy_glv_r0       Scavenged Plate Gloves
+gen_im_trs_slv_hvy_glv_r1       Commissioned Plate Gloves
+gen_im_trs_slv_hvy_glv_r2       Tevinter Plate Gloves
+gen_im_trs_slv_hvy_hlm_r0       Scavenged Plate Helm
+gen_im_trs_slv_hvy_hlm_r1       Commissioned Plate Helm
+gen_im_trs_slv_hvy_hlm_r2       Tevinter Plate Helm
+gen_im_trs_slv_junk1_01         Frayed Rope
+gen_im_trs_slv_junk1_02         Frayed Slaver Whip
+gen_im_trs_slv_junk1_03         Slaver Rope
+gen_im_trs_slv_junk1_04         Slaver Whip
+gen_im_trs_slv_junk2_01         Torn Slaver Invoice
+gen_im_trs_slv_junk2_02         Smudged Slaver Invoice
+gen_im_trs_slv_junk2_03         Slaver Invoice
+gen_im_trs_slv_junk2_04         Slaver Invoice and Insignia
+gen_im_trs_slv_lgt_boo_r0       Tevinter Patterned Shoes
+gen_im_trs_slv_lgt_boo_r1       Tevinter Freemage Boots
+gen_im_trs_slv_lgt_boo_r2       Magisters' Boots
+gen_im_trs_slv_lgt_cht_r0       Free Adept Robes
+gen_im_trs_slv_lgt_cht_r1       Free Magus Robes
+gen_im_trs_slv_lgt_cht_r2       Tevinter Magisters' Robes
+gen_im_trs_slv_lgt_glv_r0       Cloth Gauntlets
+gen_im_trs_slv_lgt_glv_r1       Free-Sign Cloth Gloves
+gen_im_trs_slv_lgt_glv_r2       Tevinter-Cut Cloth Gauntlets
+gen_im_trs_slv_lgt_hlm_r0       Adepts' Cloth Hood
+gen_im_trs_slv_lgt_hlm_r1       Free-Sign Hood
+gen_im_trs_slv_lgt_hlm_r2       Tevinter-Cut Hood
+gen_im_trs_slv_one_axe_r0       Mantakers' Roughwork Axe
+gen_im_trs_slv_one_axe_r1       Mantakers' Hobbler - Refined
+gen_im_trs_slv_one_axe_r2       Mantakers' Willbreaker - Masterwork
+gen_im_trs_slv_shd_wdn_r0       Blank Heraldic Shield
+gen_im_trs_slv_shd_wdn_r1       Roughwood Shield
+gen_im_trs_slv_shd_wdn_r2       Masters' Wall
+gen_im_trs_slv_sta_cld_r0       Roughwork Bound Staff
+gen_im_trs_slv_sta_cld_r1       Roughwork Adept Staff
+gen_im_trs_slv_sta_cld_r2       Roughwork Empowered Staff
+gen_im_trs_slv_sta_ele_r0       Commissioned Adept Staff
+gen_im_trs_slv_sta_ele_r1       Commissioned Enchanters' Staff
+gen_im_trs_slv_sta_ele_r2       Commissioned Magus Staff
+gen_im_trs_slv_sta_phy_r0       Burlwood Staff - Bound
+gen_im_trs_slv_sta_phy_r1       Burlwood Staff - Channeled
+gen_im_trs_slv_sta_phy_r2       Burlwood Staff - Empowered
+gen_im_trs_tmp_hvy_boo_r0       Templar Boots - Heavy Issue
+gen_im_trs_tmp_hvy_boo_r1       Templar Boots - Superior Heavy Issue
+gen_im_trs_tmp_hvy_boo_r2       Templar Boots - Enchanted Heavy Issue
+gen_im_trs_tmp_hvy_cht_r0       Templar Armor - Heavy Issue
+gen_im_trs_tmp_hvy_cht_r1       Templar Armor - Superior Heavy Issue
+gen_im_trs_tmp_hvy_cht_r2       Templar Armor - Enchanted Heavy Issue
+gen_im_trs_tmp_hvy_glv_r0       Templar Gloves - Heavy Issue
+gen_im_trs_tmp_hvy_glv_r1       Templar Gloves - Superior Heavy Issue
+gen_im_trs_tmp_hvy_glv_r2       Templar Gloves - Enchanted Heavy Issue
+gen_im_trs_tmp_hvy_hlm_r0       Templar Helm - Heavy Issue
+gen_im_trs_tmp_hvy_hlm_r1       Templar Helm - Superior Heavy Issue
+gen_im_trs_tmp_hvy_hlm_r2       Templar Helm - Enchanted Heavy Issue
+gen_im_trs_tmp_insignia_01      Cracked Templar Insignia
+gen_im_trs_tmp_insignia_02      Templar Insignia
+gen_im_trs_tmp_insignia_03      Silver Templar Insignia
+gen_im_trs_tmp_insignia_04      Gold Templar Insignia
+gen_im_trs_tmp_junk2_01         Empty Vial of Lyrium
+gen_im_trs_tmp_junk2_02         Small Vial of Lyrium
+gen_im_trs_tmp_junk2_03         Vial of Lyrium
+gen_im_trs_tmp_junk2_04         Large Vial of Lyrium
+gen_im_trs_tmp_med_boo_r0       Templar Boots - Light Issue
+gen_im_trs_tmp_med_boo_r1       Templar Boots - Superior Light Issue
+gen_im_trs_tmp_med_boo_r2       Templar Boots - Enchanted Light Issue
+gen_im_trs_tmp_med_cht_r0       Templar Armor - Light Issue
+gen_im_trs_tmp_med_cht_r1       Templar Armor - Superior Light Issue
+gen_im_trs_tmp_med_cht_r2       Templar Armor - Enchanted Light Issue
+gen_im_trs_tmp_med_glv_r0       Templar Gloves - Light Issue
+gen_im_trs_tmp_med_glv_r1       Templar Gloves - Superior Light Issue
+gen_im_trs_tmp_med_glv_r2       Templar Gloves - Enchanted Light Issue
+gen_im_trs_tmp_med_hlm_r0       Templar Helm - Light Issue
+gen_im_trs_tmp_med_hlm_r1       Templar Helm - Superior Light Issue
+gen_im_trs_tmp_med_hlm_r2       Templar Helm - Enchanted Light Issue
+gen_im_trs_tmp_one_axe_r0       Templar Axe - Standard Issue
+gen_im_trs_tmp_one_axe_r1       Templar Axe - Superior Issue
+gen_im_trs_tmp_one_axe_r2       Templar Axe - Enchanted Issue
+gen_im_trs_tmp_one_lsw_r0       Templar Longsword - Standard Issue
+gen_im_trs_tmp_one_lsw_r1       Templar Longsword - Superior Issue
+gen_im_trs_tmp_one_lsw_r2       Templar Longsword - Enchanted Issue
+gen_im_trs_tmp_one_mac_r0       Templar Mace - Standard Issue
+gen_im_trs_tmp_one_mac_r1       Templar Mace - Superior Issue
+gen_im_trs_tmp_one_mac_r2       Templar Mace - Enchanted Issue
+gen_im_trs_tmp_shd_met_r0       Templar Defender - Standard Issue
+gen_im_trs_tmp_shd_met_r1       Templar Defender - Superior Issue
+gen_im_trs_tmp_shd_met_r2       Templar Defender - Enchanted Issue
+gen_im_trs_tmp_temp_armor       Templar Armor
+gen_im_trs_uni_bks_01           Tome of the Slumbering Elders
+gen_im_wep_mag_sta_act0_01      Free Man's Staff
+gen_im_wep_mag_sta_act0_02      Mercenary’s Staff
+gen_im_wep_mag_sta_act0_03      “Imported” Circle Staff
+gen_im_wep_mag_sta_act0_04      Blemished
+gen_im_wep_mag_sta_act1_01      Chanters' Staff
+gen_im_wep_mag_sta_act1_02      The Hypnotist's Staff
+gen_im_wep_mag_sta_act1_03      The Turncoat's Walking Stick
+gen_im_wep_mag_sta_act1_04      Staff of the Primal Order
+gen_im_wep_mag_sta_act1_05      Acolyte's Staff
+gen_im_wep_mag_sta_act2_01      Stone's Breath
+gen_im_wep_mag_sta_act2_02      Hubris
+gen_im_wep_mag_sta_act2_03      Wintersbreath
+gen_im_wep_mag_sta_act2_04      Crooked Staff
+gen_im_wep_mag_sta_act2_05      Sketch's Resplit-Shaft
+gen_im_wep_mag_sta_act2_06      Acolyte's Staff
+gen_im_wep_mag_sta_act2_07      Enchanter's Staff
+gen_im_wep_mag_sta_act3_01      Bassrath-Kata
+gen_im_wep_mag_sta_act3_02      The Sylvan's Heart
+gen_im_wep_mag_sta_act3_03      Voracity
+gen_im_wep_mag_sta_act3_04      The Tiger's Tail
+gen_im_wep_mag_sta_act3_05      Torch of Falon'Din
+gen_im_wep_mag_sta_act3_06      Eye of the Storm
+gen_im_wep_mag_sta_act3_07      Mutiny
+gen_im_wep_mag_sta_act3_08      Architect's Legacy
+gen_im_wep_mag_sta_act3_09      Corrupted Acolyte's Staff
+gen_im_wep_mag_sta_default      Basic Staff
+gen_im_wep_mag_sta_iconic       Champion's Warstaff
+gen_im_wep_mag_sta_ico_fake     Champion's Warstaff
+gen_im_wep_mag_sta_lore_01      Staff of Violation
+gen_im_wep_mag_sta_lore_02      Cold-Blooded
+gen_im_wep_mag_sta_lore_03      Valdasine
+gen_im_wep_mag_sta_start        Apostate Staff
+gen_im_wep_rog_arc_act0_01      Weathered Bow
+gen_im_wep_rog_arc_act0_02      Mercenary's Recurve
+gen_im_wep_rog_arc_act0_03      Undeclared Orlesian Longbow
+gen_im_wep_rog_arc_act0_04      Renegade's Ruin
+gen_im_wep_rog_arc_act1_01      Nevarran Lancer
+gen_im_wep_rog_arc_act1_02      The Runt's Spiker
+gen_im_wep_rog_arc_act1_03      Longtouch
+gen_im_wep_rog_arc_act1_04      The Trepanner's Gift
+gen_im_wep_rog_arc_act1_05      Cracked Bow
+gen_im_wep_rog_arc_act2_01      Borderfall
+gen_im_wep_rog_arc_act2_02      Felons' Punch-Gut
+gen_im_wep_rog_arc_act2_03      Swarm
+gen_im_wep_rog_arc_act2_04      Quills of the Heretic
+gen_im_wep_rog_arc_act2_05      The Heavens' Answer
+gen_im_wep_rog_arc_act2_06      Mont de Glace Strand
+gen_im_wep_rog_arc_act2_07      Recurve Bow
+gen_im_wep_rog_arc_act3_01      Bassrath-Kata
+gen_im_wep_rog_arc_act3_02      Cynoeswr Sain
+gen_im_wep_rog_arc_act3_03      The Runner's Retort
+gen_im_wep_rog_arc_act3_04      Crosscut Composite
+gen_im_wep_rog_arc_act3_05      Righteous Rain
+gen_im_wep_rog_arc_act3_06      Truebow
+gen_im_wep_rog_arc_default      Basic Longbow
+gen_im_wep_rog_arc_lore_01      Jackal's Longbow
+gen_im_wep_rog_arc_lore_02      Absolution
+gen_im_wep_rog_arc_lore_03      Bianca
+gen_im_wep_rog_arc_start        Fereldan Shortbow
+gen_im_wep_rog_dua_act0_01      Hunter's Skinning Knife
+gen_im_wep_rog_dua_act0_02      Mercenary's Shanker
+gen_im_wep_rog_dua_act0_03      Enforcer’s Blade
+gen_im_wep_rog_dua_act0_04      Blemished Dagger
+gen_im_wep_rog_dua_act1_01      Bloodletter
+gen_im_wep_rog_dua_act1_02      The Bodice Ripper
+gen_im_wep_rog_dua_act1_03      Blade of Red Birth
+gen_im_wep_rog_dua_act1_04      Thrice-Bound
+gen_im_wep_rog_dua_act1_05      Cruel Dagger
+gen_im_wep_rog_dua_act1_06      Tarnished Dagger
+gen_im_wep_rog_dua_act1_07      Arm of Adruil
+gen_im_wep_rog_dua_act2_01      Chum-Cutter
+gen_im_wep_rog_dua_act2_02      Honeycut
+gen_im_wep_rog_dua_act2_03      Stitch-Maker
+gen_im_wep_rog_dua_act2_04      Shine
+gen_im_wep_rog_dua_act2_05      The Tiny Cut (413 of 1000)
+gen_im_wep_rog_dua_act2_06      Seven Deaths
+gen_im_wep_rog_dua_act2_07      Guild Dagger
+gen_im_wep_rog_dua_act2_08      Coterie Shiv
+gen_im_wep_rog_dua_act3_01      The Offhand Blade
+gen_im_wep_rog_dua_act3_02      Bassrath-Kata
+gen_im_wep_rog_dua_act3_03      Blade of the Many
+gen_im_wep_rog_dua_act3_04      Red Jenny Backbiter
+gen_im_wep_rog_dua_act3_05      Tine
+gen_im_wep_rog_dua_act3_06      The Pairing Knife
+gen_im_wep_rog_dua_act3_07      Ragged Edge
+gen_im_wep_rog_dua_act3_08      Disciple's Blade
+gen_im_wep_rog_dua_act3_09      Spider's Heart
+gen_im_wep_rog_dua_act3_10      Shadow's Claw
+gen_im_wep_rog_dua_default      Basic Dagger
+gen_im_wep_rog_dua_iconic       Champion's Edge
+gen_im_wep_rog_dua_lore_01      Carta's Right-Hand
+gen_im_wep_rog_dua_lore_02      Finesse
+gen_im_wep_rog_dua_lore_03      Carta's Left-Hand
+gen_im_wep_rog_dua_start        Fereldan Dagger
+gen_im_wep_war_one_act0_01      Landsman's Cudgel
+gen_im_wep_war_one_act0_02      Mercenary's Blade
+gen_im_wep_war_one_act0_03      Smuggled Fereldan Blade
+gen_im_wep_war_one_act0_04      Cammer's Reach
+gen_im_wep_war_one_act1_01      Overland Render
+gen_im_wep_war_one_act1_02      Edge of Song and Glory
+gen_im_wep_war_one_act1_03      Palvo's Cocksure Cleaver
+gen_im_wep_war_one_act1_04      Thudpucker's Fist
+gen_im_wep_war_one_act1_05      Trust and Cut Blade
+gen_im_wep_war_one_act1_06      Maelstrom
+gen_im_wep_war_one_act1_07      Notched Sword
+gen_im_wep_war_one_act2_01      Red Earth Long One
+gen_im_wep_war_one_act2_02      Sundarin Thunder
+gen_im_wep_war_one_act2_03      Windsong Axe
+gen_im_wep_war_one_act2_04      The Wailer
+gen_im_wep_war_one_act2_05      One-Cut
+gen_im_wep_war_one_act2_06      Markham Heart Stopper
+gen_im_wep_war_one_act2_07      Royeaux One and Two
+gen_im_wep_war_one_act2_08      Darktown Blade
+gen_im_wep_war_one_act3_01      Bassrath-Kata
+gen_im_wep_war_one_act3_02      Perrin's Nail
+gen_im_wep_war_one_act3_03      Hack
+gen_im_wep_war_one_act3_04      Smooth Rasp
+gen_im_wep_war_one_act3_05      The Weight
+gen_im_wep_war_one_act3_06      The Bringer of Silence
+gen_im_wep_war_one_act3_07      Woodsman's Ire
+gen_im_wep_war_one_act3_08      Raider Sword
+gen_im_wep_war_one_act3_09      City Guard Sword
+gen_im_wep_war_one_act3_10      Sword of the Antaam
+gen_im_wep_war_one_default      Basic Longsword
+gen_im_wep_war_one_lore_01      Sataareth
+gen_im_wep_war_one_lore_02      Aurvar’s Prize
+gen_im_wep_war_one_lore_03      The Vague Blade
+gen_im_wep_war_one_lore_04      Glandivalis
+gen_im_wep_war_one_start        Fereldan Longsword
+gen_im_wep_war_shd_act0_01      Fereldan Soldier's Shield
+gen_im_wep_war_shd_act0_02      Mercenary’s Shield
+gen_im_wep_war_shd_act0_03      Smuggler’s Heater
+gen_im_wep_war_shd_act0_04      Dark Shield
+gen_im_wep_war_shd_act1_01      The Bann's Backhouse Door
+gen_im_wep_war_shd_act1_02      Markham Head Stopper
+gen_im_wep_war_shd_act1_03      Winter-Weight
+gen_im_wep_war_shd_act1_04      Oddsmaker
+gen_im_wep_war_shd_act1_05      Kirkwall Shield
+gen_im_wep_war_shd_act2_01      River's Wave
+gen_im_wep_war_shd_act2_02      Warstopper
+gen_im_wep_war_shd_act2_03      Brink-Boaster
+gen_im_wep_war_shd_act2_04      Spirit of 4:60 Black
+gen_im_wep_war_shd_act2_05      Amell Family Shield
+gen_im_wep_war_shd_act2_06      Defender of the Wall
+gen_im_wep_war_shd_act2_07      Darkspawn Shield
+gen_im_wep_war_shd_act3_01      Wardwall
+gen_im_wep_war_shd_act3_02      Lord Bearing's Wall
+gen_im_wep_war_shd_act3_03      Cornerstone
+gen_im_wep_war_shd_act3_04      Hearth Shield
+gen_im_wep_war_shd_act3_05      The Father's Hand
+gen_im_wep_war_shd_act3_06      Volcanic Shield
+gen_im_wep_war_shd_default      Basic Shield
+gen_im_wep_war_shd_lore_01      Shield of the Resolute
+gen_im_wep_war_shd_lore_02      Shield of the Knight Herself
+gen_im_wep_war_shd_start        Reinforced Shield
+gen_im_wep_war_two_act0_01      Fereldan Broadaxe
+gen_im_wep_war_two_act0_02      Mercenary's Longblade
+gen_im_wep_war_two_act0_03      "Imported" Antivan Blade
+gen_im_wep_war_two_act0_04      Rebel Queen
+gen_im_wep_war_two_act1_01      The Ream-Ward
+gen_im_wep_war_two_act1_02      Red Grace
+gen_im_wep_war_two_act1_03      Caskhead's Portable Anvil
+gen_im_wep_war_two_act1_04      Reforged Hossberg Twainer
+gen_im_wep_war_two_act1_05      Templar Great Sword
+gen_im_wep_war_two_act2_01      The Brothers' End
+gen_im_wep_war_two_act2_02      Persuasion
+gen_im_wep_war_two_act2_03      All-Fall
+gen_im_wep_war_two_act2_04      Oath-Breaker
+gen_im_wep_war_two_act2_05      Potency
+gen_im_wep_war_two_act2_06      Binky's Comfort
+gen_im_wep_war_two_act2_07      The Subtle Brute
+gen_im_wep_war_two_act2_08      Void's Hammer
+gen_im_wep_war_two_act3_01      Bassrath-Kata
+gen_im_wep_war_two_act3_02      Limbtaker
+gen_im_wep_war_two_act3_03      Roadhammer
+gen_im_wep_war_two_act3_04      Double-Bearded Axe
+gen_im_wep_war_two_act3_05      Her Song
+gen_im_wep_war_two_act3_06      Top-Chop Brand
+gen_im_wep_war_two_act3_07      Widow's Fury
+gen_im_wep_war_two_act3_08      Dwarven Great Axe
+gen_im_wep_war_two_default      Basic Greatsword
+gen_im_wep_war_two_iconic       Champion's Warblade
+gen_im_wep_war_two_lore_01      Sundering
+gen_im_wep_war_two_lore_02      The Celebrant
+gen_im_wep_war_two_lore_03      Vigilance
+gen_im_wep_war_two_lore_04      Blade of Mercy
+gen_im_wep_war_two_lore_05      Bloom
+gen_im_wep_war_two_start        Fereldan Greatsword
+gen_ip_bodybag                  Corpse
+gen_ip_sack                     Sack
+isa000im_gft_ship_in_bottle     Ship in a Bottle
+isa000im_gft_talisman           Rivaini Talisman
+isa000ip_bottle_container       Chest
+isa000ip_talisman_container     Storage
+isa100im_letter                 Hayder's Letter
+isa111cr_lucky                  Lucky
+isa111cr_thug_1                 Archer
+isa111cr_thug_2                 Raider
+isa120cr_letter_thug            Raider Ambusher
+isa120ip_at_chantry             The Chantry
+isa121ar_chantry                The Chantry
+isa121cr_hayder                 Hayder
+isa121cr_hayder_henchman        Raider
+isa200cr_badpoet                Bad Poet
+isa200cr_tevinter_highmage      Tevinter Enchanter
+isa200cr_tevinter_mage          Tevinter Mage
+isa200im_letter                 Isabela's Letter
+isa210ip_at_foundry             Lost-End Foundry
+isa211ar_foundry                Lost-End Foundry
+isa211cr_walleyedsam            Wall-Eyed Sam
+isa211_qunari_ambusher2         Qunari Warrior
+isa300im_documents              Incriminating Documents
+isa300im_office_key             Office Key
+isa300ip_document_chest         Chest
+isa300ip_office_door            Door
+isa300ip_trail_marker           Isabela's Trail
+isa300ip_warehouse_exit         Castillon's Landing
+isa310ip_to_warehouse           Castillon's Landing
+isa311ar_castillon_base         Castillon's Landing
+isa311cr_castillon              Castillon
+isa321cr_sabina                 Sabina
+isa321cr_velasco                Velasco
+isa321ip_brothel_door           Door
+lgt000cr_aspire                 Arcane Horror
+lgt000cr_baz_ant_ass1           Antivan Assassin
+lgt000cr_baz_car_loy            Carta Loyalist
+lgt000cr_baz_den_rev            Denerim Avenger
+lgt000cr_baz_den_rev2           Denerim Avenger
+lgt000cr_baz_qun_ds             Qunari Death Squad
+lgt000cr_baz_riv_leg            Rivaini Legendary Beard
+lgt000cr_baz_sketch             Sketch
+lgt000cr_beacon                 Beacon
+lgt000cr_bysmor                 Bysmor
+lgt000cr_crazed_loner           Crazed Loner
+lgt000cr_dwf_turn_in_1          Waxler
+lgt000cr_dwf_turn_in_2          Impeccable Bulf
+lgt000cr_dwf_turn_in_3          Arintal the Lesser
+lgt000cr_dwf_turn_in_4          New Surfacer
+lgt000cr_dwf_turn_in_5          Whiskey Master
+lgt000cr_dwf_turn_in_6          Traditionalist Envoy
+lgt000cr_elf_turn_in_1          Eb Silsam
+lgt000cr_elf_turn_in_2          Faj
+lgt000cr_elf_turn_in_3          Elven Vintner
+lgt000cr_elf_turn_in_6          Elven Radicalist
+lgt000cr_epic_merchant_1        Nexus Golem
+lgt000cr_epic_merchant_2        Juck Tugust
+lgt000cr_epic_merchant_3        Bonny Lem
+lgt000cr_epic_merchant_4        Magus Tavarin Hall
+lgt000cr_foreshadow             Arl Foreshadow
+lgt000cr_gifre                  Gifre
+lgt000cr_hate_apostate          Apostate
+lgt000cr_hate_blood             Blood Mage
+lgt000cr_hate_carta             Carta Thug
+lgt000cr_hate_conspirator       Conspirator
+lgt000cr_hate_dalish            Dalish Elf
+lgt000cr_hate_demon             Demon
+lgt000cr_hate_extremist         Anti-Qunari Extremist
+lgt000cr_hate_gen_bandits       Bandit
+lgt000cr_hate_gen_challenge     Head Hunter
+lgt000cr_hate_gen_racist        Angry Kirkwaller
+lgt000cr_hate_gen_thug          Thug
+lgt000cr_hate_guards            Captain Jeven Loyalist
+lgt000cr_hate_guild             Coterie Thug
+lgt000cr_hate_isabelathug       Hired Thug
+lgt000cr_hate_qunari            Tal-Vashoth Mercenary
+lgt000cr_hate_raider            Raider
+lgt000cr_hate_slaver            Slaver
+lgt000cr_hate_templar           Rogue Templar
+lgt000cr_hate_tevinter          Tevinter Bounty Hunter
+lgt000cr_hate_thugs             Thug
+lgt000cr_hybris                 Hybris
+lgt000cr_kirk_turn_in_1         Sareth Talwain
+lgt000cr_kirk_turn_in_2         Sister Phylias
+lgt000cr_kirk_turn_in_3         Mais Dalesdottir
+lgt000cr_kirk_turn_in_4         Guardsman Eustice
+lgt000cr_kirk_turn_in_6         Agnes Vorse de Soliere
+lgt000cr_mage_turn_in_1         Azure Jamos
+lgt000cr_mage_turn_in_2         Bonwald
+lgt000cr_mage_turn_in_3         Dalian Shaw
+lgt000cr_mage_turn_in_4         Record Keeper Teryn
+lgt000cr_mage_turn_in_5         Bolund the Amateur Annalist
+lgt000cr_mage_turn_in_6         “East-Wise” Gerralt
+lgt000cr_medan                  Medan
+lgt000cr_merch_turn_in_4        Brother Plinth the Archivist
+lgt000cr_merch_turn_in_6        Ship Spotter
+lgt000cr_mystery_friend         A Friend
+lgt000cr_sketch                 Sketch
+lgt000im_azurejamos             The Eyes of Azure Jamos
+lgt000im_ultra_cameo            Goosegirl Cameo
+lgt000im_ultra_finger           Petrified Human Finger
+lgt000im_ultra_grimoire         Grimoire of the Apprentice
+lgt000im_ultra_kirkmap          Map of Occupied Kirkwall
+lgt000im_ultra_knife            Ream-Rot Knife
+lgt000im_ultra_pants            Fine Dwarven Trousers
+lgt000im_ultra_pommel           Eustice's Pommel
+lgt000im_ultra_redblossom       Redblossom Salve
+lgt000im_ultra_seal             Seal of Dumat
+lgt000im_ultra_shawl            Shawl of Dalesdottir
+lgt000im_ultra_swatch           Swatch of the Jackyard
+lgt000im_ultra_talwain          Seal of House Talwain
+lgt000im_ultra_toe              Stone Toe
+lgt000im_ultra_waxlerhat        Waxler's Hat
+lgt000ip_ancient_stone_door     Ancient Stone Door
+lgt000ip_ancient_stone_key      Ancient Stone Key
+lgt000ip_at_hybris              Hidden Lair
+lgt000ip_black_vial             Black Vial
+lgt000ip_bones_disturb1         Corpse
+lgt000ip_finger_sack            Bag of Bones
+lgt000ip_grimoire_sack          Sack
+lgt000ip_hat_sack               Sack
+lgt000ip_knife_sack             Sack
+lgt000ip_landmark               Mysterious Note
+lgt000ip_map_crate              Crate
+lgt000ip_old_locked_crate       Old Locked Crate
+lgt000ip_pommel_sack            Sack
+lgt000ip_ragged_manifest        Ragged Manifest
+lgt000ip_redblossom_crate       Crate
+lgt000ip_rusty_market_key       Rusty Market Key
+lgt000ip_safe_crate             Very Safe Crate
+lgt000ip_seal_crate             Crate
+lgt000ip_show_world_map         Leave Area
+lgt000ip_store_epic1_2          Magnus's Wares
+lgt000ip_store_epic1_3          Magnus's Wares
+lgt000ip_store_epic2_1          Bonny Lem's Wares
+lgt000ip_store_epic2_2          Bonny Lem's Wares
+lgt000ip_store_epic2_3          Bonny Lem's Wares
+lgt000ip_store_epic3_2          Nexus Golem's Wares
+lgt000ip_store_epic3_3          Nexus Golem's Wares
+lgt000ip_talwain_crate          Crate
+lgt000ip_toe_crate              Crate
+lgt000ip_tombs_scroll           Mysterious Scroll
+lgt000ip_tombs_seal             Metal Remnant
+lgt000ip_ultra_bottledscar      Bottled Scar 5:34 Exalted
+lgt000ip_ultra_dwf_remains      "Bearded Beast" Arintal's Remains
+lgt000ip_ultra_elf_remains      "Half-Braid" Silsam's Remains
+lgt000ip_ultra_hm_remains       Sister Plinth's Remains
+lgt000ip_ultra_hoop             Lyrium-Laced Bilge Hoop
+lgt000ip_ultra_mage_remains     "South-Song" Gerralt's Corpse
+lgt000ip_ultra_tome             Locks of the Golden Fool
+lgt000ip_ultra_treatise         Caste Treatise
+lgt000ip_who_she_bookshelf      Wither Nug Storm
+lgt000ip_who_she_torn_page      Torn Page
+lgt000_invis_plc                Generic Invisible Placeable
+lgt100cr_captain_qerth          "Captain" Qerth
+lgt100cr_gang_1_docks           Redwater Raider
+lgt100cr_gang_1_ht              Guardsman Pretender
+lgt100cr_gang_1_lt              Sharps Highwayman
+lgt100cr_gang_2_docks           Redwater Raider
+lgt100cr_gang_2_ht              Guardsman Pretender
+lgt100cr_gang_2_lt              Sharps Highwayman
+lgt100cr_gang_3_docks           Redwater Raider
+lgt100cr_gang_3_ht              Guardsman Pretender
+lgt100cr_gang_3_lt              Sharps Highwayman
+lgt100cr_gang_4_docks           Redwater Raider
+lgt100cr_ignacio_strand         Ignacio Strand
+lgt100cr_leech                  Leech
+lgt101cr_mag_escp_terrie        Terrie
+lgt110ar_gang_hideout_d         Warehouse
+lgt110ar_gang_hideout_ht        The Barracks
+lgt110ar_gang_hideout_lt        Hovel
+lgt110cr_arl_bann_teagan        Teagan
+lgt110cr_arl_connor             Connor
+lgt110cr_arl_templar_accost     Templar Lieutenant
+lgt110cr_coa_captain_1          Ship Captain
+lgt110cr_coa_captain_2          Ship Captain
+lgt110cr_coa_kirk_guard         Corrupt Guard
+lgt110cr_coa_kirk_rep           Kirkwall Official
+lgt110cr_coa_sailor             Sailor
+lgt110cr_coa_sailor2            Mercenary Archer
+lgt110cr_gxa_coa_spy            Suspicious Lady
+lgt110cr_gxa_vgk_cnspr_1        Amaranthine Conspirator
+lgt110cr_gxa_vgk_cnspr_2        Amaranthine Conspirator
+lgt110cr_gxa_vgk_cnspr_3        Amaranthine Conspirator
+lgt110cr_gxa_vgk_cnspr_4        Amaranthine Conspirator
+lgt110cr_gxa_vgk_slvr_order     Sergeant Joanna
+lgt110cr_gxa_vgk_slvr_or_gd     Guard
+lgt110cr_orz_harrowmont         Lord Renvil Harrowmont
+lgt110cr_orz_harrow_carta       Carta Lieutenant
+lgt110cr_orz_harrow_guard       Dwarven Bodyguard
+lgt110cr_urn_barker             Salesman
+lgt110cr_urn_con_leader         Swindler
+lgt110cr_urn_guard              Sergeant Melindra
+lgt110cr_urn_shill              Sick Commoner
+lgt110ip_at_docks_nt            Docks
+lgt110ip_at_gang_hideout_d      Warehouse
+lgt110ip_at_gang_hideout_lt     Hovel
+lgt111ar_rand_sewer_1_nt        Disused Passage
+lgt111cr_alistair_drunk         Alistair
+lgt120cr_bhelen_supp_ass        Bhelen Supporter
+lgt120cr_bhelen_supp_war        Bhelen Supporter
+lgt120cr_orz_bln_messenger      Messenger
+lgt120cr_orz_bln_official       Ser Ivhan
+lgt120cr_orz_bln_servant        Servant
+lgt120cr_orz_bln_traitor        Bhelen Supporter
+lgt120cr_traitor                Bhelen Supporter
+lgt120ip_at_gang_hideout_ht     The "Barracks"
+lgt150cr_nat_were_dalish_gd     Dalish Hunter
+lgt150cr_nat_were_supporter     Clara
+lgt150im_ntb_wr_ingrdnt_1       Alchemically Sealed Flask
+lgt150im_ntb_wr_ingrdnt_2       Purified Deathroot
+lgt150im_ntb_wr_ingrdnt_3       Twice-Distilled Quicksilver
+lgt150im_ntb_wr_ingrdnt_4       Ebon Rathleek
+lgt150ip_ntb_wr_ing_chest       Ingredient Chest
+lgt150ip_ntb_wr_ing_chest_1     Ingredient Chest
+lgt150ip_ntb_wr_ing_chest_2     Ingredient Chest
+lgt150ip_ntb_wr_ing_chest_3     Ingredient Chest
+lgt150ip_rand_1                 Misty Cavern
+lgt150ip_rand_2                 Gloomy Caves
+lgt150ip_rand_3                 Darkened Cavern
+lgt151ip_sundermount            Sundermount
+lgt160cr_ntb_elf_dalish         Dalish Assassin
+lgt160cr_ntb_elf_human          Traveling Merchant
+lgt160cr_ntb_elf_werewolf       Fereldan Refugee
+lgt160cr_wk_avern_archer        Bandit Archer
+lgt160cr_wk_avern_archer_f      Bandit Archer
+lgt160cr_wk_avern_bandit        Bandit
+lgt160cr_wk_avern_bandit_f      Bandit
+lgt160cr_wk_avern_messenger     Dead Messenger
+lgt160cr_wk_soph_cultist        Strange Hunter
+lgt160cr_wk_soph_hunter         Hunter
+lgt160cr_wk_soph_sophia         Sophia Dryden
+lgt160im_wk_avern_messages      Grey Warden Documents
+lgt160ip_wk_avern_deaddrop      Dead Drop
+lgt160ip_wk_avern_messenger     Dead Messenger
+lgt160ip_wk_soph_fake_soph      Sophia Dryden
+lgt200cr_cor_blimey             Cor "The Bastard" Blimey
+lgt200cr_gang_1_docks           Undercut Thrifter
+lgt200cr_gang_1_ht              Invisible Sister
+lgt200cr_gang_1_lt              Dog Lord
+lgt200cr_gang_2_docks           Undercut Thrifter
+lgt200cr_gang_2_ht              Invisible Sister
+lgt200cr_gang_2_lt              Dog Lord
+lgt200cr_gang_3_ht              Invisible Sister
+lgt200cr_gracious_gillian       "Gracious" Gillian Winger
+lgt200cr_kanky_hammertoe        "Kanky" Hammertoe
+lgt200cr_pride_abomination      Pride Abomination
+lgt200cr_tome_abomination       Abomination
+lgt200cr_tome_corpse            Corpse
+lgt200cr_tome_desire            Desire Demon
+lgt200cr_tome_horror            Arcane Horror
+lgt200cr_tome_pride             Xebenkeck
+lgt200cr_tome_revenant          Revenant
+lgt200im_eom_book               Book of Forbidden Lore
+lgt200ip_eau_tome01             Evil Tome
+lgt200ip_eau_tome02             Evil Tome
+lgt200ip_eau_tome03             Evil Tome
+lgt200ip_eau_tome04             Evil Tome
+lgt200ip_eau_tome05             Evil Tome
+lgt200ip_eau_tome_final         Fell Grimoire
+lgt210ar_gang_hideout_d         Run Down Alley
+lgt210cr_debt_thug1             Hoodlum
+lgt210cr_debt_thug2             Hooligan
+lgt210cr_eau_keran_father       Keran's Father
+lgt210cr_eau_margitte           Templar Recruit Margitte
+lgt210cr_eau_senestra           Senestra
+lgt210cr_eau_thug3              Cutthroat
+lgt210cr_magu_selby             Mistress Selby
+lgt210cr_mag_escp_rescued       Captured Apostate
+lgt210cr_qun_blk_qunari         Qunari
+lgt210cr_shp_kill_qunari1       Qunari
+lgt210cr_shp_kill_qunari2       Qunari
+lgt210cr_shp_kill_qunari3       Qunari
+lgt210ip_ingredient1            First Ingredient
+lgt210ip_ingredient2            Second Ingredient
+lgt210ip_ingredient3            Third Ingredient
+lgt210ip_ingredient4            Fourth Ingredient
+lgt210ip_selby_board            Mistress Selby's Board
+lgt211ar_gang_hideout_lt        Decrepit Alley
+lgt211ar_rand_sewer_1_nt        Disused Passage
+lgt211cr_alistair_drunk         Alistair
+lgt220ar_gang_hideout_ht        Suspicious House
+lgt220cr_mag_apost_apost1       Jake the Black
+lgt220cr_mag_apost_apost2       Innley of Starkhaven
+lgt220cr_mag_apost_apost3       Heborah de Soliere
+lgt220cr_mag_templar            Templar
+lgt220cr_mag_tmplr_archer       Templar Archer
+lgt220cr_mag_tmplr_captain      Templar Lieutenant
+lgt220cr_mag_tmplr_hunt         Templar Hunter
+lgt220cr_shp_mag_bofort         Bofort
+lgt220cr_shp_mag_devrona        Tate
+lgt220cr_shp_mag_guard          Private Venelle
+lgt220cr_shp_mag_tate           Tate
+lgt220cr_shp_mag_victim         Ser Danvil Laurie
+lgt220ip_shp_mag_bofort         Ser Bofort
+lgt220ip_shp_mag_devrona        Devrona
+lgt220ip_shp_mag_tate           Smart Tate
+lgt230ip_at_tomecave            Evil Pit
+lgt231ar_tome_final             The Forgotten Lair
+lgt231cr_lyrium_smuggler        Dwarf Mercenary
+lgt231ip_at_darktown            Darktown
+lgt240ip_at_tomecave            Cave
+lgt241ar_tome_cave              Rotting Cave
+lgt241ip_at_bonepit             The Bone Pit
+lgt250cr_way_dalish_hunter      Dalish Hunter
+lgt250cr_way_dalish_templar     Templar
+lgt250ip_at_tomecave            Recently Opened Passage
+lgt251ar_tome_cave              Abandoned Thaig
+lgt251cr_bancroft               Bancroft
+lgt251cr_stone_golem            Stone Golem
+lgt251ip_at_sundermount         Sundermount
+lgt251ip_chest_disturbed        Chest
+lgt251ip_door_trap1             Door
+lgt260cr_eau_asst_harbor        Harbormaster's Assistant
+lgt260cr_eau_official           Kirkwall Bureaucrat
+lgt260cr_eau_templar_capt       Templar Lieutenant
+lgt260cr_eau_tmp_angelique      Angelique
+lgt260cr_eau_tmp_conrad         Ser Conrad
+lgt260cr_eau_tmp_dockworker     Dockworker
+lgt260cr_eau_tmp_flowergirl     Flower Girl
+lgt260cr_eau_tmp_roderick       Ser Roderick
+lgt260cr_eau_tmp_terrell        Ser Terrell
+lgt260cr_way_apostate_1         Apostate
+lgt260cr_way_apostate_2         Apostate
+lgt260cr_way_bloodmage_1        Blood Mage
+lgt260cr_way_bloodmage_lead     Blood Mage Controller
+lgt260cr_way_mage2              Blood Mage Hypnotist
+lgt260cr_way_merc_1             Mercenary
+lgt260cr_way_merc_2             Mercenary
+lgt260cr_way_merc_3             Mercenary
+lgt260cr_way_merc_lead          Mercenary Captain
+lgt260cr_way_merc_lead2         Mercenary Officer
+lgt260ip_at_tomecave            Dank Cave
+lgt260ip_at_to_rescuecave       Bounty Hunter Getaway
+lgt261ar_rescue_cave            Bounty Hunter Getaway
+lgt261ar_tome_cave              Dank Cave
+lgt261cr_archer                 Bounty Hunter
+lgt261cr_rogue                  Bounty Hunter Assassin
+lgt261cr_rogue2                 Bounty Hunter Commander
+lgt261cr_thug                   Bounty Hunter
+lgt261ip_at_coast               Wounded Coast
+lgt261ip_at_to_coast            Wounded Coast
+lgt261ip_treasure               Pile of Treasure
+lgt261ip_treasure_pile          Pile of Treasure
+lgt270ip_eau_docks_scroll       Delivery Order
+lgt300cr_gang_1_docks           Slave Hunter
+lgt300cr_gang_1_ht              Bloodrager
+lgt300cr_gang_1_lt              Follower of She
+lgt300cr_gang_2_docks           Slave Hunter
+lgt300cr_gang_2_ht              Bloodrager
+lgt300cr_gang_2_lt              Follower of She
+lgt300cr_gang_3_docks           Slave Hunter
+lgt300cr_gang_3_ht              Bloodrager Thrall
+lgt300cr_gang_3_lt              Follower of She
+lgt300cr_gang_4_ht              Bloodrager Thrall
+lgt300cr_gang_4_lt              Follower of She
+lgt300cr_gang_5_ht              Bloodrager Thrall
+lgt300cr_hanker                 Hanker
+lgt300cr_jakeson_hall           Jakeson "The Bleeder" Hall
+lgt300cr_jess_varvel            Jess "Leashmaster" Varvel
+lgt310cr_mag_grigor             Grigor
+lgt310cr_mag_melson             Melson
+lgt310cr_mag_melson_guard1      Melson's Guard
+lgt310cr_mag_melson_guard2      Melson's Guard
+lgt310cr_mag_ors_informant      Informant
+lgt310cr_mis_burn_murder1       Street Thug
+lgt310cr_mis_burn_murder2       Street Thug
+lgt310cr_mis_burn_rival_thu     Street Thug
+lgt310cr_shw_ors_informant      Ser Edgert the Hound
+lgt310cr_shw_ors_inform_tmp     Informant
+lgt310ip_at_bandit_alley        Run Down Alley
+lgt310ip_body_1                 Dead Body
+lgt310ip_body_2                 Dead Body
+lgt310ip_body_3                 Dead Body
+lgt310ip_body_4                 Dead Body
+lgt310ip_drop_zone_1            Dispose of Body
+lgt310ip_drop_zone_2            Dispose of Body
+lgt310ip_drop_zone_3            Dispose of Body
+lgt310ip_drop_zone_4            Dispose of Body
+lgt310ip_stones                 Tie Stone to Dead Body
+lgt311ar_gang_hideout           Run Down Alley
+lgt311ar_gang_hideout_lt        Decrepit Alley
+lgt311ar_rand_sewer_1_nt        Disused Passage
+lgt311cr_shw_mer_agatha         Ser Agatha
+lgt311cr_shw_mer_intro          Barmaid
+lgt311cr_shw_mer_mettin         Ser Mettin
+lgt311ip_at_bandit_alley_lt     Decrepit Alley
+lgt320ar_gang_hideout_ht        Suspicious House
+lgt320cr_mis_resp_swordhntr     Taarbas
+lgt320cr_shw_ors_black_op       Ser Mettin
+lgt320cr_shw_ors_marlein        Ser Marlein Selbrech
+lgt320cr_shw_ors_scrt_nob       Ser Theodore of Wildervale
+lgt320cr_shw_ors_scrt_thug      Thug
+lgt320cr_shw_ors_sympathize     Mage Sympathizer
+lgt320im_mis_resp_sword_01      Qunari Sword
+lgt320ip_at_gang_hideout_ht     Suspicious House
+lgt321cr_alistair_king          King Alistair
+lgt321cr_teagan                 Teagan
+lgt321cr_templar                Templar
+lgt330ip_shw_mer_to_sewer       Hidden Sewer
+lgt330ip_shw_ors_to_spl_dpt     Hidden Supply Depot
+lgt331ar_hybris                 Hidden Dungeon
+lgt331ar_shw_bloodmage          Hidden Sewer
+lgt331ar_supply_depot           Hidden Supply Depot
+lgt331cr_shw_bmage_lead1        Blood Mage Leader
+lgt331im_shw_mer_map            Map to Hideout
+lgt331ip_at_darktown            Darktown
+lgt331ip_codex_note             Note
+lgt331ip_shw_mer_to_dtown       Darktown
+lgt351ar_rand_1                 Hidden Dungeon
+lgt351ar_shw_finale_cave        Blood Mage Refuge
+lgt351cr_shw_mer_sympathize     Mage Sympathizer
+lgt351ip_disarm_door            Door
+lgt351ip_shw_mer_at_smount      Sundermount
+lgt351ip_shw_mer_to_bmage       Blood Mage Base
+lgt360cr_mag_bandit_leader      Bandit Leader
+lgt360cr_mag_orlanna            Orlanna
+lgtcr_dalish_archer             Outcast Dalish Archer
+lgtcr_dalish_assassin           Outcast Dalish Assassin
+lgtcr_dalish_warrior            Outcast Dalish Warrior
+lgtcr_revenant_1                Revenant
+mag100ar_eau_road               Wilmod’s Camp
+mag100ar_encounter              Wounded Coast Approach
+mag100cr_cullen                 Knight-Captain Cullen
+mag100cr_karras                 Ser Karras
+mag100cr_templar                Templar
+mag100cr_templar2               Templar
+mag100cr_templar3               Templar Archer
+mag100cr_templar4               Templar Hunter
+mag100cr_thrask                 Thrask
+mag100cr_wilmod                 Templar Recruit Wilmod
+mag100cr_wilmod_demon           Wilmod
+mag100ip_bones_1                Bones
+mag100ip_corpse_1               Corpse
+mag100ip_gravestone             Gravestone
+mag101ar_caverns                Runaways' Cavern
+mag101cr_alain                  Alain
+mag101cr_apostate               Apostate
+mag101cr_apostate2              Apostate
+mag101cr_decimus                Decimus
+mag101cr_grace                  Grace
+mag101ip_at_mag100ar_enc        Wounded Coast Approach
+mag110cr_abomination            Abomination
+mag110cr_arianni                Arianni
+mag110cr_guardsman              Guard
+mag110cr_guardsman2             Guard
+mag110cr_pre_abomination        Captured Mage
+mag110cr_sailor_1               Captain Reiner
+mag110cr_sailor_2               Sailor
+mag110cr_sailor_3               Marine
+mag110cr_sailor_4               Sailor
+mag110cr_sailor_5               Enforcer
+mag110cr_samson                 Samson
+mag110cr_vincento               Vincento
+mag110ip_store_arthuris         Arcane Shop
+mag110ip_vincento_store         Vincento's Northern Merchandise
+mag111ar_warehouse              Arthuris's Private Dock
+mag111im_danzig_letter          Hideout Location Map
+mag111im_thrask_letter          Thrask's Letter
+mag111ip_backroom_door1         Door
+mag111ip_backroom_door2         Door
+mag111ip_hh_at_lowtown          Docks
+mag111ip_ws_chest               Chest
+mag120cr_brothelguard           City Guardsman
+mag120cr_macha                  Macha
+mag120cr_templar_1              Templar
+mag121cr_idunna                 Idunna
+mag121cr_idunna_stunt           Idunna
+mag121cr_viveka                 Viveka
+mag121im_idunna_clue01          Documents
+mag121ip_corthwaite_store       Corthwaite's Boutique
+mag121ip_idunna_clue01          Documents
+mag121ip_idunna_door            Door
+mag130cr_danzig                 Danzig
+mag130cr_slaver                 Slaver
+mag130cr_slaver2                Slaver
+mag130cr_slaver3                Slaver Archer
+mag130cr_slaver_listener        Slaver
+mag130cr_slaver_mage            Slaver Mage
+mag130im_danzig_map             Map to The Wounded Coast
+mag130ip_at_eau_mages           Sanctuary
+mag131ar_bloodmages             Sanctuary
+mag131cr_bloodmage              Blood Mage
+mag131cr_bloodmage2             Blood Mage
+mag131cr_bloodmage3             Blood Mage
+mag131cr_keran                  Keran
+mag131cr_keran_civ              Keran
+mag131cr_keran_templar          Keran
+mag131cr_taraneh                Tarohne
+mag131ip_at_undercity           Darktown
+mag131ip_loot_corpse_1          Corpse
+mag131ip_loot_corpse_2          Corpse
+mag160cr_feynriel               Feynriel
+mag160cr_slaver                 Slaver
+mag160cr_slaver_mage            Slaver Mage
+mag160cr_varian_ilithis         Varian Ilithis
+mag160ip_at_to_ws_cave          Slaver Caverns
+mag161ar_cave                   Slaver Caverns
+mag161ip_at_to_coast            Wounded Coast
+mag161ip_loot_1                 Chest
+mag170cr_hugh                   Templar Recruit Hugh
+mag170cr_recruit01              Templar Recruit Paxley
+mag170cr_recruit02              Templar Recruit Ruvena
+mag170cr_thrask                 Thrask
+mag200cr_feynriel               Feynriel
+mag200ip_corpse_1               Corpse
+mag210cr_arianni                Arianni
+mag210cr_feynriel_abominat      Feynriel
+mag210ip_store_arthuris         Arcane Shop
+mag211ar_ariannis_house         Arianni's House
+mag211im_reward_book            Tome of the Slumbering Elders
+mag221ip_corthwaite_store       Corthwaite's Boutique
+mag230cr_evelina                Evelina
+mag270cr_hugh                   Templar Hugh
+mag270cr_recruit01              Templar Paxley
+mag270cr_recruit02              Templar Ruvena
+mag291ar_gallows_templar_fd     Templar Hall
+mag291cr_caress                 Caress
+mag291cr_crowd_elf_1            Ghostly Elf
+mag291cr_crowd_elf_2            Ghostly Elf
+mag291cr_crowd_elf_3            Ghostly Elf
+mag291cr_crowd_elf_4            Ghostly Elf
+mag291cr_crowd_elf_5            Ghostly Elf
+mag291cr_torpor                 Torpor
+mag291cr_vincento               Vincento
+mag291cr_wesley                 Wesley
+mag291cr_wryme                  Wryme
+mag291cr_young_feynriel         Young Feynriel
+mag291ip_barrel                 Barrel
+mag291ip_book                   Book
+mag291ip_chest                  Chest
+mag291ip_folly                  Feynriel's Folly
+mag291ip_lever                  Lever
+mag291ip_to_caress              Feynriel's Desires
+mag291ip_to_wryme               Feynriel's Pride
+mag310cr_controlled_1           Dominated Worker
+mag310cr_controlled_2           Dominated Fighter
+mag310cr_controlled_3           Dominated Fighter
+mag310cr_controlled_4           Dominated Scoundrel
+mag310cr_progenitor_1           Progenitor
+mag310cr_progenitor_2           Progenitor
+mag310cr_progenitor_3           Progenitor
+mag310cr_scion_1                Scion
+mag310cr_scion_2                Scion
+mag310cr_scion_3                Scion
+mag310ip_store_arthuris         Arcane Shop
+mag311ar_warehouse              Secret Meeting Place
+mag311cr_emile                  Emile de Launcet
+mag311cr_huon                   Huon
+mag311cr_keran                  Keran
+mag311cr_keran_civ              Keran
+mag311cr_nyssa                  Nyssa
+mag311im_bsc_notes              Conspirator's Notes
+mag311ip_door                   Door
+mag320cr_circle_mage            Circle Mage
+mag320cr_mage_1                 Circle Mage
+mag320cr_mage_conspirator       Enchanter
+mag320cr_nobleman_1             Nobleman
+mag320cr_nobleman_2             Nobleman
+mag320cr_nobleman_3             Nobleman
+mag320cr_noblewoman_1           Noblewoman
+mag320cr_noblewoman_2           Noblewoman
+mag320cr_templar                Templar
+mag320cr_templar_1              Templar Lieutenant
+mag320cr_templar_archer         Templar Archer
+mag320ip_to_launcet             De Launcet Mansion
+mag321ar_mansion                De Launcet Mansion
+mag321cr_butler                 Butler
+mag321cr_comte                  Comte de Launcet
+mag321cr_dulci                  Comtesse Dulci de Launcet
+mag321cr_nella                  Nella
+mag321cr_servant_distract       Servant
+mag321cr_servant_gossip_1a      Servant
+mag321cr_servant_gossip_1b      Servant
+mag321cr_servant_gossip_2a      Servant
+mag321cr_servant_gossip_2b      Servant
+mag321ip_corthwaite_store       Corthwaite's Boutique
+mag321ip_launcet_to_hitown      Hightown
+mag330cr_cricket                Cricket
+mag330cr_evelina                Evelina
+mag330cr_walter                 Walter
+mag330ip_to_hideout             Sewer Passage
+mag331ar_evelinas_hideout       Sewer Passage
+mag331ip_hideout_exit           Darktown
+mag360cr_alain                  Alain
+mag360cr_apostate               Apostate
+mag360cr_cullen                 Knight-Captain Cullen
+mag360cr_grace                  Grace
+mag360cr_hostage_anders         Anders
+mag360cr_hostage_aveline        Aveline
+mag360cr_hostage_bethany        Bethany
+mag360cr_hostage_carver         Carver
+mag360cr_hostage_fenris         Fenris
+mag360cr_hostage_isabela        Isabela
+mag360cr_hostage_merrill        Merrill
+mag360cr_hostage_varric         Varric
+mag360cr_samson                 Samson
+mag360cr_templar                Renegade Templar
+mag360cr_templar_archer         Renegade Templar
+mag360cr_thrask                 Thrask
+mag371ar_gallows_templar        Templar Hall
+mag371cr_elsa                   Elsa
+mag371ip_at_courtyard           Gallows Courtyard
+matt_warrior_2                  Male Warrior
+mcr000cr_leliana                Leliana
+mcr310ar_docks_nt               The Docks (Night)
+mcr310ar_lowtown_nt             Lowtown (Night)
+mcr310cr_apostate               Mage
+mcr310cr_bloodmage              Mage
+mcr310cr_circle_highmage        Circle Mage
+mcr310cr_circle_mage            Circle Mage
+mcr310cr_confused_guard         City Guardsman
+mcr310cr_confused_guard_ldr     Guard Captain
+mcr310cr_loyalist_mage          Loyalist Mage
+mcr310cr_loyalist_mage_ldr      Loyalist Mage
+mcr310cr_scared_mage            Scared Mage
+mcr310cr_templar_commander      Templar Lieutenant
+mcr310cr_templar_escort         Templar
+mcr310cr_templar_loyalist       Templar Loyalist
+mcr310cr_templar_lyl_ldr        Templar Loyalist
+mcr310cr_templar_seeker         Templar Hunter
+mcr310cr_templar_trooper        Templar
+mcr310ip_to_docks               The Docks
+mcr310ip_to_gallows             Gallows
+mcr370ar_gallows_nt             Gallows Courtyard
+mcr370cr_boss_meredith          Meredith
+mcr370cr_corpse_1               Corpse
+mcr370cr_corpse_2               Corpse
+mcr370cr_corpse_3               Arcane Horror
+mcr370cr_gate_guardian          Gate Guardian
+mcr370cr_gate_guardian_top      Gate Guardian
+mcr370cr_guardsman              City Guardsman
+mcr370cr_mage_escort            Mage
+mcr370cr_mage_messenger         Mage
+mcr370cr_moira                  Moira
+mcr370cr_samson                 Samson
+mcr370cr_slave_statue           Slave Statue
+mcr370cr_templar_messenger      Templar
+mcr370ip_to_templar_hall        Templar Hall
+mcr370_templar1                 Templar
+mcr370_templar2                 Templar
+mcr371ar_gallows_prison_nt      Gallows Prison
+mcr371ar_gallows_templar_nt     Templar Hall
+mcr371cr_alain                  Alain
+mcr371cr_anders                 Anders
+mcr371cr_anders_cut             Anders
+mcr371cr_aveline                Aveline
+mcr371cr_aveline_cut            Aveline
+mcr371cr_bethany_cut            Bethany
+mcr371cr_carver_cut             Carver
+mcr371cr_city_guard             City Guardsman
+mcr371cr_emile_de_launcet       Emile de Launcet
+mcr371cr_fenris                 Fenris
+mcr371cr_fenris_cut             Fenris
+mcr371cr_harvester1             Orsino
+mcr371cr_harvester2             Orsino
+mcr371cr_harvester3             Orsino
+mcr371cr_idunna                 Idunna
+mcr371cr_isabela_cut            Isabela
+mcr371cr_merrill                Merrill
+mcr371cr_merrill_cut            Merrill
+mcr371cr_templar_lieutenant     Knight-Lieutenant Barsus
+mcr371cr_varric_cut             Varric
+mcr371ip_sandal_store           Sandal's Store
+mcr371ip_to_courtyard           Gallows Courtyard
+mcr371ip_to_prison              Templar Hall
+mcr371ip_to_templar_hall        Templar Hall
+mcr371_scared_mage_f            Mage
+mcr371_scared_mage_m            Mage
+mcr372ar_gallows_templar_nt     Templar Hall
+mer000ip_hubert_store           Hubert's Fine Goods
+mer110cr_jansen                 Jansen
+mer110cr_miner1                 Earl
+mer110cr_miner2                 Unemployed Miner
+mer110cr_mine_looter            Looter
+mer110cr_mine_scavenger_1       Looter
+mer120cr_hubert                 Hubert
+mer140cr_jansen                 Jansen
+mer140ip_at_caverns             Bone Pit Mines
+mer140ip_at_caverns_ledge       Bone Pit Mines
+mer140ip_dragon_treasure        Rubble
+mer140ip_item_rubble            Rubble
+mer140ip_item_rubble_2          Rubble
+mer141ar_caverns                Bone Pit Mines
+mer141cr_drake_boss             Mature Dragon
+mer141cr_jansen                 Jansen
+mer141ip_at_bone_pit            The Bone Pit
+mer141ip_at_bone_pit_ledge      Bone Pit Ledge
+mer200ar_exterior               Outside Kirkwall
+mer200cr_ambush_leader          Ambush Leader
+mer200im_arlan_note             Directions to Arlan
+mer200im_pickaxe                Pickax
+mer200ip_cavern_chest           Chest
+mer210cr_coterie_lieutenant     Coterie Lieutenant
+mer210cr_coterie_thug_1         Coterie Rogue
+mer210cr_coterie_thug_2         Coterie Thug
+mer210cr_coterie_thug_3         Coterie Thug
+mer210cr_seldrek                Lilley
+mer210cr_smith                  Smith
+mer220cr_hubert                 Hubert
+mer221ar_player_home            Hawke Estate
+mer221cr_sabin                  Sabin
+mer230ip_to_arlan_hideout       Brekker's Hideaway
+mer231ar_arlan_hideout          Arlan's Hideaway
+mer231cr_brekker                Brekker
+mer231ip_to_undercity           Darktown
+mer240cr_jansen                 Jansen
+mer240cr_miner1                 Bone Pit Miner
+mer240cr_miner2                 Bone Pit Miner
+mer240cr_miner3                 Bone Pit Miner
+mer240cr_miner4                 Bone Pit Miner
+mer240cr_miner5                 Bone Pit Miner
+mer240ip_sabins_stash           Sabin's Stash
+mer241ar_caverns                Bone Pit Mines
+mer241ar_cavern_of_dead         Bone Pit Mines
+mer241cr_queen_spider           Queen Spider
+mer241ip_tunnel_blocker         Collapsed Tunnel
+mer300cr_high_dragon            High Dragon
+mer320cr_hubert                 Hubert
+mer320cr_lady_hubert            Lady Bartiere
+mer340cr_angry_miner            Miner
+mer340cr_cavern_guard           Bone Pit Protector
+mer340cr_cowan                  Keran
+mer340cr_high_dragon            High Dragon
+mer340cr_hubert_combat          Hubert
+mer340cr_hubert_guard           Guard
+mer340cr_hubert_guard_2         Guard
+mer341ar_caverns                Bone Pit Mines
+mer341cr_earl                   Earl
+mer341cr_jansen                 Jansen
+mrl000ip_at_exit_house          Leave Area
+mrl111ar_house                  Merrill's Home
+mrl150cr_arcane_horror          Arcane Horror
+mrl150cr_dalish_guard1          Dalish Hunter
+mrl150cr_dalish_guard2          Dalish Hunter
+mrl150cr_dalish_hunter          Dalish Hunter
+mrl150cr_revenant               Revenant
+mrl150cr_shadow_assasin         Shadow Assassin
+mrl150cr_shadow_warrior         Shadow Warrior
+mrl150ip_altar                  Altar
+mrl150ip_pile_a                 Pile of Bones
+mrl150ip_pile_b                 Rubble
+mrl150ip_return_to_camp         Return to Camp
+mrl151ip_chest_a                Chest
+mrl200im_statue_gift            Halla Carving
+mrl211ar_house                  Merrill's Home
+mrl211ip_mirror                 Eluvian
+mrl250cr_corpse                 Corpse
+mrl250cr_corpse_archer          Skeleton Archer
+mrl250cr_frosthorror            Frost Horror
+mrl250cr_reptilerock            Rock Reptile
+mrl250cr_skeleton_ice           Frost Skeleton
+mrl250cr_spiderhunt             Hunter Spider
+mrl250cr_spiderling_cv          Cave Spiderling
+mrl250cr_spider_cv              Cave Spider
+mrl250cr_spider_wasp            Wasp Spider
+mrl250cr_thief_a                Thief
+mrl250cr_thief_b                Thief
+mrl250cr_thief_c                Thief
+mrl250cr_thief_d                Thief
+mrl250cr_thief_e                Thief
+mrl250cr_thief_lt               Thief Leader
+mrl250ip_at_elfcave             Varterral Hunting Ground
+mrl251ar_elf_cave               Varterral Hunting Ground
+mrl251cr_pol                    Pol
+mrl251cr_spider                 Spider
+mrl251cr_varterral              Varterral
+mrl251im_amu_chandan            Chandan's Amulet
+mrl251im_amu_harshal            Harshal's Amulet
+mrl251im_amu_radha              Radha's Amulet
+mrl251ip_at_sundermount         Sundermount
+mrl251ip_bosshorde_a            Pile of Treasure
+mrl251ip_bosshorde_b            Elven Staff
+mrl251ip_bosshorde_c            Suit of Armor
+mrl251ip_bosshorde_d            Glittering Treasure
+mrl251ip_dead_chandan           Hunter Chandan
+mrl251ip_dead_harshal           Hunter Harshal
+mrl251ip_dead_radha             Hunter Radha
+mrl251ip_loot_a                 Pile of Bones
+mrl251ip_loot_b                 Pile of Bones
+mrl251ip_loot_c                 Chest
+mrl251ip_loot_d                 Pile of Treasure
+mrl251ip_loot_e                 Rubble
+mrl251ip_loot_f                 Bones
+mrl251ip_loot_g                 Pile of Treasure
+mrl300im_ring_gift              Sylvanwood Ring
+mrl311ar_house                  Merrill's Home
+mrl311ip_mirror_shattered       Eluvian
+mrl311ip_mirror_whole           Eluvian
+mrl350cr_dragon                 Dragon
+mrl350cr_wraith                 Shadow Warrior
+mrl350ip_at_demoncave           Pride's End
+mrl350ip_at_downmountain        Travel Down the Mountain
+mrl350ip_grave_a                Grave
+mrl350ip_grave_b                Grave
+mrl350ip_grave_c                Grave
+mrl350ip_grave_d                Grave
+mrl350ip_grave_e                Grave
+mrl350ip_grave_f                Grave
+mrl350ip_marethari_corpse       Corpse
+mrl350ip_pile_a                 Pile of Bones
+mrl350ip_shrine                 Shrine
+mrl351ar_demon_cave             Pride's End
+mrl351cr_fakechandan            Hunter Chandan
+mrl351cr_fakefemaleelf          Elven Mother
+mrl351cr_fakeharshal            Hunter Harshal
+mrl351cr_fakemaleelf            Elven Elder
+mrl351cr_fakemarethari          Keeper Marethari
+mrl351cr_fakepol                Pol
+mrl351cr_fakeradha              Hunter Radha
+mrl351cr_faketamlen             Tamlen
+mrl351cr_pridedemon             Pride Demon
+mrl351ip_at_sundermount         Sundermount
+mrl351ip_cavern_chest_a         Chest
+mrl351ip_demon_statue           Strange Idol
+nat300ip_barrel_lever           Lever
+nat300ip_explosive_barrel       Explosive Barrel
+nat300ip_item_chest             Chest
+nat300ip_lore_item_chest        Chest
+nat320cr_delilah                Delilah Howe
+nat380cr_explosive_barrel       Explosive Barrel
+nat380cr_nathaniel              Nathaniel Howe
+nat380cr_ogre                   Ogre
+nat380cr_temmerin               Temmerin Glavonak
+one100ar_ironwood               Ironwood Clearing
+one100ar_ruin_ext               Abandoned Ruins
+one100cr_elren                  Elren
+one100cr_guard                  City Guardsman
+one100cr_nabil                  Nabil
+one100im_athenril_goods         Athenril's Goods
+one100ip_at_ruin_ext            Exit
+one100ip_at_ruin_int            Ruined Passage
+one100ip_chest_1                Chest
+one100ip_chest_2                Chest
+one100ip_ironwood               Pure Ironbark
+one100ip_st_ilen                Clan Craftmaster
+one100ip_st_solivitus           Formari Herbalist
+one100it_fang                   Dragon's Fang
+one100it_gland                  Spider's Silk Gland
+one100it_ironwood               Pure Ironbark
+one100it_thug_note              The Wallop Mallet
+one100it_warehouse_note         A Note for Gamlen
+one101ar_ggt_cavern             The Sink
+one101ar_ruin_int               Ruined Passage
+one101cr_kelder                 Kelder
+one101cr_lia                    Lia
+one101cr_smuggler               Raider
+one101cr_spider_loot            Venomous Spider
+one101ip_at_hightown            Exit
+one110cr_coterie_thug_1         Coterie Assassin
+one110cr_coterie_thug_2         Coterie Thug
+one110cr_coterie_thug_3         Coterie Archer
+one110cr_gustav                 Gustav
+one110cr_harimann               Lord Harimann
+one110cr_harimann_guard_1       Guard Captain
+one110cr_harimann_guard_2       Guard
+one110cr_harimann_guard_3       Guard
+one110cr_meeran                 Meeran
+one110cr_pryce                  Pryce
+one110cr_tree_minder            Jelden
+one110ip_ggt_tree               Vhenadahl
+one110ip_ggt_warehouse          Smetty's Fish Guttery
+one111ip_ggt_crate_1            Shipment 917
+one111ip_ggt_crate_2            Shipment 1023
+one111ip_ggt_crate_3            Shipment 1029
+one111ip_ggt_crate_4            Shipment 925
+one111ip_ggt_crate_5            Shipment 963
+one111ip_ggt_crate_6            Shipment 973
+one111ip_ggt_crate_7            Shipment 1039
+one111ip_ggt_crate_8            Shipment 1049
+one111ip_ggt_mallet             Wallop Mallet
+one111ip_ggt_note               Crumpled Note
+one111ip_ggt_trap               Shipment 1023
+one120cr_athenril               Athenril
+one120cr_magistrate             Magistrate Vanard
+one121ar_warehouse              Smetty's Fish Guttery
+one121cr_note_thug              Mercenary Commander
+one121ip_at_lowtown             Smetty's Fish Guttery
+one130ar_booker_dungeon         Booker's Fall
+one130ar_disciple_dungeon       Jonas's Demise
+one130cr_mekel                  Mekel
+one140cr_charade                Charade
+one140cr_veld                   Veld
+one200ip_flower                 Harlot's Blush Flower
+one200ip_ink_chest              Chest
+one200ip_st_ilen                Master Ilen's Shop
+one200ip_st_solivitus           Formari Herbalist
+one200it_blush                  Harlot's Blush Flower
+one200it_heart                  Varterral's Heart
+one200it_tattoo                 Dalish Tattoo Ink
+one220cr_dera                   Dera
+one220cr_yevhen                 Yevhen
+one280cr_emissary               Darkspawn Emissary
+one280cr_emrys                  Emrys
+one280cr_golem                  Golem
+one280cr_iwan                   Iwan
+one280cr_merin                  Merin
+one280cr_uncontrolled_golem     Golem
+one280im_control_rod            Golem Control Rod
+one280im_merin_key              Key
+one280ip_cache                  Treasure Cache
+one280ip_locked_door            Door
+one280ip_sealed_door            Sealed Door
+one300ar_crow_camp              Antivan Camp
+one300ar_vanard_fight           Vanard's Ambush
+one300cr_crow_1                 Antivan Crow
+one300cr_crow_2                 Antivan Crow
+one300cr_crow_3                 Antivan Crow
+one300cr_crow_4                 Antivan Crow
+one300cr_ggt_thug2              Mercenary
+one300cr_ggt_thug3              Mercenary
+one300cr_ggt_thug4              Mercenary
+one300cr_ggt_thug5              Mercenary
+one300cr_lia                    Lia
+one300cr_nuncio                 Nuncio
+one300cr_nuncio_guard           Nuncio's Guard
+one300cr_zevran                 Zevran
+one300ip_st_ilen                Master Ilen's Shop
+one300ip_st_solivitus           Formari Herbalist
+one300ip_worldmap               Leave Area
+one300it_fire                   High Dragon Fire Gland
+one320cr_magistrate             Magistrate Vanard
+one330cr_ggt_thug1              Mercenary
+one350cr_terath                 Terath
+one350cr_variel                 Variel
+one350cr_vinell                 Vinell
+one350ip_to_zevran_cave         Mountain Cave
+one350ip_zevran_note            Inconspicuous Note
+one3510cr_dead_fighter_1        Dead Man
+one3510cr_dead_fighter_2        Corpse
+one3510cr_dead_fighter_3        Slain Assassin
+one3510cr_dead_fighter_4        Dead Warrior
+one3510cr_dead_fighter_5        Dead Body
+one351ar_zevran_cave            Mountain Cave
+one351ip_to_sundermount         Sundermount
+one351ip_worldmap               Leave Area
+prm000im_air_ring               Air of Confidence
+prm000im_ashes_amulet           Amulet of Ashes
+prm000im_blood_boots            Blood Dragon Greaves
+prm000im_blood_chest            Blood Dragon Armor
+prm000im_blood_gloves           Blood Dragon Gauntlets
+prm000im_blood_helm             Blood Dragon Helmet
+prm000im_cliffs_tome            The Far Cliffs of Kirkwall
+prm000im_deep_blade             Hayder's Razor
+prm000im_duru_amulet            Dura's Blue Flame
+prm000im_evra_belt              Evra's Trophy Belt
+prm000im_evra_ring              Evra's Might
+prm000im_fade_sword             Fadeshear
+prm000im_frozen_boots           Boots of the Frozen Wastes
+prm000im_hindsight_belt         Hindsight
+prm000im_irons_belt             The Irons
+prm000im_isaac_boots            Ser Isaac's Boots
+prm000im_isaac_chest            Ser Isaac's Armor
+prm000im_isaac_gloves           Ser Isaac's Gauntlets
+prm000im_isaac_helm             Ser Isaac's Helm
+prm000im_ivo_amulet             Ivo Family Crest
+prm000im_lion_shield            The Lion of Orlais
+prm000im_lost_tome              Of Things Not Lost
+prm000im_lothering_tome         Lothering's Lament
+prm000im_parth_staff            Staff of Parthalan
+prm000ip_curio_chest            Special Deliveries
+pro000ar_blightlands_fake       Outside Lothering
+pro000ar_blightlands_real       Outside Lothering
+pro000ar_gallow_court           Gallows Courtyard
+pro000cr_athenril               Athenril
+pro000cr_athenril_entourage     Athenril's Smuggler
+pro000cr_athenril_entouragm     Athenril's Smuggler
+pro000cr_barrier_disciple       Hurlock Emissary
+pro000cr_bethany_fake           Bethany
+pro000cr_captain_wright         Guardsman Wright
+pro000cr_carver_fake            Carver
+pro000cr_colonel_ewald          Captain Ewald
+pro000cr_desperate_refugee      Desperate Refugee
+pro000cr_flemeth_ogre           Ogre
+pro000cr_friedrich              Friedrich
+pro000cr_friedrich_thug         Friedrich's Guard
+pro000cr_friedrich_thug_2       Friedrich's Guard
+pro000cr_friedrich_thug_3       Friedrich's Guard
+pro000cr_guard                  City Guardsman
+pro000cr_guard_amb              City Guardsman
+pro000cr_guard_archer           City Guardsman
+pro000cr_guard_f                City Guardsman
+pro000cr_hurlock_aveline        Hurlock
+pro000cr_hurlock_fake           Hurlock
+pro000cr_hurlock_firewall       Hurlock
+pro000cr_hurlock_rng_fake       Hurlock Bolter
+pro000cr_meeran                 Meeran
+pro000cr_meeran_entourage       Red Iron Mercenary
+pro000cr_merchant               Merchant Cavril
+pro000cr_merchants_guard        Merchant's Guard
+pro000cr_merchants_guard_2      Merchant's Guard
+pro000cr_ogre_fake              Ogre
+pro000cr_refugee1               Refugee
+pro000cr_refugee2               Refugee
+pro000cr_refugee3               Refugee
+pro000cr_refugee4               Refugee
+pro000cr_refugee5               Refugee
+pro000cr_refugee6               Refugee
+pro000cr_refugee7               Refugee
+pro000cr_soldier1               Deserter
+pro000cr_soldier2               Deserter
+pro000cr_soldier3               Deserter
+pro000cr_soldier4               Deserter Archer
+pro000cr_soldier5               Deserter
+pro000cr_soldier6               Deserter Reaver
+pro000cr_soldier7               Deserter Assassin
+pro000cr_soldier_leader         Deserter Leader
+pro000cr_wesley                 Wesley
+pro000cr_wesley_tainted         Wesley
+pro000im_merchant_key           Merchant's Key
+pro000ip_barrier                Magical Barrier
+pro000ip_corpse_1               Dead Refugee
+pro000ip_corpse_2               Dead Refugee
+pro000ip_corpse_3               Dead Refugee
+pro000ip_corpse_demo            Dead Refugee
+pro000ip_corpse_nonint          Dead Refugee
+pro000ip_corpse_weapons         Dead Refugee
+pro000ip_corpse_weapons2        Dead Refugee
+pro000ip_corpse_weapons3        Dead Refugee
+pro000ip_gallows_gate           Gate
+pro000ip_gate                   Gate
+pro000ip_locked_chest           Chest
+pro000ip_merchant_chest         Merchant's Chest
+pro000ip_merchant_store         Cavril's Sundries
+pro000ip_wesleys_ring           Wesley's Ring
+pro00fl_bethany_stunt           Bethany
+pro00fl_carver_stunt            Carver
+qcr210ar_lowtown_nt             Lowtown (Night)
+qcr210cr_converted_elf          Elf Convert
+qcr210cr_elven_supporters       Elven Supporter
+qcr210cr_elven_supporter_rg     Elven Supporter
+qcr210cr_guardman               City Guardsman
+qcr210cr_guardsman_m            City Guardsman
+qcr210cr_looter_thug            Looter
+qcr210ip_to_hightown            Hightown
+qcr220ar_hightown_nt            Hightown (Night)
+qcr220cr_alistar_gw             Alistair
+qcr220cr_bethany                Bethany
+qcr220cr_bethany_circle         Bethany
+qcr220cr_carver                 Carver
+qcr220cr_carver_templar         Carver
+qcr220cr_gray_warden            Grey Warden
+qcr220cr_nobleman               Nobleman
+qcr220cr_nobleman2              Nobleman
+qcr220cr_nobleman3              Nobleman
+qcr220cr_noblewoman             Noblewoman
+qcr220cr_noblewoman2            Noblewoman
+qcr220cr_noblewoman3            Noblewoman
+qcr220cr_qunari_cut_a1          Karashok
+qcr220cr_qunari_hunter          Sten
+qcr220cr_stroud                 Stroud
+qcr220cr_templar                Templar
+qcr221ar_keep                   Viscount's Keep
+qcr221cr_qunari_archer          Ashaad
+qcr221cr_qunari_honor_guard     Qunari Honor Guard
+qcr221cr_qunari_mage            Saarebas
+qcr221cr_qunari_warrior         Karasaad
+qcr221ip_throne_door            Door
+qcr270ar_gallows                Gallows Courtyard
+qcr270cr_abomination            Abomination
+qcr270cr_fake_meredith          Meredith
+qcr270cr_fake_templar           Templar
+qun100ar_exterior               Vimmark Mountain Pass
+qun100ar_plot_start             Dead Man's Pass
+qun100cr_qunari_warrior1        Karashok
+qun100cr_qunari_warrior2        Karashok
+qun100cr_qunari_warrior3        Karashok
+qun100cr_qunari_warrior4        Ashaad
+qun100cr_qunari_warrior5        Ashaad
+qun100cr_qunari_warrior6        Ashaad
+qun100cr_warrior1               Karasaad
+qun100cr_warrior2               Karasaad
+qun100ip_at_exit                Vimmark Mountain Pass
+qun100ip_at_safehouse           Petrice's Safehouse
+qun101ar_talvashoth_cave        Tal-Vashoth Cavern
+qun101ip_at_coast               Wounded Coast
+qun110cr_arishok_guard          Qunari
+qun110cr_arishok_guard_nt       Qunari
+qun110cr_mugger                 Shady Character
+qun110cr_petrice                Sister Petrice
+qun110cr_throne_guard           Qunari
+qun110cr_varnell                Ser Varnell
+qun110ip_compound_gate          Qunari Compound
+qun110ip_compound_gate_nt       Qunari Compound
+qun111ar_safehouse              Petrice's Safehouse
+qun111cr_ketojan                Ketojan
+qun111im_ketojan_cut            Phylactery of Saarebas
+qun111ip_at_lowtown             Lowtown
+qun111ip_trapdoor               Undercity Warrens
+qun120cr_javaris                Javaris
+qun131ar_undercity_warrens      Undercity Warrens
+qun131cr_taskmaster             Arvaarad
+qun131cr_warrens_thug           Thug Leader
+qun131cr_warrens_thug2          Undercity Thug
+qun131cr_warrens_thug3          Undercity Thug
+qun131cr_warrens_thug4          Undercity Thug
+qun131cr_warrens_thug5          Undercity Thug
+qun131cr_warrens_thug6          Undercity Thug
+qun131cr_warrens_thug7          Undercity Thug
+qun131ip_treasure               Chest
+qun131ip_treasure2              Chest
+qun131ip_treasure3              Chest
+qun150cr_merc                   Mercenary
+qun150cr_merc_2                 Mercenary
+qun160cr_leader                 Tal-Vashoth Leader
+qun160cr_vashothlead            Mercenary
+qun160ip_at_cave                Tal-Vashoth Cavern
+qun160ip_chest_1                Chest
+qun160ip_chest_2                Chest
+qun160ip_vashothlead_dummy      Tal-Vashoth Mercenary
+qun210ar_fq_random_enc          Winding Alley
+qun210ar_javaris_encounter      Outside Smuggler's Cut
+qun210cr_commoner               Concerned Commoner
+qun210cr_guard                  Guardsman Maecon
+qun210cr_javaris_guard          Mercenary
+qun210cr_random_thug            Thug
+qun210cr_random_thug_leader     Thug Leader
+qun210ip_at_exit                Qunari Compound
+qun210ip_loot_a                 Barrel
+qun210ip_loot_b                 Crate
+qun211ar_poison_encounter       Side Alley
+qun211cr_braggart               Orwald the Braggart
+qun211cr_braggart_ally_f        Patron
+qun211cr_braggart_ally_f2       Patron
+qun211cr_braggart_ally_f3       Patron
+qun211cr_braggart_ally_f4       Patron
+qun211cr_braggart_ally_m        Patron
+qun211cr_braggart_ally_m2       Patron
+qun211cr_braggart_ally_m3       Patron
+qun211cr_braggart_ally_m4       Patron
+qun211cr_crazy_woman            Crazed Woman
+qun211cr_elf_warrior            Elven Fanatic
+qun211cr_final1                 Mercenary Archer
+qun211cr_final2                 Mercenary Archer
+qun211cr_henchman               Mercenary
+qun211cr_henchman2              Mercenary
+qun211cr_merc_loot              Mercenary
+qun211ip_area_exit              Leave Area
+qun211ip_barrel                 Gas Barrel
+qun211ip_barrel_latch           Steel Latch
+qun211it_barrel_latch           Steel Latch
+qun220cr_javaris                Javaris
+qun220ip_at_chantry_n           The Chantry
+qun221ar_chantry_nt             The Chantry
+qun221cr_cleric                 Sister Emeline
+qun221cr_mob_leader             Mob Leader
+qun221cr_petrice                Mother Petrice
+qun221cr_petrice_mob            Righteous Mob
+qun221cr_petrice_mob2           Righteous Mob
+qun221cr_petrice_mob3           Righteous Mob
+qun221cr_petrice_mob4           Righteous Mob
+qun221cr_qunari_assassin        Ashaad
+qun221cr_qunari_guard           Qunari
+qun221cr_saemus                 Saemus
+qun221ip_at_cht_htown_nt        Hightown
+qun230ar_cavern                 Smuggler's Cut
+qun230cr_carta_thug             Carta Thug
+qun230cr_guild_contact          Coterie Barker
+qun230ip_to_darktown            Darktown
+qun230ip_to_smugglers_cut       Smuggler's Cut
+qun230ip_to_wilderness          Wilderness
+qun231ar_varnell_hideout        Ser Varnell's Refuge
+qun231cr_envoy                  Qunari Delegate
+qun231cr_hideout_qunari         Qunari
+qun231cr_qunari1                Qunari Delegate
+qun231cr_qunari2                Qunari Delegate
+qun231cr_qunari3                Qunari Delegate
+qun231cr_varnell                Ser Varnell
+qun231cr_varnell_minion1        Fanatic
+qun231cr_varnell_minion2        Fanatic
+qun231cr_varnell_minion3        Fanatic
+qun231cr_varnell_minion4        Fanatic
+qun231cr_varnell_minion5        Fanatic
+qun231cr_varnell_minion6        Fanatic
+qun231cr_varnell_minion7        Fanatic
+qun231cr_varnell_minion8        Fanatic
+qun231cr_viscount_guard1        Guard
+qun231cr_viscount_guard2        Guard
+qun231cr_viscount_guard3        Guard
+qun231cr_viscount_guard4        Guard
+qun231ip_chest_a                Chest
+rdr110cr_dockworker             Longshoreman
+rdr110cr_dockworker2            Longshoreman
+rdr110cr_guard_sleeping         Guard
+rdr110cr_guard_warehouse        Guard
+rdr110cr_guard_warehouse2       Guard
+rdr111ar_warehouse              Woodrow's Warehouse
+rdr111cr_assistant              Aden
+rdr111cr_harbormaster           Harbormaster Liam
+rdr111cr_martin                 Martin
+rdr111ip_at_docks               Docks
+rdr111ip_at_warehouse           Woodrow's Warehouse
+rdr111ip_crate_cargo            Crate
+rdr111ip_desk                   Harbormaster's Desk
+rdr111ip_martin_door            Door
+rdr111it_martin_cargo           Sample of Martin's Cargo
+rdrip_store                     Martin's Contraband
+seb000im_gft_bow                Starkhaven Longbow
+seb201cr_allure                 Allure
+seb201cr_lady_harimann          Lady Harimann
+seb220ip_to_harimann_estate     Harimann Estate
+seb221ar_harimann_estate        Harimann Estate
+seb221at_to_ruin                Underground Passage
+seb221cr_brett_harimann         Brett Harimann
+seb221cr_flora_harimann         Flora Harimann
+seb221cr_ruxton_harimann        Ruxton Harimann
+seb221ip_at_hightown            Hightown
+seb222ar_ruin                   Underground Passage
+seb222at_to_estate              Harimann Estate
+seb320ip_at_keep                Viscount's Keep
+seb321ar_keep_nt                Viscount's Keep
+seb321cr_leliana                Leliana
+seb321ip_at_hightown            Hightown
+sebcr_merch_warrior             Flint Company Mercenary
+sebcr_merc_archer               Flint Company Mercenary
+sebcr_merc_archer_f             Flint Company Mercenary
+sebcr_merc_warrior_f            Flint Company Mercenary
+ser110ip_to_foundry             Dark Foundry
+ser111ar_foundry                Dark Foundry
+ser111ip_bone_sack              Sack of Bones
+ser111ip_to_lowtown             Lowtown
+ser111it_ninette_ring           Ninette's Ring
+ser120cr_ghyslain               Ghyslain de Carrac
+ser120cr_market_guard           City Guardsman
+ser120cr_market_guard_talk      City Guardsman
+ser120cr_shade_cut              Shade
+ser120cr_shade_cut2             Shade
+ser120cr_shade_cut3             Shade
+ser120ip_poster                 Help Wanted
+ser121cr_jethann                Jethann
+ser130ar_emeric_encounter       Darktown: Emeric's Investigation
+ser131ip_to_darktown            Meeting Place
+ser131ip_to_darktown_2          Darktown
+ser191cr_emeric                 Emeric
+ser210cr_witness                Urchin
+ser210ip_blood_trail            Trail of Blood
+ser210ip_to_dungeon             Hidden Trapdoor
+ser211ar_dungeon                The Killer's Lair
+ser211ar_foundry                Dark Foundry
+ser211cr_demon_alessa           Possession of Alessa
+ser211cr_demon_leandra          Possession of Leandra
+ser211cr_demon_mharen           Possession of Mharen
+ser211cr_demon_ninette          Possession of Ninette
+ser211cr_mother                 Mother
+ser211ip_blood_trail_2          Trail of Blood
+ser211ip_book                   Book
+ser211ip_dead_alessa            Dead Body
+ser211ip_leave                  Leave Area
+ser211ip_mothers_ring           Locket
+ser211ip_note_circle            Note
+ser211ip_note_scribbles1        Note
+ser211ip_note_scribbles2        Note
+ser211ip_note_scribbles_3       Note
+ser211ip_note_scribbles_4       Note
+ser211ip_to_foundry             Foundry
+ser211ip_to_foundry2            Foundry
+ser211ip_to_gamlens             Gamlen's House
+ser211ip_to_lowtown             Lowtown
+ser220ip_to_estate              DuPuis Estate
+ser221ar_murderer_estate_nt     DuPuis Estate
+ser221cr_gascard                Gascard DuPuis
+ser221cr_hostage                Alessa
+ser221cr_last_corpse            Corpse
+ser221ip_blood_vials            Vials of Blood
+ser221ip_chest_1                Chest
+ser221ip_chest_2                Chest
+ser221ip_chest_clothes          Chest of Clothes
+ser221ip_door_chase1            Door
+ser221ip_door_west              North Wing
+ser221ip_note_meredith          Note
+ser221ip_note_shipment          Note
+ser221ip_note_starkhaven        Note
+ser221ip_to_hightown            Hightown
+ser270cr_emeric                 Emeric
+ser270cr_templar                Moira
+ser270_alley                    Blind Alley
+ser311cr_quentin                Quentin
+sib100im_giftbet_portrait       Portrait of Your Mother
+sib100im_giftcar_letters        Father's Letters
+sib100im_tobriusdocs            Tobrius's Documents
+sib110_carver_tobrius           Tobrius
+sib130ip_at_family_estate       Amell Estate Cellar
+sib131ar_exit_estate            Darktown
+sib131ar_exit_estate2           Hightown
+sib131ar_family_estate          Amell Estate Cellar
+sib131cr_slaver                 Slave Guard
+sib131cr_slaver_b               Slaver Assassin
+sib131cr_slaver_lord            Master Slaver
+sib131cr_slave_a                Slave
+sib131cr_slave_b                Slave
+sib131cr_slave_c                Slave
+sib131im_key_to_cellar          Amell Estate's Cellar Key
+sib131im_key_vault              Vault Key
+sib131im_will                   Grandfather Amell's Will and Testament
+sib131ip_chest_will             Chest
+sib131ip_door_vault             Vault Door
+tbe100ar_emporium               The Black Emporium
+tbe100cr_golem                  Emporium Golem
+tbe100cr_urchin                 Urchin Child
+tbe100ip_free_weapons           Discarded Weapons and Armor
+tbe100ip_mirror_transformat     Stare into the Mirror of Transformation
+tbe100ip_shop_codex             The Basket of Lost Socks
+tbe100ip_shop_codex_10          The Box of Screaming
+tbe100ip_shop_codex_11          Velvet Cailan
+tbe100ip_shop_codex_12          Vessel of Tears
+tbe100ip_shop_codex_2           The Emergent Compendium
+tbe100ip_shop_codex_4           Crate of Live Death Watch Beetles
+tbe100ip_shop_codex_5           Broken Dowsing Rods
+tbe100ip_shop_codex_7           Andraste in Nude Repose
+tbe100ip_shop_codex_8           Chest of Unanswered Invitations
+tbe100ip_shop_codex_9           Pickled Apples of Arlathan
+tbe100ip_store_crafted_good     Emporium's Crafting Materials
+tbe100ip_store_magic_good       Emporium's Relics and Antiques
+tbe100ip_to_world_map           Leave Area
+tbe100ip_xenon                  Xenon the Antiquarian
+vis100ip_bounty_poster          Bounty - Rescue the Viscount's Son
+vis110_commoner1                Lowtown Peasant
+vis110_commoner2                Lowtown Peasant
+vis110_commoner3                Lowtown Peasant
+vis120_commoner1                Hightown Citizen
+vis120_commoner2                Hightown Citizen
+vis120_commoner3                Hightown Citizen
+vis121cr_saemus                 Saemus Dumar
+vis160cr_ginnis                 Ginnis
+vis160cr_winter_archer          Winter Archer
+vis160cr_winter_rogue           Winter Assassin
+vis160cr_winter_warrior         Winter Warrior
+vrc200im_ring_gift              Signet Ring
+vrc220ip_at_mansion             Bartrand's Estate
+vrc221ar_mansion_fake           Bartrand's Estate
+vrc221ar_mansion_real           Bartrand's Estate
+vrc221cr_bartrand               Bartrand
+vrc221cr_bartrand_fake          Bartrand
+vrc221cr_crazed_archer          Crazed Guard
+vrc221cr_crazed_commander       Crazed Commander
+vrc221cr_crazed_warrior         Crazed Guard
+vrc221cr_fake_commander         Guard
+vrc221cr_guards_fake            Guard
+vrc221cr_guard_fake             Guard
+vrc221cr_hugin                  Hugin
+vrc221im_fake_bianca            Bianca
+vrc221ip_at_hightown            Hightown
+vrc320ip_at_mansion             Bartrand's Estate
+vrc321ar_mansion_haunted        Bartrand's Estate
+vrc321cr_golem                  Ethereal Golem
+vrc321cr_golem_guard            Apparition
+vrc321cr_housekeeper            Housekeeper
+vrc321ip_at_hightown            Hightown
+vrc321ip_haunted_door           Door
+vrc321ip_ledger                 Ledger
+zz_amb_beggar                   Beggar
+zz_area_signage1                Qunari Compound
+zz_area_signage10               Isabela's Foundry
+zz_area_signage11               Serial Killer Foundry
+zz_area_signage12               The Hanged Man
+zz_area_signage13               Hightown Market
+zz_area_signage14               Brothel (only open at night)
+zz_area_signage15               The Keep
+zz_area_signage16               Dwarf Guild
+zz_area_signage17               Hightown Store (Hunter and Hunted)
+zz_area_signage2                Lowtown Bazaar
+zz_area_signage3                Gamlen's House
+zz_area_signage4                Abandoned Warehouse (Wayward Son)
+zz_area_signage5                Warehouse (Merchant's Plot)
+zz_area_signage6                Warehouse (Smuggler's Plot)
+zz_area_signage7                Darktown
+zz_area_signage8                Elven Alienage
+zz_area_signage9                Merrill's Shack
+zz_area_signage_18              Warehouse (Hunter and Hunted)
+zz_area_signage_19              The Gallows is Closed at Night
+zz_area_signage_20              Anders's Base
+zz_combat_demo                  Gallows Courtyard
+zz_combat_demo_start            Start Combat
+zz_crowd_1                      Crowd Male 1
+zz_crowd_2                      Crowd Male 2
+zz_dae000ip_letter_desk         Letters for the Player
+zz_facefx_test                  zz_facefx_test
+zz_gen_im_trs_krk_low_sword     Rusty Longsword
+zz_ip_at_to_encounter           DELETE ME
+zz_mer120ip_at_bone_pit         The Bone Pit
+zz_mrl150ip_fence               Debug Fence
+zz_mrl150ip_stage               Debug Fence
+zz_mrl150ip_torchmarker         Debug Torch Marker
+zz_qa_open                      Open Bug
+zz_qa_resolved                  Resolved Bug
+zz_spy121cr_cordy               Cordelia
+zz_spy121cr_jalen               Lieutenant Jalen
+zz_spy130cr_bookerthug          Darktown Thug
+zz_spy130cr_darktown_res_1      Darktown Resident
+zz_spy130cr_darktown_res_2      Darktown Resident
+zz_spy130cr_darktown_res_3      Darktown Resident
+zz_spy130cr_morton              Mad Marta
+zz_spy131cr_booker_thug2        Street Thug
+zz_spy132cr_booker              Booker
+zz_spy133cr_disciple            Disciple
+zz_spy133cr_slave               Slave
+zz_start_dre                    DEBUG - Click to advance Crit Path plot
+zz_start_mcr                    DEBUG - Click to advance Crit Path plot
+zz_start_qcr                    DEBUG - Click to advance Crit Path plot
+zz_stever_test                  Female Warrior - LOCKED
