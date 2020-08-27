@@ -18,7 +18,8 @@ before you can run the code, you should have access to the original game files f
 ## Scientific paper
 
 This repository is for the research paper *Fantastic Strings and Where to Find Them: The Quest for High-Quality Video Game Text Corpora*, 
-to appear in the proceedings of [INT 2020](https://sites.google.com/view/int2020/home).
+to appear in the proceedings of [INT 2020](https://sites.google.com/view/int2020/home). 
+[Preprint version of the paper](https://judithvanstegeren.com/assets/2008-vanstegeren2020fantastic-preprint.pdf).
 If you use the data or code, please cite the following paper:
 
 ```
