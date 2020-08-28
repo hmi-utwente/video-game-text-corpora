@@ -59,5 +59,5 @@ You can use the talktable (decompressed version of swkotor/dialog.tlk) file in t
 $ cd ../src
 $ python2
 >>> import char_dialog_pipeline as pipe
->>> pipe.main()
+>>> dataset = pipe.create_dataset()
 ```
