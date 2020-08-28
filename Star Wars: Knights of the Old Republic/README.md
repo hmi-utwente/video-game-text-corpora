@@ -1,4 +1,33 @@
 # Star Wars: Knights of the Old Republic 
+Video game corpus (text dataset) of dialog lines from RPG game Star Wars: Knights of the Old Republic by BioWare and LucasArts.
+
+## About the game
+Star Wars: Knights of the Old Republic (2003) is an RPG by LucasArts and BioWare. 
+Although it’s a few decades old, it’s still popular because of the high-quality writing and voice-acting. 
+The game is special because the story works with branching dialogue: during conversations with NPCs, the player can choose how to react.
+
+The player character can choose to help someone or ignore them, tell the truth or lie, befriend someone or kill them. 
+Choices have consequences for the game’s story. The player’s (moral) alignment, ranging from good/jedi to evil/sith, is a result of all these micro-choices, and you get a storyline and in-game force powers according to your alignment.
+
+To see all the different dialogue options and all possible conversations, story lines and endings, players would need to play the game several times, each time making different choices.
+
+To use KOTOR dialogue for my research, I extracted the game dialogue from the game and convert it to plain text.
+
+## What's in the dataset?
+Each datapoint (row) in the dataset (csv file) is one line of dialogue from Star Wars: Knights of the Old Republic.
+
+Each datapoint has these columns:
+- id: unique numerical identifier (assigned during dataset creation, has no meaning in the game)
+- speaker: human readable name of the character that speaks the line. For NPCs: [firstname] + [lastname]. For PC: Player. 
+- listener: human readable name of the character the speaker is speaking to. Probably used for head-turning 3D animations as well.
+- text: dialogue line
+- animation: animations that should be played for conversation participants. Might contain data for other characters (not speaker or listener) as well.
+- comment: game developer/writer comments for this dialogue line
+- next: possible follow-up dialogue lines (branching dialogue). Either the Player can choose, or the game uses conditional logic to choose.
+- previous: the dialogue lines that possibly preceeded this line.
+- source_dlg: the .dlg file from which this dialogue line is extracted. Generally there is 1 .dlg per character per planet. 
+- audiofile: some dialogue lines have associated audio files with recordings of the voice actor. Extracting audio files is not (yet) covered in the instructions of this repo yet. 
+
 
 ## Creating the dataset from scratch
 How to do data extraction from KOTOR:
