@@ -32,6 +32,9 @@ If you use the data or code, please cite the following paper:
     publisher = {AAAI Press},
 }
 ```
+
+## Games
+
 The corpora were extracted from three commercial video games. The games and the game assets are copyright the respective game publishers and game developers. If you use the datasets, don't forget to cite the games too!
 ```
 @misc{game:starwarsknightsoftheoldrepublic,
