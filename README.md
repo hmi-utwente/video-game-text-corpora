@@ -32,3 +32,36 @@ If you use the data or code, please cite the following paper:
     publisher = {AAAI Press},
 }
 ```
+The corpora were extracted from three commercial video games. The games and the game assets are copyright the respective game publishers and game developers. If you use the datasets, don't forget to cite the games too!
+```
+@misc{game:starwarsknightsoftheoldrepublic,
+title = {\emph{Star Wars: Knights of the Old Republic}},
+year = {2003},
+organization = {LucasArts},
+publisher = {LucasArts},
+author = {{BioWare}},
+Howpublished = {Game [PC]},
+Note = {LucasArts, San Francisco, US},
+}
+
+@misc{game:torchlight2,
+title = {\emph{Torchlight II}},
+year = {2012},
+organization = {Runic Games},
+publisher = {Runic Games},
+author = {{Runic Games}},
+Howpublished = {Game [PC]},
+Note = {Runic Games, Seattle, Washington, US},
+}
+
+@misc{gamesseries:tes,
+title = {\emph{The Elder Scrolls I-V} and \emph{The Elder Scrolls Online}},
+date = {1994/2014},
+year = {1994--2014},
+organization = {Bethesda Softworks},
+publisher = {Bethesda Softworks},
+author = {{Bethesda Softworks}},
+Howpublished = {Game series [PC]},
+Note = {Bethesda Softworks, Rockville, Maryland, US},
+}
+```
