@@ -32,6 +32,7 @@ Each datapoint has these columns:
 ## Creating the dataset from scratch
 How to do data extraction from KOTOR:
 
+0. Install Star Wars: Knights of the Old Republic on your computer. 
 1. clone this repo and navigate to SW:KOTOR folder
 ```
 $ git clone https://github.com/hmi-utwente/video-game-text-corpora.git
@@ -42,7 +43,7 @@ $ cd video-game-text-corpora/
 $ git clone https://github.com/xoreos/xoreos-tools.git
 $ cd xoreos-tools/
 $ sudo pacman -S zlib xz libxml2 boost boost-libs
-$ /autogen.sh && ./configure && make
+$ ./autogen.sh && ./configure && make
 ```
 3. install python2 (if you don't have it already)
 4. make a copy of your swkotor/ installation folder
