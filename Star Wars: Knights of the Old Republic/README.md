@@ -37,7 +37,7 @@ How to do data extraction from KOTOR:
 $ git clone https://github.com/hmi-utwente/video-game-text-corpora.git
 $ cd video-game-text-corpora/
 ```
-2. install [xoreos-tools](). More installation info on the xoreos-wiki.
+2. install [xoreos-tools](https://github.com/xoreos/xoreos-tools). More installation info on the [xoreos-wiki](https://wiki.xoreos.org/).
 ```
 $ git clone https://github.com/xoreos/xoreos-tools.git
 $ cd xoreos-tools/
@@ -53,8 +53,8 @@ $ cd extracted
 $ for file in `ls ../swkotor/modules/*_s.rim`;do ../xoreos-tools/src/unrim e $file;done
 $ ../xoreos-tools/src/unkeybif e ../swkotor/chitin.key ../swkotor/data/templates.bif
 ```
-6. use my script to parse all dlg and utc files and re-assemble the dialogue trees from the game files. 
-You can use the talktable (decompressed version of swkotor/dialog.tlk) file in the date folder of my repository.
+6. use my script to parse all `.dlg` and `.utc` files and re-assemble the dialogue trees from the game files. 
+You can use the talktable file in the `data/` folder of my repository. This is the decompressed version of `swkotor/dialog.tlk`.
 ```
 $ cd ../src
 $ python2
